@@ -1,10 +1,10 @@
 import asyncio
 from functools import wraps
-from getpass import getpass
-
+from pos_api.fixtures.utils import (
+    drop_database,
+    inject_fixtures
+)
 import click
-from fastapi_users.password import get_password_hash
-from pos_api.app import create_app
 
 
 def coroutine(f):
@@ -21,6 +21,7 @@ def cli():
 @cli.command()
 @coroutine
 async def database_defaults():
+    await inject_fixtures()
     click.echo("initialised database")
 
 

@@ -1,0 +1,11 @@
+[
+    {
+        "email": "szymonbetk@gmail.com",
+        "is_superuser": true,
+        "password": "jajco123"
+    },
+    {
+        "email": "user@test.com",
+        "password": "jajco123"
+    }
+]
