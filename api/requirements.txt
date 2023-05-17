@@ -1,0 +1,16 @@
+pandas<2
+numpy
+requests==2.25.1
+click==7.1.2
+fastapi==0.63.0
+uvicorn==0.13.3
+fastapi-users[mongodb,oauth]==5.1.0
+mongoengine>=0.22.1
+pymongo>=3.11.3
+motor==2.3.1
+arrow==0.15.8
+aiofiles==0.6.0
+python-dotenv==0.13.0
+httptools
+flower==1.0.0
+ipython==7.34.0
