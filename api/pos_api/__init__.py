@@ -11,6 +11,6 @@ except DistributionNotFound:
     pass
 
 
-dotenv_path = Path(environ.get("VIRTUAL_ENV", "")) / "galileo_forms.conf"
+dotenv_path = Path(environ.get("VIRTUAL_ENV", "")) / "pos.conf"
 if dotenv_path.is_file():
     load_dotenv(dotenv_path=dotenv_path)

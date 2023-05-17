@@ -1,2 +1,2 @@
-graft galileo_forms_pkg
+graft pos_pkg
 global-exclude *.py[cod] __pycache__ *.so

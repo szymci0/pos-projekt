@@ -51,7 +51,7 @@ def register_routes():
 
 def run_dev_server():
     uvicorn.run(
-        app="galileo_forms_api.app:app",
+        app="pos_api.app:app",
         host="0.0.0.0",
         port=5000,
         reload=True,
