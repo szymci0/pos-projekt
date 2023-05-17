@@ -33,4 +33,9 @@ setup(
     packages=find_packages(exclude=['pkg.pos_pkg']),
     include_package_data=True,
     zip_safe=False,
+    entry_points={
+        "console_scripts": [
+            "pos_apicli = pos_api.cli:cli",
+        ]
+    },
 )

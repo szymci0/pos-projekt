@@ -12,4 +12,6 @@ dev_install:
 
 dev_run:
 	@python pos_api/app.py
-	
+
+db_fixtures_load:
+	@pos_apicli database-defaults
