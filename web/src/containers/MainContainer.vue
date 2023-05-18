@@ -1,8 +1,8 @@
 <template>
     <div class="p-app">
-        <div class="p-header">
-            <span>header {{ user.email }}</span>
-        </div>
+        <NavBar
+
+        />
         <div class="p-body">
             <main class="p-main">
                 <router-view :key="$route.path"></router-view>
@@ -15,9 +15,10 @@
 </template>
 <script>
 import { ActiveUser } from '@/services/user';
-
+import NavBar from '@/containers/NavBar'
 export default {
     name: 'MainContainer',
+    components: { NavBar},
     data() {
         return {
             user: {}
