@@ -19,6 +19,9 @@
     </div>
 </template>
 <script>
+import { ActiveUser } from '@/services/user';
+import { AuthService } from '@/services/auth';
+
 export default {
     name: 'LoginView',
     data() {
@@ -27,14 +30,30 @@ export default {
             passwordLogin: '',
         }
     },
+    mounted() {
+        this.redirectAuthenticated();
+    },
     methods: {
-        logIn() {
-            console.log('todologin')
-            console.log(this.emailLogin);
-            console.log(this.passwordLogin);
+        redirectAfterLogin() {
+            const pathToLoadAfterLogin = localStorage.getItem('pathToLoadAfterLogin');
+            localStorage.removeItem('pathToLoadAfterLogin');
+            this.$router.replace((!pathToLoadAfterLogin?.includes("login") && pathToLoadAfterLogin) || '/');
+        },
+        redirectAuthenticated() {
+            if (ActiveUser.get()) this.redirectAfterLogin()
+        },
+        async logIn() {
+            const {res} = await AuthService.login({
+                email: this.emailLogin,
+                password: this.passwordLogin,
+            });
+            if (res.status !== 200) {
+                return alert('Login failed!')
+            }
+            this.redirectAuthenticated();
         },
         signUp() {
-            console.log('todosignup')
+            return alert('TOBEDONE');
         }
     }
 }
