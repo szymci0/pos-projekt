@@ -13,6 +13,7 @@
 </template>
 <script>
 import { ActiveUser } from '@/services/user';
+import { positionService } from '@/services/positions';
 import NavBar from '@/containers/NavBar'
 export default {
     name: 'MainContainer',
@@ -22,8 +23,10 @@ export default {
             user: {}
         }
     },
-    mounted() {
+    async mounted() {
         this.user = ActiveUser.get();
+        const { data } = await positionService.getPositions();
+        console.log(data);
     }
 
 }
