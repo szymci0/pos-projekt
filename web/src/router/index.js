@@ -90,9 +90,6 @@ function configRoutes() {
     {
       path: "/:pathMatch(.*)*",
       name: 'NotFound',
-      meta: {
-        isOpenAccess: true,
-      },
       component: Page404,
     }
   ]
