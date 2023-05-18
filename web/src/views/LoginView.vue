@@ -1,8 +1,8 @@
 <template>
     <div class="p-app">
-        <div class="d-flex justify-content-center">
+        <div class="d-flex justify-content-center align-items-center h-100">
             <div class="formulaire">
-                <h2 class="mb-4">SIGN IN</h2>
+                <h1 class="mb-4">Welcome</h1>
                 <form class="form-group">
                     <input v-model="emailLogin" placeholder="Email" type="email" required />
                     <input v-model="passwordLogin" placeholder="Password" type="password" required />
@@ -66,20 +66,11 @@ export default {
     align-items: center;
     background-color: #F4D03F;
     width: 500px;
-    background-image: linear-gradient(-132deg, #F4D03F 10%, #16A085 100%);
-    background-size: 100%;
+    background-color: #006A4E;
     opacity: 80%;
     overflow: hidden;
     padding: 20px;
-    border-radius: 3%;
-    border: 20px solid white;
     color: white;
-    transition: all 1s linear;
-
-    &:hover {
-        transition: all 1s linear;
-        background-size: 300%;
-    }
 }
 
 .form-group {
