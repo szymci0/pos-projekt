@@ -1,25 +1,101 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
-import HomeView from '../views/HomeView.vue'
+import { ActiveUser } from "@/services/user";
+import { h,resolveComponent } from 'vue';
 
-const routes = [
-  {
-    path: '/',
-    name: 'home',
-    component: HomeView
-  },
-  {
-    path: '/about',
-    name: 'about',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/AboutView.vue')
-  }
-]
+const MainContainer = () => import("@/containers/MainContainer");
+const HomeView = () => import('@/views/HomeView');
+const PositionsView = () => import('@/views/PositionsView')
+
+const LoginView = () => import('@/views/LoginView');
+const Page404 = () => import('@/views/PageNotFound')
+
 
 const router = createRouter({
+  mode: 'history',
+  linkActiveClass: 'active',
+  scrollBehaviour: () => ({ y: 0 }),
+  routes: configRoutes(),
   history: createWebHashHistory(),
-  routes
-})
+});
 
+const isOpenAccess = (route) => route.matched.some((route) => route.meta?.isOpenAccess);
+
+const isFound = (route) => route.matched[0].name !== "NotFound";
+
+router.beforeEach((to, from, next) => {
+  if(to.meta?.getTitle) to.meta.title = to.meta.getTitle(to);
+  const isAuthenticated = ActiveUser.get();
+  if (!isAuthenticated && !isOpenAccess(to)) {
+    if (isFound(to)) {
+      localStorage.setItem('patToLoadAfterLogin', to.path);
+    }
+    return next({ name: 'ManagementLogin'});
+  }
+  return next();
+});
 export default router
+
+function configRoutes() {
+  return [
+    {
+      path: '/',
+      name: 'Home',
+      component: MainContainer,
+      meta: {
+        label: "Home",
+      },
+      children: [
+        {
+          path: 'home',
+          component: HomeView
+        },
+        {
+          path: 'positions',
+          component: PositionsView
+        }
+      ]
+    },
+    {
+      path: '/account',
+      name: 'account',
+      meta: {
+        isOpenAccess: true,
+      },
+      component: {
+        render() {
+          return h(resolveComponent('router-view'));
+        },
+      },
+      children: [
+        {
+          path: 'login',
+          name: 'Login',
+          component: LoginView,
+        },
+        // {
+        //   path: 'forgot',
+        //   name: 'Forgot password',
+        //   component: ForgotPassword,
+        // },
+        // {
+        //   path: 'reset/:token',
+        //   name: 'Password reset',
+        //   component: ResetPassword,
+        // },
+        {
+          path: 'login_management',
+          name: 'ManagementLogin',
+          component: LoginView,
+          props: {
+            show_email_login: true
+          }
+        },
+      ],
+    },
+    {
+      path: "/:pathMatch(.*)*",
+      name: 'NotFound',
+      component: Page404,
+    }
+  ]
+}
