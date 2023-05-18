@@ -1,7 +1,7 @@
 <template>
     <div class="p-app">
         <div class="p-header">
-            <span>header</span>
+            <span>header {{ user.email }}</span>
         </div>
         <div class="p-body">
             <main class="p-main">
@@ -14,7 +14,18 @@
     </div>
 </template>
 <script>
+import { ActiveUser } from '@/services/user';
+
 export default {
     name: 'MainContainer',
+    data() {
+        return {
+            user: {}
+        }
+    },
+    mounted() {
+        this.user = ActiveUser.get();
+    }
+
 }
 </script>
