@@ -4,6 +4,7 @@ import { h,resolveComponent } from 'vue';
 
 const MainContainer = () => import("@/containers/MainContainer");
 const HomeView = () => import('@/views/HomeView');
+const PositionsView = () => import('@/views/PositionsView')
 
 const LoginView = () => import('@/views/LoginView');
 const Page404 = () => import('@/views/PageNotFound')
@@ -47,6 +48,10 @@ function configRoutes() {
         {
           path: 'home',
           component: HomeView
+        },
+        {
+          path: 'positions',
+          component: PositionsView
         }
       ]
     },
