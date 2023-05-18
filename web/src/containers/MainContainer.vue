@@ -1,15 +1,13 @@
 <template>
     <div class="p-app">
-        <NavBar
-
-        />
+        <NavBar/>
         <div class="p-body">
             <main class="p-main">
                 <router-view :key="$route.path"></router-view>
             </main>
         </div>
         <div class="p-footer">
-            <span>footer</span>
+            <span>Projekt POS 2023</span>
         </div>
     </div>
 </template>
