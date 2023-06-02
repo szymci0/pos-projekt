@@ -44,11 +44,13 @@ def register_routes():
     from pos_api.endpoints import (
         users,
         position,
+        county,
     )
     users.register_routes(app)
 
     app.include_router(users.router)
     app.include_router(position.router)
+    app.include_router(county.router)
 
 
 def run_dev_server():
