@@ -43,7 +43,7 @@ async def inject_counties():
     counties_df = pd.read_feather(Path(resource_filename(__name__, "county_TERYT.feather")))
     counties = counties_df.to_dict(orient="records")
     for county in counties:
-        County(**county).save()
+        County(name=county["name"], teryt=str(county["teryt"])).save()
     print(f"Injected counties TERYT information")
 
 
