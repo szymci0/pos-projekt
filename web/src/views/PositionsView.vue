@@ -9,12 +9,16 @@
             {{ position.x }}
             {{ position.y }}
         </div>
+        <MapComponent/>
     </div>
 </template>
 <script>
 import { positionService } from '@/services/positions';
+import MapComponent from '@/components/MapComponent';
+
 export default {
     name: "PositionsView",
+    components: {MapComponent},
     data() {
         return {
             positionsList: []
