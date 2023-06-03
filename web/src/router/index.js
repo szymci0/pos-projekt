@@ -4,10 +4,11 @@ import { h,resolveComponent } from 'vue';
 
 const MainContainer = () => import("@/containers/MainContainer");
 const HomeView = () => import('@/views/HomeView');
-const PositionsView = () => import('@/views/PositionsView')
+const PositionsView = () => import('@/views/PositionsView');
+const AboutView = () => import('@/views/AboutView');
 
 const LoginView = () => import('@/views/LoginView');
-const Page404 = () => import('@/views/PageNotFound')
+const Page404 = () => import('@/views/PageNotFound');
 
 
 const router = createRouter({
@@ -52,6 +53,10 @@ function configRoutes() {
         {
           path: 'positions',
           component: PositionsView
+        },
+        {
+          path: 'about',
+          component: AboutView
         }
       ]
     },
