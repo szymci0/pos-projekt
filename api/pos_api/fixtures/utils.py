@@ -40,7 +40,7 @@ async def inject_positions():
 
 
 async def inject_counties():
-    counties_df = pd.read_feather(Path(resource_filename(__name__, "county_TERYT.feather")))
+    counties_df = pd.read_feather(Path(resource_filename(__name__, "county_TERYT2.feather")))
     counties = counties_df.to_dict(orient="records")
     for county in counties:
         County(name=county["name"], teryt=str(county["teryt"])).save()
