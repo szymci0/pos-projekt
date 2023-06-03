@@ -14,3 +14,8 @@ def list_counties():
         "name": county.name,
         "TERYT": county.teryt,
     } for county in County.objects.all()]
+
+
+@router.get("/{teryt}")
+def get_county_name(teryt: str):
+    return County.objects(teryt=teryt).get().name

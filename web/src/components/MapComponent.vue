@@ -1,17 +1,24 @@
 <template>
     <div>
         <div>
-            <MapSVG class="map-svg" />
+            <MapSVG @click="handleClick($event)" class="map-svg" />
         </div>
     </div>
 </template>
   
 <script>
 import MapSVG from '@/components/MapSVG';
+import { countyService } from '@/services/county';
 
 export default {
     name: 'MapComponent',
-    components: { MapSVG }
+    components: { MapSVG },
+    methods: {
+        async handleClick(e) {
+            const name = await countyService.getCountyByTeryt(e.target.id);
+            console.log(name);
+        }
+    }
 }
 </script>
   
