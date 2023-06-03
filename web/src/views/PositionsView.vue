@@ -1,19 +1,10 @@
 <template>
-    <div>
-        <div 
-        class="d-flex flex-column align-items-center" 
-        v-for="position in positionsList"
-        :key="position.x"
-        >
-            {{ position.email }}
-            {{ position.x }}
-            {{ position.y }}
-        </div>
+    <div class="d-flex justify-content-center p-5">
         <MapComponent/>
     </div>
 </template>
 <script>
-import { positionService } from '@/services/positions';
+
 import MapComponent from '@/components/MapComponent';
 
 export default {
@@ -24,8 +15,5 @@ export default {
             positionsList: []
         }
     },
-    async mounted() {
-        this.positionsList = await positionService.getPositions();
-    }
 }
 </script>
