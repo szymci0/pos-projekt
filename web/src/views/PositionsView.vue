@@ -1,6 +1,9 @@
 <template>
-    <div class="d-flex justify-content-center p-5">
-        <MapComponent/>
+    <div class="d-flex flex-column justify-content-start align-items-center p-5">
+        <h2>{{ countyName }}</h2>
+        <MapComponent
+            @county-click="setCounty"
+        />
     </div>
 </template>
 <script>
@@ -12,8 +15,13 @@ export default {
     components: {MapComponent},
     data() {
         return {
-            positionsList: []
+            countyName: 'Click to display county name'
         }
     },
+    methods: {
+        setCounty(name) {
+            this.countyName = name;
+        }
+    }
 }
 </script>
