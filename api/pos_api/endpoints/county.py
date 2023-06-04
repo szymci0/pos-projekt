@@ -24,6 +24,7 @@ def get_county_name(teryt: str):
 
 @router.get("/name/{name}")
 def get_county_teryt(name: str):
+    name = " ".join(part.capitalize() for part in name.split(" "))
     counties = County.objects(name=name)
     if not len(counties):
         raise HTTPException(404, "County not found!")
