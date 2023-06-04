@@ -3,7 +3,8 @@ import { request } from "@/utils/request";
 
 export const COUNTY_ENDPOINTS = {
     list: `${BASE_URL}api/county`,
-    by_teryt: (teryt) => `${BASE_URL}api/county/${teryt}`,  
+    by_teryt: (teryt) => `${BASE_URL}api/county/${teryt}`,
+    by_name: (name) => `${BASE_URL}api/county/name/${name}`,
 }
 
 class County {
@@ -17,6 +18,13 @@ class County {
     async getCountyByTeryt(teryt) {
         const { data } = await request({
             url: COUNTY_ENDPOINTS.by_teryt(teryt)
+        });
+        return data
+    }
+
+    async getCountyByName(name) {
+        const { data } = await request({
+            url: COUNTY_ENDPOINTS.by_name(name)
         });
         return data
     }

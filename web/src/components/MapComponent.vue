@@ -17,7 +17,7 @@ export default {
         async handleClick(e) {
             const name = await countyService.getCountyByTeryt(e.target.id);
             this.$emit('county-click', name);
-        }
+        },
     }
 }
 </script>
