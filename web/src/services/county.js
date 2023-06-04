@@ -21,13 +21,6 @@ class County {
         });
         return data
     }
-
-    async getCountyByName(name) {
-        const { data } = await request({
-            url: COUNTY_ENDPOINTS.by_name(name)
-        });
-        return data
-    }
 }
 
 export const countyService = new County()
