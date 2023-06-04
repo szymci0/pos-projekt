@@ -9,7 +9,6 @@ class User {
   user = null;
 
   get() {
-    console.log('user')
     if (this.user) {
       return this.user;
     }
@@ -38,7 +37,6 @@ class User {
   async set(value) {
     localStorage.setItem(userKey, JSON.stringify(value));
     if (value.accessToken) {
-      // lazy-table requires access_token
       localStorage.setItem("access_token", value.accessToken);
     }
     const userInfo = await users.getActiveUserInfo();

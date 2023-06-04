@@ -1,0 +1,9910 @@
+[
+    {
+        "teryt": "0201011",
+        "name": " Boles\u0142awiec"
+    },
+    {
+        "teryt": "0201022",
+        "name": " Boles\u0142awiec"
+    },
+    {
+        "teryt": "0201032",
+        "name": " Gromadka"
+    },
+    {
+        "teryt": "0201043",
+        "name": " Nowogrodziec"
+    },
+    {
+        "teryt": "0201052",
+        "name": " Osiecznica"
+    },
+    {
+        "teryt": "0201062",
+        "name": " Warta Boles\u0142awiecka"
+    },
+    {
+        "teryt": "0202011",
+        "name": " Bielawa"
+    },
+    {
+        "teryt": "0202021",
+        "name": " Dzier\u017coni\u00f3w"
+    },
+    {
+        "teryt": "0202033",
+        "name": " Pieszyce"
+    },
+    {
+        "teryt": "0202041",
+        "name": " Pi\u0142awa G\u00f3rna"
+    },
+    {
+        "teryt": "0202052",
+        "name": " Dzier\u017coni\u00f3w"
+    },
+    {
+        "teryt": "0202062",
+        "name": " \u0141agiewniki"
+    },
+    {
+        "teryt": "0202073",
+        "name": " Niemcza"
+    },
+    {
+        "teryt": "0203011",
+        "name": " G\u0142og\u00f3w"
+    },
+    {
+        "teryt": "0203022",
+        "name": " G\u0142og\u00f3w"
+    },
+    {
+        "teryt": "0203032",
+        "name": " Jerzmanowa"
+    },
+    {
+        "teryt": "0203042",
+        "name": " Kotla"
+    },
+    {
+        "teryt": "0203052",
+        "name": " P\u0119c\u0142aw"
+    },
+    {
+        "teryt": "0203062",
+        "name": " \u017bukowice"
+    },
+    {
+        "teryt": "0204013",
+        "name": " G\u00f3ra"
+    },
+    {
+        "teryt": "0204022",
+        "name": " Jemielno"
+    },
+    {
+        "teryt": "0204032",
+        "name": " Niechl\u00f3w"
+    },
+    {
+        "teryt": "0204043",
+        "name": " W\u0105sosz"
+    },
+    {
+        "teryt": "0205011",
+        "name": " Jawor"
+    },
+    {
+        "teryt": "0205023",
+        "name": " Bolk\u00f3w"
+    },
+    {
+        "teryt": "0205032",
+        "name": " M\u0119cinka"
+    },
+    {
+        "teryt": "0205042",
+        "name": " M\u015bciwoj\u00f3w"
+    },
+    {
+        "teryt": "0205052",
+        "name": " Paszowice"
+    },
+    {
+        "teryt": "0205062",
+        "name": " W\u0105dro\u017ce Wielkie"
+    },
+    {
+        "teryt": "0206011",
+        "name": " Karpacz"
+    },
+    {
+        "teryt": "0206021",
+        "name": " Kowary"
+    },
+    {
+        "teryt": "0206031",
+        "name": " Piechowice"
+    },
+    {
+        "teryt": "0206041",
+        "name": " Szklarska Por\u0119ba"
+    },
+    {
+        "teryt": "0206052",
+        "name": " Janowice Wielkie"
+    },
+    {
+        "teryt": "0206062",
+        "name": " Je\u017c\u00f3w Sudecki"
+    },
+    {
+        "teryt": "0206072",
+        "name": " Mys\u0142akowice"
+    },
+    {
+        "teryt": "0206082",
+        "name": " Podg\u00f3rzyn"
+    },
+    {
+        "teryt": "0206092",
+        "name": " Stara Kamienica"
+    },
+    {
+        "teryt": "0207011",
+        "name": " Kamienna G\u00f3ra"
+    },
+    {
+        "teryt": "0207022",
+        "name": " Kamienna G\u00f3ra"
+    },
+    {
+        "teryt": "0207033",
+        "name": " Lubawka"
+    },
+    {
+        "teryt": "0207042",
+        "name": " Marcisz\u00f3w"
+    },
+    {
+        "teryt": "0208011",
+        "name": " Duszniki-Zdr\u00f3j"
+    },
+    {
+        "teryt": "0208021",
+        "name": " K\u0142odzko"
+    },
+    {
+        "teryt": "0208031",
+        "name": " Kudowa-Zdr\u00f3j"
+    },
+    {
+        "teryt": "0208041",
+        "name": " Nowa Ruda"
+    },
+    {
+        "teryt": "0208051",
+        "name": " Polanica-Zdr\u00f3j"
+    },
+    {
+        "teryt": "0208063",
+        "name": " Bystrzyca K\u0142odzka"
+    },
+    {
+        "teryt": "0208072",
+        "name": " K\u0142odzko"
+    },
+    {
+        "teryt": "0208083",
+        "name": " L\u0105dek-Zdr\u00f3j"
+    },
+    {
+        "teryt": "0208092",
+        "name": " Lewin K\u0142odzki"
+    },
+    {
+        "teryt": "0208103",
+        "name": " Mi\u0119dzylesie"
+    },
+    {
+        "teryt": "0208112",
+        "name": " Nowa Ruda"
+    },
+    {
+        "teryt": "0208123",
+        "name": " Radk\u00f3w"
+    },
+    {
+        "teryt": "0208133",
+        "name": " Stronie \u015al\u0105skie"
+    },
+    {
+        "teryt": "0208143",
+        "name": " Szczytna"
+    },
+    {
+        "teryt": "0209011",
+        "name": " Chojn\u00f3w"
+    },
+    {
+        "teryt": "0209022",
+        "name": " Chojn\u00f3w"
+    },
+    {
+        "teryt": "0209032",
+        "name": " Krotoszyce"
+    },
+    {
+        "teryt": "0209042",
+        "name": " Kunice"
+    },
+    {
+        "teryt": "0209052",
+        "name": " Legnickie Pole"
+    },
+    {
+        "teryt": "0209062",
+        "name": " Mi\u0142kowice"
+    },
+    {
+        "teryt": "0209073",
+        "name": " Prochowice"
+    },
+    {
+        "teryt": "0209082",
+        "name": " Ruja"
+    },
+    {
+        "teryt": "0210011",
+        "name": " Luba\u0144"
+    },
+    {
+        "teryt": "0210021",
+        "name": " \u015awierad\u00f3w-Zdr\u00f3j"
+    },
+    {
+        "teryt": "0210033",
+        "name": " Le\u015bna"
+    },
+    {
+        "teryt": "0210042",
+        "name": " Luba\u0144"
+    },
+    {
+        "teryt": "0210053",
+        "name": " Olszyna"
+    },
+    {
+        "teryt": "0210062",
+        "name": " Plater\u00f3wka"
+    },
+    {
+        "teryt": "0210072",
+        "name": " Siekierczyn"
+    },
+    {
+        "teryt": "0211011",
+        "name": " Lubin"
+    },
+    {
+        "teryt": "0211022",
+        "name": " Lubin"
+    },
+    {
+        "teryt": "0211032",
+        "name": " Rudna"
+    },
+    {
+        "teryt": "0211043",
+        "name": " \u015acinawa"
+    },
+    {
+        "teryt": "0212013",
+        "name": " Gryf\u00f3w \u015al\u0105ski"
+    },
+    {
+        "teryt": "0212023",
+        "name": " Lubomierz"
+    },
+    {
+        "teryt": "0212033",
+        "name": " Lw\u00f3wek \u015al\u0105ski"
+    },
+    {
+        "teryt": "0212043",
+        "name": " Mirsk"
+    },
+    {
+        "teryt": "0212053",
+        "name": " Wle\u0144"
+    },
+    {
+        "teryt": "0213012",
+        "name": " Cieszk\u00f3w"
+    },
+    {
+        "teryt": "0213022",
+        "name": " Kro\u015bnice"
+    },
+    {
+        "teryt": "0213033",
+        "name": " Milicz"
+    },
+    {
+        "teryt": "0214011",
+        "name": " Ole\u015bnica"
+    },
+    {
+        "teryt": "0214023",
+        "name": " Bierut\u00f3w"
+    },
+    {
+        "teryt": "0214032",
+        "name": " Dobroszyce"
+    },
+    {
+        "teryt": "0214042",
+        "name": " Dziadowa K\u0142oda"
+    },
+    {
+        "teryt": "0214053",
+        "name": " Mi\u0119dzyb\u00f3rz"
+    },
+    {
+        "teryt": "0214062",
+        "name": " Ole\u015bnica"
+    },
+    {
+        "teryt": "0214073",
+        "name": " Syc\u00f3w"
+    },
+    {
+        "teryt": "0214083",
+        "name": " Twardog\u00f3ra"
+    },
+    {
+        "teryt": "0215011",
+        "name": " O\u0142awa"
+    },
+    {
+        "teryt": "0215022",
+        "name": " Domani\u00f3w"
+    },
+    {
+        "teryt": "0215033",
+        "name": " Jelcz-Laskowice"
+    },
+    {
+        "teryt": "0215042",
+        "name": " O\u0142awa"
+    },
+    {
+        "teryt": "0216013",
+        "name": " Chocian\u00f3w"
+    },
+    {
+        "teryt": "0216022",
+        "name": " Gaworzyce"
+    },
+    {
+        "teryt": "0216032",
+        "name": " Gr\u0119bocice"
+    },
+    {
+        "teryt": "0216043",
+        "name": " Polkowice"
+    },
+    {
+        "teryt": "0216053",
+        "name": " Przemk\u00f3w"
+    },
+    {
+        "teryt": "0216062",
+        "name": " Radwanice"
+    },
+    {
+        "teryt": "0217012",
+        "name": " Bor\u00f3w"
+    },
+    {
+        "teryt": "0217022",
+        "name": " Kondratowice"
+    },
+    {
+        "teryt": "0217032",
+        "name": " Przeworno"
+    },
+    {
+        "teryt": "0217043",
+        "name": " Strzelin"
+    },
+    {
+        "teryt": "0217053",
+        "name": " Wi\u0105z\u00f3w"
+    },
+    {
+        "teryt": "0218012",
+        "name": " Kostom\u0142oty"
+    },
+    {
+        "teryt": "0218022",
+        "name": " Malczyce"
+    },
+    {
+        "teryt": "0218032",
+        "name": " Mi\u0119kinia"
+    },
+    {
+        "teryt": "0218043",
+        "name": " \u015aroda \u015al\u0105ska"
+    },
+    {
+        "teryt": "0218052",
+        "name": " Udanin"
+    },
+    {
+        "teryt": "0219011",
+        "name": " \u015awidnica"
+    },
+    {
+        "teryt": "0219021",
+        "name": " \u015awiebodzice"
+    },
+    {
+        "teryt": "0219032",
+        "name": " Dobromierz"
+    },
+    {
+        "teryt": "0219043",
+        "name": " Jaworzyna \u015al\u0105ska"
+    },
+    {
+        "teryt": "0219052",
+        "name": " Marcinowice"
+    },
+    {
+        "teryt": "0219063",
+        "name": " Strzegom"
+    },
+    {
+        "teryt": "0219072",
+        "name": " \u015awidnica"
+    },
+    {
+        "teryt": "0219083",
+        "name": " \u017bar\u00f3w"
+    },
+    {
+        "teryt": "0220013",
+        "name": " Oborniki \u015al\u0105skie"
+    },
+    {
+        "teryt": "0220023",
+        "name": " Prusice"
+    },
+    {
+        "teryt": "0220033",
+        "name": " Trzebnica"
+    },
+    {
+        "teryt": "0220042",
+        "name": " Wisznia Ma\u0142a"
+    },
+    {
+        "teryt": "0220052",
+        "name": " Zawonia"
+    },
+    {
+        "teryt": "0220063",
+        "name": " \u017bmigr\u00f3d"
+    },
+    {
+        "teryt": "0221011",
+        "name": " Bogusz\u00f3w-Gorce"
+    },
+    {
+        "teryt": "0221021",
+        "name": " Jedlina-Zdr\u00f3j"
+    },
+    {
+        "teryt": "0221031",
+        "name": " Szczawno-Zdr\u00f3j"
+    },
+    {
+        "teryt": "0221042",
+        "name": " Czarny B\u00f3r"
+    },
+    {
+        "teryt": "0221053",
+        "name": " G\u0142uszyca"
+    },
+    {
+        "teryt": "0221063",
+        "name": " Mierosz\u00f3w"
+    },
+    {
+        "teryt": "0221072",
+        "name": " Stare Bogaczowice"
+    },
+    {
+        "teryt": "0221082",
+        "name": " Walim"
+    },
+    {
+        "teryt": "0222013",
+        "name": " Brzeg Dolny"
+    },
+    {
+        "teryt": "0222022",
+        "name": " Wi\u0144sko"
+    },
+    {
+        "teryt": "0222033",
+        "name": " Wo\u0142\u00f3w"
+    },
+    {
+        "teryt": "0223012",
+        "name": " Czernica"
+    },
+    {
+        "teryt": "0223022",
+        "name": " D\u0142ugo\u0142\u0119ka"
+    },
+    {
+        "teryt": "0223032",
+        "name": " Jordan\u00f3w \u015al\u0105ski"
+    },
+    {
+        "teryt": "0223043",
+        "name": " K\u0105ty Wroc\u0142awskie"
+    },
+    {
+        "teryt": "0223052",
+        "name": " Kobierzyce"
+    },
+    {
+        "teryt": "0223062",
+        "name": " Mietk\u00f3w"
+    },
+    {
+        "teryt": "0223073",
+        "name": " Sob\u00f3tka"
+    },
+    {
+        "teryt": "0223083",
+        "name": " Siechnice"
+    },
+    {
+        "teryt": "0223092",
+        "name": " \u017b\u00f3rawina"
+    },
+    {
+        "teryt": "0224013",
+        "name": " Bardo"
+    },
+    {
+        "teryt": "0224022",
+        "name": " Ciep\u0142owody"
+    },
+    {
+        "teryt": "0224033",
+        "name": " Kamieniec Z\u0105bkowicki"
+    },
+    {
+        "teryt": "0224042",
+        "name": " Stoszowice"
+    },
+    {
+        "teryt": "0224053",
+        "name": " Z\u0105bkowice \u015al\u0105skie"
+    },
+    {
+        "teryt": "0224063",
+        "name": " Zi\u0119bice"
+    },
+    {
+        "teryt": "0224073",
+        "name": " Z\u0142oty Stok"
+    },
+    {
+        "teryt": "0225011",
+        "name": " Zawid\u00f3w"
+    },
+    {
+        "teryt": "0225021",
+        "name": " Zgorzelec"
+    },
+    {
+        "teryt": "0225033",
+        "name": " Bogatynia"
+    },
+    {
+        "teryt": "0225043",
+        "name": " Pie\u0144sk"
+    },
+    {
+        "teryt": "0225052",
+        "name": " Sulik\u00f3w"
+    },
+    {
+        "teryt": "0225063",
+        "name": " W\u0119gliniec"
+    },
+    {
+        "teryt": "0225072",
+        "name": " Zgorzelec"
+    },
+    {
+        "teryt": "0226011",
+        "name": " Wojciesz\u00f3w"
+    },
+    {
+        "teryt": "0226021",
+        "name": " Z\u0142otoryja"
+    },
+    {
+        "teryt": "0226032",
+        "name": " Pielgrzymka"
+    },
+    {
+        "teryt": "0226043",
+        "name": " \u015awierzawa"
+    },
+    {
+        "teryt": "0226052",
+        "name": " Zagrodno"
+    },
+    {
+        "teryt": "0226062",
+        "name": " Z\u0142otoryja"
+    },
+    {
+        "teryt": "0261011",
+        "name": " Jelenia G\u00f3ra"
+    },
+    {
+        "teryt": "0262011",
+        "name": " Legnica"
+    },
+    {
+        "teryt": "0264011",
+        "name": " Wroc\u0142aw"
+    },
+    {
+        "teryt": "0265011",
+        "name": " Wa\u0142brzych"
+    },
+    {
+        "teryt": "0401011",
+        "name": " Aleksandr\u00f3w Kujawski"
+    },
+    {
+        "teryt": "0401021",
+        "name": " Ciechocinek"
+    },
+    {
+        "teryt": "0401031",
+        "name": " Nieszawa"
+    },
+    {
+        "teryt": "0401042",
+        "name": " Aleksandr\u00f3w Kujawski"
+    },
+    {
+        "teryt": "0401052",
+        "name": " B\u0105dkowo"
+    },
+    {
+        "teryt": "0401062",
+        "name": " Koneck"
+    },
+    {
+        "teryt": "0401072",
+        "name": " Raci\u0105\u017cek"
+    },
+    {
+        "teryt": "0401082",
+        "name": " Waganiec"
+    },
+    {
+        "teryt": "0401092",
+        "name": " Zakrzewo"
+    },
+    {
+        "teryt": "0402011",
+        "name": " Brodnica"
+    },
+    {
+        "teryt": "0402022",
+        "name": " Bobrowo"
+    },
+    {
+        "teryt": "0402032",
+        "name": " Brodnica"
+    },
+    {
+        "teryt": "0402042",
+        "name": " Brzozie"
+    },
+    {
+        "teryt": "0402053",
+        "name": " G\u00f3rzno"
+    },
+    {
+        "teryt": "0402062",
+        "name": " Bartniczka"
+    },
+    {
+        "teryt": "0402073",
+        "name": " Jab\u0142onowo Pomorskie"
+    },
+    {
+        "teryt": "0402082",
+        "name": " Osiek"
+    },
+    {
+        "teryt": "0402092",
+        "name": " \u015awiedziebnia"
+    },
+    {
+        "teryt": "0402102",
+        "name": " Zbiczno"
+    },
+    {
+        "teryt": "0403012",
+        "name": " Bia\u0142e B\u0142ota"
+    },
+    {
+        "teryt": "0403022",
+        "name": " D\u0105browa Che\u0142mi\u0144ska"
+    },
+    {
+        "teryt": "0403032",
+        "name": " Dobrcz"
+    },
+    {
+        "teryt": "0403043",
+        "name": " Koronowo"
+    },
+    {
+        "teryt": "0403052",
+        "name": " Nowa Wie\u015b Wielka"
+    },
+    {
+        "teryt": "0403062",
+        "name": " Osielsko"
+    },
+    {
+        "teryt": "0403072",
+        "name": " Sicienko"
+    },
+    {
+        "teryt": "0403083",
+        "name": " Solec Kujawski"
+    },
+    {
+        "teryt": "0404011",
+        "name": " Che\u0142mno"
+    },
+    {
+        "teryt": "0404022",
+        "name": " Che\u0142mno"
+    },
+    {
+        "teryt": "0404032",
+        "name": " Kijewo Kr\u00f3lewskie"
+    },
+    {
+        "teryt": "0404042",
+        "name": " Lisewo"
+    },
+    {
+        "teryt": "0404052",
+        "name": " Papowo Biskupie"
+    },
+    {
+        "teryt": "0404062",
+        "name": " Stolno"
+    },
+    {
+        "teryt": "0404072",
+        "name": " Unis\u0142aw"
+    },
+    {
+        "teryt": "0405011",
+        "name": " Golub-Dobrzy\u0144"
+    },
+    {
+        "teryt": "0405022",
+        "name": " Ciechocin"
+    },
+    {
+        "teryt": "0405032",
+        "name": " Golub-Dobrzy\u0144"
+    },
+    {
+        "teryt": "0405043",
+        "name": " Kowalewo Pomorskie"
+    },
+    {
+        "teryt": "0405052",
+        "name": " Radomin"
+    },
+    {
+        "teryt": "0405062",
+        "name": " Zb\u00f3jno"
+    },
+    {
+        "teryt": "0406012",
+        "name": " Grudzi\u0105dz"
+    },
+    {
+        "teryt": "0406022",
+        "name": " Gruta"
+    },
+    {
+        "teryt": "0406033",
+        "name": " \u0141asin"
+    },
+    {
+        "teryt": "0406043",
+        "name": " Radzy\u0144 Che\u0142mi\u0144ski"
+    },
+    {
+        "teryt": "0406052",
+        "name": " Rog\u00f3\u017ano"
+    },
+    {
+        "teryt": "0406062",
+        "name": " \u015awiecienad Os\u0105"
+    },
+    {
+        "teryt": "0407011",
+        "name": " Inowroc\u0142aw"
+    },
+    {
+        "teryt": "0407022",
+        "name": " D\u0105browa Biskupia"
+    },
+    {
+        "teryt": "0407033",
+        "name": " Gniewkowo"
+    },
+    {
+        "teryt": "0407042",
+        "name": " Inowroc\u0142aw"
+    },
+    {
+        "teryt": "0407053",
+        "name": " Janikowo"
+    },
+    {
+        "teryt": "0407063",
+        "name": " Kruszwica"
+    },
+    {
+        "teryt": "0407073",
+        "name": " Pako\u015b\u0107"
+    },
+    {
+        "teryt": "0407082",
+        "name": " Rojewo"
+    },
+    {
+        "teryt": "0407092",
+        "name": " Z\u0142otniki Kujawskie"
+    },
+    {
+        "teryt": "0408011",
+        "name": " Lipno"
+    },
+    {
+        "teryt": "0408022",
+        "name": " Bobrowniki"
+    },
+    {
+        "teryt": "0408032",
+        "name": " Chrostkowo"
+    },
+    {
+        "teryt": "0408043",
+        "name": " Dobrzy\u0144nad Wis\u0142\u0105"
+    },
+    {
+        "teryt": "0408052",
+        "name": " Kik\u00f3\u0142"
+    },
+    {
+        "teryt": "0408062",
+        "name": " Lipno"
+    },
+    {
+        "teryt": "0408073",
+        "name": " Sk\u0119pe"
+    },
+    {
+        "teryt": "0408082",
+        "name": " T\u0142uchowo"
+    },
+    {
+        "teryt": "0408092",
+        "name": " Wielgie"
+    },
+    {
+        "teryt": "0409012",
+        "name": " D\u0105browa"
+    },
+    {
+        "teryt": "0409022",
+        "name": " Jeziora Wielkie"
+    },
+    {
+        "teryt": "0409033",
+        "name": " Mogilno"
+    },
+    {
+        "teryt": "0409043",
+        "name": " Strzelno"
+    },
+    {
+        "teryt": "0410013",
+        "name": " Kcynia"
+    },
+    {
+        "teryt": "0410023",
+        "name": " Mrocza"
+    },
+    {
+        "teryt": "0410033",
+        "name": " Nak\u0142onad Noteci\u0105"
+    },
+    {
+        "teryt": "0410042",
+        "name": " Sadki"
+    },
+    {
+        "teryt": "0410053",
+        "name": " Szubin"
+    },
+    {
+        "teryt": "0411011",
+        "name": " Radziej\u00f3w"
+    },
+    {
+        "teryt": "0411022",
+        "name": " Byto\u0144"
+    },
+    {
+        "teryt": "0411032",
+        "name": " Dobre"
+    },
+    {
+        "teryt": "0411042",
+        "name": " Osi\u0119ciny"
+    },
+    {
+        "teryt": "0411053",
+        "name": " Piotrk\u00f3w Kujawski"
+    },
+    {
+        "teryt": "0411062",
+        "name": " Radziej\u00f3w"
+    },
+    {
+        "teryt": "0411072",
+        "name": " Top\u00f3lka"
+    },
+    {
+        "teryt": "0412011",
+        "name": " Rypin"
+    },
+    {
+        "teryt": "0412022",
+        "name": " Brzuze"
+    },
+    {
+        "teryt": "0412032",
+        "name": " Rogowo"
+    },
+    {
+        "teryt": "0412042",
+        "name": " Rypin"
+    },
+    {
+        "teryt": "0412052",
+        "name": " Skrwilno"
+    },
+    {
+        "teryt": "0412062",
+        "name": " W\u0105pielsk"
+    },
+    {
+        "teryt": "0413013",
+        "name": " Kamie\u0144 Kraje\u0144ski"
+    },
+    {
+        "teryt": "0413023",
+        "name": " S\u0119p\u00f3lno Kraje\u0144skie"
+    },
+    {
+        "teryt": "0413032",
+        "name": " So\u015bno"
+    },
+    {
+        "teryt": "0413043",
+        "name": " Wi\u0119cbork"
+    },
+    {
+        "teryt": "0414012",
+        "name": " Bukowiec"
+    },
+    {
+        "teryt": "0414022",
+        "name": " Dragacz"
+    },
+    {
+        "teryt": "0414032",
+        "name": " Drzycim"
+    },
+    {
+        "teryt": "0414042",
+        "name": " Je\u017cewo"
+    },
+    {
+        "teryt": "0414052",
+        "name": " Lniano"
+    },
+    {
+        "teryt": "0414063",
+        "name": " Nowe"
+    },
+    {
+        "teryt": "0414072",
+        "name": " Osie"
+    },
+    {
+        "teryt": "0414082",
+        "name": " Pruszcz"
+    },
+    {
+        "teryt": "0414093",
+        "name": " \u015awiecie"
+    },
+    {
+        "teryt": "0414102",
+        "name": " \u015awiekatowo"
+    },
+    {
+        "teryt": "0414112",
+        "name": " Warlubie"
+    },
+    {
+        "teryt": "0415011",
+        "name": " Che\u0142m\u017ca"
+    },
+    {
+        "teryt": "0415022",
+        "name": " Che\u0142m\u017ca"
+    },
+    {
+        "teryt": "0415032",
+        "name": " Czernikowo"
+    },
+    {
+        "teryt": "0415042",
+        "name": " Lubicz"
+    },
+    {
+        "teryt": "0415052",
+        "name": " \u0141ubianka"
+    },
+    {
+        "teryt": "0415062",
+        "name": " \u0141ysomice"
+    },
+    {
+        "teryt": "0415072",
+        "name": " Obrowo"
+    },
+    {
+        "teryt": "0415082",
+        "name": " Wielka Nieszawka"
+    },
+    {
+        "teryt": "0415092",
+        "name": " Z\u0142awie\u015b Wielka"
+    },
+    {
+        "teryt": "0416012",
+        "name": " Cekcyn"
+    },
+    {
+        "teryt": "0416022",
+        "name": " Gostycyn"
+    },
+    {
+        "teryt": "0416032",
+        "name": " K\u0119sowo"
+    },
+    {
+        "teryt": "0416042",
+        "name": " Lubiewo"
+    },
+    {
+        "teryt": "0416052",
+        "name": " \u015aliwice"
+    },
+    {
+        "teryt": "0416063",
+        "name": " Tuchola"
+    },
+    {
+        "teryt": "0417011",
+        "name": " W\u0105brze\u017ano"
+    },
+    {
+        "teryt": "0417022",
+        "name": " D\u0119bowa \u0141\u0105ka"
+    },
+    {
+        "teryt": "0417032",
+        "name": " Ksi\u0105\u017cki"
+    },
+    {
+        "teryt": "0417042",
+        "name": " P\u0142u\u017cnica"
+    },
+    {
+        "teryt": "0417052",
+        "name": " Ry\u0144sk"
+    },
+    {
+        "teryt": "0418011",
+        "name": " Kowal"
+    },
+    {
+        "teryt": "0418022",
+        "name": " Baruchowo"
+    },
+    {
+        "teryt": "0418032",
+        "name": " Boniewo"
+    },
+    {
+        "teryt": "0418043",
+        "name": " Brze\u015b\u0107 Kujawski"
+    },
+    {
+        "teryt": "0418052",
+        "name": " Choce\u0144"
+    },
+    {
+        "teryt": "0418063",
+        "name": " Chodecz"
+    },
+    {
+        "teryt": "0418072",
+        "name": " Fabianki"
+    },
+    {
+        "teryt": "0418083",
+        "name": " Izbica Kujawska"
+    },
+    {
+        "teryt": "0418092",
+        "name": " Kowal"
+    },
+    {
+        "teryt": "0418102",
+        "name": " Lubanie"
+    },
+    {
+        "teryt": "0418113",
+        "name": " Lubie\u0144 Kujawski"
+    },
+    {
+        "teryt": "0418123",
+        "name": " Lubraniec"
+    },
+    {
+        "teryt": "0418132",
+        "name": " W\u0142oc\u0142awek"
+    },
+    {
+        "teryt": "0419013",
+        "name": " Barcin"
+    },
+    {
+        "teryt": "0419022",
+        "name": " G\u0105sawa"
+    },
+    {
+        "teryt": "0419033",
+        "name": " Janowiec Wielkopolski"
+    },
+    {
+        "teryt": "0419043",
+        "name": " \u0141abiszyn"
+    },
+    {
+        "teryt": "0419052",
+        "name": " Rogowo"
+    },
+    {
+        "teryt": "0419063",
+        "name": " \u017bnin"
+    },
+    {
+        "teryt": "0461011",
+        "name": " Bydgoszcz"
+    },
+    {
+        "teryt": "0462011",
+        "name": " Grudzi\u0105dz"
+    },
+    {
+        "teryt": "0463011",
+        "name": " Toru\u0144"
+    },
+    {
+        "teryt": "0464011",
+        "name": " W\u0142oc\u0142awek"
+    },
+    {
+        "teryt": "0601011",
+        "name": " Mi\u0119dzyrzec Podlaski"
+    },
+    {
+        "teryt": "0601021",
+        "name": " Terespol"
+    },
+    {
+        "teryt": "0601032",
+        "name": " Bia\u0142a Podlaska"
+    },
+    {
+        "teryt": "0601042",
+        "name": " Drel\u00f3w"
+    },
+    {
+        "teryt": "0601052",
+        "name": " Jan\u00f3w Podlaski"
+    },
+    {
+        "teryt": "0601062",
+        "name": " Kode\u0144"
+    },
+    {
+        "teryt": "0601072",
+        "name": " Konstantyn\u00f3w"
+    },
+    {
+        "teryt": "0601082",
+        "name": " Le\u015bna Podlaska"
+    },
+    {
+        "teryt": "0601092",
+        "name": " \u0141omazy"
+    },
+    {
+        "teryt": "0601102",
+        "name": " Mi\u0119dzyrzec Podlaski"
+    },
+    {
+        "teryt": "0601112",
+        "name": " Piszczac"
+    },
+    {
+        "teryt": "0601122",
+        "name": " Rokitno"
+    },
+    {
+        "teryt": "0601132",
+        "name": " Rossosz"
+    },
+    {
+        "teryt": "0601142",
+        "name": " S\u0142awatycze"
+    },
+    {
+        "teryt": "0601152",
+        "name": " Sosn\u00f3wka"
+    },
+    {
+        "teryt": "0601162",
+        "name": " Terespol"
+    },
+    {
+        "teryt": "0601172",
+        "name": " Tuczna"
+    },
+    {
+        "teryt": "0601182",
+        "name": " Wisznice"
+    },
+    {
+        "teryt": "0601192",
+        "name": " Zalesie"
+    },
+    {
+        "teryt": "0602011",
+        "name": " Bi\u0142goraj"
+    },
+    {
+        "teryt": "0602022",
+        "name": " Aleksandr\u00f3w"
+    },
+    {
+        "teryt": "0602032",
+        "name": " Bi\u0142goraj"
+    },
+    {
+        "teryt": "0602042",
+        "name": " Biszcza"
+    },
+    {
+        "teryt": "0602053",
+        "name": " Frampol"
+    },
+    {
+        "teryt": "0602063",
+        "name": " Goraj"
+    },
+    {
+        "teryt": "0602073",
+        "name": " J\u00f3zef\u00f3w"
+    },
+    {
+        "teryt": "0602082",
+        "name": " Ksi\u0119\u017cpol"
+    },
+    {
+        "teryt": "0602092",
+        "name": " \u0141ukowa"
+    },
+    {
+        "teryt": "0602102",
+        "name": " Obsza"
+    },
+    {
+        "teryt": "0602112",
+        "name": " Potok G\u00f3rny"
+    },
+    {
+        "teryt": "0602123",
+        "name": " Tarnogr\u00f3d"
+    },
+    {
+        "teryt": "0602132",
+        "name": " Tereszpol"
+    },
+    {
+        "teryt": "0602142",
+        "name": " Turobin"
+    },
+    {
+        "teryt": "0603011",
+        "name": " Rejowiec Fabryczny"
+    },
+    {
+        "teryt": "0603022",
+        "name": " Bia\u0142opole"
+    },
+    {
+        "teryt": "0603032",
+        "name": " Che\u0142m"
+    },
+    {
+        "teryt": "0603042",
+        "name": " Dorohusk"
+    },
+    {
+        "teryt": "0603052",
+        "name": " Dubienka"
+    },
+    {
+        "teryt": "0603062",
+        "name": " Kamie\u0144"
+    },
+    {
+        "teryt": "0603072",
+        "name": " Le\u015bniowice"
+    },
+    {
+        "teryt": "0603082",
+        "name": " Rejowiec Fabryczny"
+    },
+    {
+        "teryt": "0603092",
+        "name": " Ruda-Huta"
+    },
+    {
+        "teryt": "0603102",
+        "name": " Sawin"
+    },
+    {
+        "teryt": "0603113",
+        "name": " Siedliszcze"
+    },
+    {
+        "teryt": "0603122",
+        "name": " Wierzbica"
+    },
+    {
+        "teryt": "0603132",
+        "name": " Wojs\u0142awice"
+    },
+    {
+        "teryt": "0603142",
+        "name": " \u017bmud\u017a"
+    },
+    {
+        "teryt": "0603153",
+        "name": " Rejowiec"
+    },
+    {
+        "teryt": "0604011",
+        "name": " Hrubiesz\u00f3w"
+    },
+    {
+        "teryt": "0604022",
+        "name": " Do\u0142hobycz\u00f3w"
+    },
+    {
+        "teryt": "0604032",
+        "name": " Horod\u0142o"
+    },
+    {
+        "teryt": "0604042",
+        "name": " Hrubiesz\u00f3w"
+    },
+    {
+        "teryt": "0604052",
+        "name": " Mircze"
+    },
+    {
+        "teryt": "0604062",
+        "name": " Trzeszczany"
+    },
+    {
+        "teryt": "0604072",
+        "name": " Uchanie"
+    },
+    {
+        "teryt": "0604082",
+        "name": " Werbkowice"
+    },
+    {
+        "teryt": "0605012",
+        "name": " Batorz"
+    },
+    {
+        "teryt": "0605022",
+        "name": " Chrzan\u00f3w"
+    },
+    {
+        "teryt": "0605032",
+        "name": " Dzwola"
+    },
+    {
+        "teryt": "0605042",
+        "name": " Godzisz\u00f3w"
+    },
+    {
+        "teryt": "0605053",
+        "name": " Jan\u00f3w Lubelski"
+    },
+    {
+        "teryt": "0605063",
+        "name": " Modliborzyce"
+    },
+    {
+        "teryt": "0605072",
+        "name": " Potok Wielki"
+    },
+    {
+        "teryt": "0606011",
+        "name": " Krasnystaw"
+    },
+    {
+        "teryt": "0606022",
+        "name": " Fajs\u0142awice"
+    },
+    {
+        "teryt": "0606032",
+        "name": " Gorzk\u00f3w"
+    },
+    {
+        "teryt": "0606042",
+        "name": " Izbica"
+    },
+    {
+        "teryt": "0606052",
+        "name": " Krasnystaw"
+    },
+    {
+        "teryt": "0606062",
+        "name": " Kra\u015bniczyn"
+    },
+    {
+        "teryt": "0606072",
+        "name": " \u0141opiennik G\u00f3rny"
+    },
+    {
+        "teryt": "0606092",
+        "name": " Rudnik"
+    },
+    {
+        "teryt": "0606102",
+        "name": " Siennica R\u00f3\u017cana"
+    },
+    {
+        "teryt": "0606112",
+        "name": " \u017b\u00f3\u0142kiewka"
+    },
+    {
+        "teryt": "0607011",
+        "name": " Kra\u015bnik"
+    },
+    {
+        "teryt": "0607023",
+        "name": " Annopol"
+    },
+    {
+        "teryt": "0607032",
+        "name": " Dzierzkowice"
+    },
+    {
+        "teryt": "0607042",
+        "name": " Go\u015bcierad\u00f3w"
+    },
+    {
+        "teryt": "0607052",
+        "name": " Kra\u015bnik"
+    },
+    {
+        "teryt": "0607062",
+        "name": " Szastarka"
+    },
+    {
+        "teryt": "0607072",
+        "name": " Trzydnik Du\u017cy"
+    },
+    {
+        "teryt": "0607083",
+        "name": " Urz\u0119d\u00f3w"
+    },
+    {
+        "teryt": "0607092",
+        "name": " Wilko\u0142az"
+    },
+    {
+        "teryt": "0607102",
+        "name": " Zakrz\u00f3wek"
+    },
+    {
+        "teryt": "0608011",
+        "name": " Lubart\u00f3w"
+    },
+    {
+        "teryt": "0608022",
+        "name": " Abram\u00f3w"
+    },
+    {
+        "teryt": "0608032",
+        "name": " Firlej"
+    },
+    {
+        "teryt": "0608042",
+        "name": " Jeziorzany"
+    },
+    {
+        "teryt": "0608053",
+        "name": " Kamionka"
+    },
+    {
+        "teryt": "0608063",
+        "name": " Kock"
+    },
+    {
+        "teryt": "0608072",
+        "name": " Lubart\u00f3w"
+    },
+    {
+        "teryt": "0608082",
+        "name": " Mich\u00f3w"
+    },
+    {
+        "teryt": "0608092",
+        "name": " Nied\u017awiada"
+    },
+    {
+        "teryt": "0608103",
+        "name": " Ostr\u00f3w Lubelski"
+    },
+    {
+        "teryt": "0608112",
+        "name": " Ostr\u00f3wek"
+    },
+    {
+        "teryt": "0608122",
+        "name": " Serniki"
+    },
+    {
+        "teryt": "0608132",
+        "name": " U\u015bcim\u00f3w"
+    },
+    {
+        "teryt": "0609013",
+        "name": " Be\u0142\u017cyce"
+    },
+    {
+        "teryt": "0609022",
+        "name": " Borzech\u00f3w"
+    },
+    {
+        "teryt": "0609033",
+        "name": " Bychawa"
+    },
+    {
+        "teryt": "0609042",
+        "name": " Garb\u00f3w"
+    },
+    {
+        "teryt": "0609052",
+        "name": " G\u0142usk"
+    },
+    {
+        "teryt": "0609062",
+        "name": " Jab\u0142onna"
+    },
+    {
+        "teryt": "0609072",
+        "name": " Jastk\u00f3w"
+    },
+    {
+        "teryt": "0609082",
+        "name": " Konopnica"
+    },
+    {
+        "teryt": "0609092",
+        "name": " Krzczon\u00f3w"
+    },
+    {
+        "teryt": "0609102",
+        "name": " Niedrzwica Du\u017ca"
+    },
+    {
+        "teryt": "0609112",
+        "name": " Niemce"
+    },
+    {
+        "teryt": "0609122",
+        "name": " Strzy\u017cewice"
+    },
+    {
+        "teryt": "0609132",
+        "name": " Wojciech\u00f3w"
+    },
+    {
+        "teryt": "0609142",
+        "name": " W\u00f3lka"
+    },
+    {
+        "teryt": "0609152",
+        "name": " Wysokie"
+    },
+    {
+        "teryt": "0609162",
+        "name": " Zakrzew"
+    },
+    {
+        "teryt": "0610012",
+        "name": " Cyc\u00f3w"
+    },
+    {
+        "teryt": "0610022",
+        "name": " Ludwin"
+    },
+    {
+        "teryt": "0610033",
+        "name": " \u0141\u0119czna"
+    },
+    {
+        "teryt": "0610042",
+        "name": " Milej\u00f3w"
+    },
+    {
+        "teryt": "0610052",
+        "name": " Puchacz\u00f3w"
+    },
+    {
+        "teryt": "0610062",
+        "name": " Spiczyn"
+    },
+    {
+        "teryt": "0611011",
+        "name": " \u0141uk\u00f3w"
+    },
+    {
+        "teryt": "0611021",
+        "name": " Stoczek \u0141ukowski"
+    },
+    {
+        "teryt": "0611032",
+        "name": " Adam\u00f3w"
+    },
+    {
+        "teryt": "0611042",
+        "name": " Krzywda"
+    },
+    {
+        "teryt": "0611052",
+        "name": " \u0141uk\u00f3w"
+    },
+    {
+        "teryt": "0611062",
+        "name": " Serokomla"
+    },
+    {
+        "teryt": "0611072",
+        "name": " Stanin"
+    },
+    {
+        "teryt": "0611082",
+        "name": " Stoczek \u0141ukowski"
+    },
+    {
+        "teryt": "0611092",
+        "name": " Trzebiesz\u00f3w"
+    },
+    {
+        "teryt": "0611102",
+        "name": " Wojcieszk\u00f3w"
+    },
+    {
+        "teryt": "0611112",
+        "name": " Wola Mys\u0142owska"
+    },
+    {
+        "teryt": "0612012",
+        "name": " Chodel"
+    },
+    {
+        "teryt": "0612023",
+        "name": " J\u00f3zef\u00f3wnad Wis\u0142\u0105"
+    },
+    {
+        "teryt": "0612032",
+        "name": " Karczmiska"
+    },
+    {
+        "teryt": "0612042",
+        "name": " \u0141aziska"
+    },
+    {
+        "teryt": "0612053",
+        "name": " Opole Lubelskie"
+    },
+    {
+        "teryt": "0612063",
+        "name": " Poniatowa"
+    },
+    {
+        "teryt": "0612072",
+        "name": " Wilk\u00f3w"
+    },
+    {
+        "teryt": "0613012",
+        "name": " D\u0119bowa K\u0142oda"
+    },
+    {
+        "teryt": "0613022",
+        "name": " Jab\u0142o\u0144"
+    },
+    {
+        "teryt": "0613032",
+        "name": " Milan\u00f3w"
+    },
+    {
+        "teryt": "0613043",
+        "name": " Parczew"
+    },
+    {
+        "teryt": "0613052",
+        "name": " Podedw\u00f3rze"
+    },
+    {
+        "teryt": "0613062",
+        "name": " Siemie\u0144"
+    },
+    {
+        "teryt": "0613072",
+        "name": " Sosnowica"
+    },
+    {
+        "teryt": "0614011",
+        "name": " Pu\u0142awy"
+    },
+    {
+        "teryt": "0614022",
+        "name": " Baran\u00f3w"
+    },
+    {
+        "teryt": "0614032",
+        "name": " Janowiec"
+    },
+    {
+        "teryt": "0614043",
+        "name": " Kazimierz Dolny"
+    },
+    {
+        "teryt": "0614052",
+        "name": " Ko\u0144skowola"
+    },
+    {
+        "teryt": "0614062",
+        "name": " Kur\u00f3w"
+    },
+    {
+        "teryt": "0614072",
+        "name": " Markusz\u00f3w"
+    },
+    {
+        "teryt": "0614083",
+        "name": " Na\u0142\u0119cz\u00f3w"
+    },
+    {
+        "teryt": "0614092",
+        "name": " Pu\u0142awy"
+    },
+    {
+        "teryt": "0614102",
+        "name": " W\u0105wolnica"
+    },
+    {
+        "teryt": "0614112",
+        "name": " \u017byrzyn"
+    },
+    {
+        "teryt": "0615011",
+        "name": " Radzy\u0144 Podlaski"
+    },
+    {
+        "teryt": "0615022",
+        "name": " Borki"
+    },
+    {
+        "teryt": "0615032",
+        "name": " Czemierniki"
+    },
+    {
+        "teryt": "0615042",
+        "name": " K\u0105kolewnica"
+    },
+    {
+        "teryt": "0615052",
+        "name": " Komar\u00f3wka Podlaska"
+    },
+    {
+        "teryt": "0615062",
+        "name": " Radzy\u0144 Podlaski"
+    },
+    {
+        "teryt": "0615072",
+        "name": " Ulan-Majorat"
+    },
+    {
+        "teryt": "0615082",
+        "name": " Wohy\u0144"
+    },
+    {
+        "teryt": "0616011",
+        "name": " D\u0119blin"
+    },
+    {
+        "teryt": "0616022",
+        "name": " K\u0142oczew"
+    },
+    {
+        "teryt": "0616032",
+        "name": " Nowodw\u00f3r"
+    },
+    {
+        "teryt": "0616043",
+        "name": " Ryki"
+    },
+    {
+        "teryt": "0616052",
+        "name": " St\u0119\u017cyca"
+    },
+    {
+        "teryt": "0616062",
+        "name": " U\u0142\u0119\u017c"
+    },
+    {
+        "teryt": "0617011",
+        "name": " \u015awidnik"
+    },
+    {
+        "teryt": "0617022",
+        "name": " Me\u0142giew"
+    },
+    {
+        "teryt": "0617033",
+        "name": " Piaski"
+    },
+    {
+        "teryt": "0617042",
+        "name": " Rybczewice"
+    },
+    {
+        "teryt": "0617052",
+        "name": " Trawniki"
+    },
+    {
+        "teryt": "0618011",
+        "name": " Tomasz\u00f3w Lubelski"
+    },
+    {
+        "teryt": "0618022",
+        "name": " Be\u0142\u017cec"
+    },
+    {
+        "teryt": "0618032",
+        "name": " Jarcz\u00f3w"
+    },
+    {
+        "teryt": "0618042",
+        "name": " Krynice"
+    },
+    {
+        "teryt": "0618053",
+        "name": " Lubycza Kr\u00f3lewska"
+    },
+    {
+        "teryt": "0618063",
+        "name": " \u0141aszcz\u00f3w"
+    },
+    {
+        "teryt": "0618072",
+        "name": " Rachanie"
+    },
+    {
+        "teryt": "0618082",
+        "name": " Susiec"
+    },
+    {
+        "teryt": "0618092",
+        "name": " Tarnawatka"
+    },
+    {
+        "teryt": "0618102",
+        "name": " Telatyn"
+    },
+    {
+        "teryt": "0618112",
+        "name": " Tomasz\u00f3w Lubelski"
+    },
+    {
+        "teryt": "0618123",
+        "name": " Tyszowce"
+    },
+    {
+        "teryt": "0618132",
+        "name": " Ulh\u00f3wek"
+    },
+    {
+        "teryt": "0619011",
+        "name": " W\u0142odawa"
+    },
+    {
+        "teryt": "0619022",
+        "name": " Hanna"
+    },
+    {
+        "teryt": "0619032",
+        "name": " Ha\u0144sk"
+    },
+    {
+        "teryt": "0619042",
+        "name": " Stary Brus"
+    },
+    {
+        "teryt": "0619052",
+        "name": " Urszulin"
+    },
+    {
+        "teryt": "0619062",
+        "name": " W\u0142odawa"
+    },
+    {
+        "teryt": "0619072",
+        "name": " Wola Uhruska"
+    },
+    {
+        "teryt": "0619082",
+        "name": " Wyryki"
+    },
+    {
+        "teryt": "0620012",
+        "name": " Adam\u00f3w"
+    },
+    {
+        "teryt": "0620022",
+        "name": " Grabowiec"
+    },
+    {
+        "teryt": "0620032",
+        "name": " Komar\u00f3w-Osada"
+    },
+    {
+        "teryt": "0620043",
+        "name": " Krasnobr\u00f3d"
+    },
+    {
+        "teryt": "0620052",
+        "name": " \u0141abunie"
+    },
+    {
+        "teryt": "0620062",
+        "name": " Mi\u0105czyn"
+    },
+    {
+        "teryt": "0620072",
+        "name": " Nielisz"
+    },
+    {
+        "teryt": "0620082",
+        "name": " Radecznica"
+    },
+    {
+        "teryt": "0620092",
+        "name": " Sitno"
+    },
+    {
+        "teryt": "0620102",
+        "name": " Skierbiesz\u00f3w"
+    },
+    {
+        "teryt": "0620112",
+        "name": " Stary Zamo\u015b\u0107"
+    },
+    {
+        "teryt": "0620122",
+        "name": " Su\u0142\u00f3w"
+    },
+    {
+        "teryt": "0620133",
+        "name": " Szczebrzeszyn"
+    },
+    {
+        "teryt": "0620142",
+        "name": " Zamo\u015b\u0107"
+    },
+    {
+        "teryt": "0620153",
+        "name": " Zwierzyniec"
+    },
+    {
+        "teryt": "0661011",
+        "name": " Bia\u0142a Podlaska"
+    },
+    {
+        "teryt": "0662011",
+        "name": " Che\u0142m"
+    },
+    {
+        "teryt": "0663011",
+        "name": " Lublin"
+    },
+    {
+        "teryt": "0664011",
+        "name": " Zamo\u015b\u0107"
+    },
+    {
+        "teryt": "0801011",
+        "name": " Kostrzynnad Odr\u0105"
+    },
+    {
+        "teryt": "0801022",
+        "name": " Bogdaniec"
+    },
+    {
+        "teryt": "0801032",
+        "name": " Deszczno"
+    },
+    {
+        "teryt": "0801042",
+        "name": " K\u0142odawa"
+    },
+    {
+        "teryt": "0801052",
+        "name": " Lubiszyn"
+    },
+    {
+        "teryt": "0801062",
+        "name": " Santok"
+    },
+    {
+        "teryt": "0801073",
+        "name": " Witnica"
+    },
+    {
+        "teryt": "0802011",
+        "name": " Gubin"
+    },
+    {
+        "teryt": "0802022",
+        "name": " Bobrowice"
+    },
+    {
+        "teryt": "0802032",
+        "name": " Bytnica"
+    },
+    {
+        "teryt": "0802042",
+        "name": " D\u0105bie"
+    },
+    {
+        "teryt": "0802052",
+        "name": " Gubin"
+    },
+    {
+        "teryt": "0802063",
+        "name": " Krosno Odrza\u0144skie"
+    },
+    {
+        "teryt": "0802072",
+        "name": " Maszewo"
+    },
+    {
+        "teryt": "0803012",
+        "name": " Bledzew"
+    },
+    {
+        "teryt": "0803023",
+        "name": " Mi\u0119dzyrzecz"
+    },
+    {
+        "teryt": "0803032",
+        "name": " Przytoczna"
+    },
+    {
+        "teryt": "0803042",
+        "name": " Pszczew"
+    },
+    {
+        "teryt": "0803053",
+        "name": " Skwierzyna"
+    },
+    {
+        "teryt": "0803063",
+        "name": " Trzciel"
+    },
+    {
+        "teryt": "0804011",
+        "name": " Nowa S\u00f3l"
+    },
+    {
+        "teryt": "0804023",
+        "name": " Bytom Odrza\u0144ski"
+    },
+    {
+        "teryt": "0804032",
+        "name": " Kolsko"
+    },
+    {
+        "teryt": "0804043",
+        "name": " Ko\u017cuch\u00f3w"
+    },
+    {
+        "teryt": "0804052",
+        "name": " Nowa S\u00f3l"
+    },
+    {
+        "teryt": "0804063",
+        "name": " Nowe Miasteczko"
+    },
+    {
+        "teryt": "0804073",
+        "name": " Oty\u0144"
+    },
+    {
+        "teryt": "0804082",
+        "name": " Siedlisko"
+    },
+    {
+        "teryt": "0805013",
+        "name": " Cybinka"
+    },
+    {
+        "teryt": "0805022",
+        "name": " G\u00f3rzyca"
+    },
+    {
+        "teryt": "0805033",
+        "name": " O\u015bno Lubuskie"
+    },
+    {
+        "teryt": "0805043",
+        "name": " Rzepin"
+    },
+    {
+        "teryt": "0805053",
+        "name": " S\u0142ubice"
+    },
+    {
+        "teryt": "0806013",
+        "name": " Dobiegniew"
+    },
+    {
+        "teryt": "0806023",
+        "name": " Drezdenko"
+    },
+    {
+        "teryt": "0806032",
+        "name": " Stare Kurowo"
+    },
+    {
+        "teryt": "0806043",
+        "name": " Strzelce Kraje\u0144skie"
+    },
+    {
+        "teryt": "0806052",
+        "name": " Zwierzyn"
+    },
+    {
+        "teryt": "0807012",
+        "name": " Krzeszyce"
+    },
+    {
+        "teryt": "0807023",
+        "name": " Lubniewice"
+    },
+    {
+        "teryt": "0807032",
+        "name": " S\u0142o\u0144sk"
+    },
+    {
+        "teryt": "0807043",
+        "name": " Sul\u0119cin"
+    },
+    {
+        "teryt": "0807053",
+        "name": " Torzym"
+    },
+    {
+        "teryt": "0808012",
+        "name": " Lubrza"
+    },
+    {
+        "teryt": "0808022",
+        "name": " \u0141ag\u00f3w"
+    },
+    {
+        "teryt": "0808032",
+        "name": " Sk\u0105pe"
+    },
+    {
+        "teryt": "0808042",
+        "name": " Szczaniec"
+    },
+    {
+        "teryt": "0808053",
+        "name": " \u015awiebodzin"
+    },
+    {
+        "teryt": "0808063",
+        "name": " Zb\u0105szynek"
+    },
+    {
+        "teryt": "0809013",
+        "name": " Babimost"
+    },
+    {
+        "teryt": "0809022",
+        "name": " Bojad\u0142a"
+    },
+    {
+        "teryt": "0809033",
+        "name": " Czerwie\u0144sk"
+    },
+    {
+        "teryt": "0809043",
+        "name": " Kargowa"
+    },
+    {
+        "teryt": "0809053",
+        "name": " Nowogr\u00f3d Bobrza\u0144ski"
+    },
+    {
+        "teryt": "0809063",
+        "name": " Sulech\u00f3w"
+    },
+    {
+        "teryt": "0809072",
+        "name": " \u015awidnica"
+    },
+    {
+        "teryt": "0809082",
+        "name": " Trzebiech\u00f3w"
+    },
+    {
+        "teryt": "0809092",
+        "name": " Zab\u00f3r"
+    },
+    {
+        "teryt": "0810011",
+        "name": " Gozdnica"
+    },
+    {
+        "teryt": "0810021",
+        "name": " \u017baga\u0144"
+    },
+    {
+        "teryt": "0810032",
+        "name": " Brze\u017anica"
+    },
+    {
+        "teryt": "0810043",
+        "name": " I\u0142owa"
+    },
+    {
+        "teryt": "0810053",
+        "name": " Ma\u0142omice"
+    },
+    {
+        "teryt": "0810062",
+        "name": " Niegos\u0142awice"
+    },
+    {
+        "teryt": "0810073",
+        "name": " Szprotawa"
+    },
+    {
+        "teryt": "0810082",
+        "name": " Wymiarki"
+    },
+    {
+        "teryt": "0810092",
+        "name": " \u017baga\u0144"
+    },
+    {
+        "teryt": "0811011",
+        "name": " \u0141\u0119knica"
+    },
+    {
+        "teryt": "0811021",
+        "name": " \u017bary"
+    },
+    {
+        "teryt": "0811032",
+        "name": " Brody"
+    },
+    {
+        "teryt": "0811043",
+        "name": " Jasie\u0144"
+    },
+    {
+        "teryt": "0811052",
+        "name": " Lipinki \u0141u\u017cyckie"
+    },
+    {
+        "teryt": "0811063",
+        "name": " Lubsko"
+    },
+    {
+        "teryt": "0811072",
+        "name": " Przew\u00f3z"
+    },
+    {
+        "teryt": "0811082",
+        "name": " Trzebiel"
+    },
+    {
+        "teryt": "0811092",
+        "name": " Tuplice"
+    },
+    {
+        "teryt": "0811102",
+        "name": " \u017bary"
+    },
+    {
+        "teryt": "0812013",
+        "name": " S\u0142awa"
+    },
+    {
+        "teryt": "0812023",
+        "name": " Szlichtyngowa"
+    },
+    {
+        "teryt": "0812033",
+        "name": " Wschowa"
+    },
+    {
+        "teryt": "0861011",
+        "name": " Gorz\u00f3w Wielkopolski"
+    },
+    {
+        "teryt": "0862011",
+        "name": " Zielona G\u00f3ra"
+    },
+    {
+        "teryt": "1001011",
+        "name": " Be\u0142chat\u00f3w"
+    },
+    {
+        "teryt": "1001022",
+        "name": " Be\u0142chat\u00f3w"
+    },
+    {
+        "teryt": "1001032",
+        "name": " Dru\u017cbice"
+    },
+    {
+        "teryt": "1001042",
+        "name": " Kleszcz\u00f3w"
+    },
+    {
+        "teryt": "1001052",
+        "name": " Kluki"
+    },
+    {
+        "teryt": "1001062",
+        "name": " Rusiec"
+    },
+    {
+        "teryt": "1001072",
+        "name": " Szczerc\u00f3w"
+    },
+    {
+        "teryt": "1001083",
+        "name": " Zel\u00f3w"
+    },
+    {
+        "teryt": "1002011",
+        "name": " Kutno"
+    },
+    {
+        "teryt": "1002022",
+        "name": " Bedlno"
+    },
+    {
+        "teryt": "1002032",
+        "name": " D\u0105browice"
+    },
+    {
+        "teryt": "1002043",
+        "name": " Kro\u015bniewice"
+    },
+    {
+        "teryt": "1002052",
+        "name": " Krzy\u017can\u00f3w"
+    },
+    {
+        "teryt": "1002062",
+        "name": " Kutno"
+    },
+    {
+        "teryt": "1002072",
+        "name": " \u0141ani\u0119ta"
+    },
+    {
+        "teryt": "1002082",
+        "name": " Nowe Ostrowy"
+    },
+    {
+        "teryt": "1002092",
+        "name": " Opor\u00f3w"
+    },
+    {
+        "teryt": "1002102",
+        "name": " Strzelce"
+    },
+    {
+        "teryt": "1002113",
+        "name": " \u017bychlin"
+    },
+    {
+        "teryt": "1003012",
+        "name": " Buczek"
+    },
+    {
+        "teryt": "1003023",
+        "name": " \u0141ask"
+    },
+    {
+        "teryt": "1003032",
+        "name": " S\u0119dziejowice"
+    },
+    {
+        "teryt": "1003042",
+        "name": " Widawa"
+    },
+    {
+        "teryt": "1003052",
+        "name": " Wodzierady"
+    },
+    {
+        "teryt": "1004011",
+        "name": " \u0141\u0119czyca"
+    },
+    {
+        "teryt": "1004022",
+        "name": " Daszyna"
+    },
+    {
+        "teryt": "1004032",
+        "name": " G\u00f3ra \u015awi\u0119tej Ma\u0142gorzaty"
+    },
+    {
+        "teryt": "1004042",
+        "name": " Grab\u00f3w"
+    },
+    {
+        "teryt": "1004052",
+        "name": " \u0141\u0119czyca"
+    },
+    {
+        "teryt": "1004063",
+        "name": " Pi\u0105tek"
+    },
+    {
+        "teryt": "1004072",
+        "name": " \u015awinice Warckie"
+    },
+    {
+        "teryt": "1004082",
+        "name": " Witonia"
+    },
+    {
+        "teryt": "1005011",
+        "name": " \u0141owicz"
+    },
+    {
+        "teryt": "1005022",
+        "name": " Bielawy"
+    },
+    {
+        "teryt": "1005032",
+        "name": " Ch\u0105\u015bno"
+    },
+    {
+        "teryt": "1005042",
+        "name": " Domaniewice"
+    },
+    {
+        "teryt": "1005052",
+        "name": " Kiernozia"
+    },
+    {
+        "teryt": "1005062",
+        "name": " Kocierzew Po\u0142udniowy"
+    },
+    {
+        "teryt": "1005072",
+        "name": " \u0141owicz"
+    },
+    {
+        "teryt": "1005082",
+        "name": " \u0141yszkowice"
+    },
+    {
+        "teryt": "1005092",
+        "name": " Niebor\u00f3w"
+    },
+    {
+        "teryt": "1005102",
+        "name": " Zduny"
+    },
+    {
+        "teryt": "1006022",
+        "name": " Andrespol"
+    },
+    {
+        "teryt": "1006032",
+        "name": " Br\u00f3jce"
+    },
+    {
+        "teryt": "1006073",
+        "name": " Koluszki"
+    },
+    {
+        "teryt": "1006082",
+        "name": " Nowosolna"
+    },
+    {
+        "teryt": "1006103",
+        "name": " Rzg\u00f3w"
+    },
+    {
+        "teryt": "1006113",
+        "name": " Tuszyn"
+    },
+    {
+        "teryt": "1007012",
+        "name": " Bia\u0142acz\u00f3w"
+    },
+    {
+        "teryt": "1007023",
+        "name": " Drzewica"
+    },
+    {
+        "teryt": "1007032",
+        "name": " Mniszk\u00f3w"
+    },
+    {
+        "teryt": "1007043",
+        "name": " Opoczno"
+    },
+    {
+        "teryt": "1007052",
+        "name": " Parady\u017c"
+    },
+    {
+        "teryt": "1007062",
+        "name": " Po\u015bwi\u0119tne"
+    },
+    {
+        "teryt": "1007072",
+        "name": " S\u0142awno"
+    },
+    {
+        "teryt": "1007082",
+        "name": " \u017barn\u00f3w"
+    },
+    {
+        "teryt": "1008011",
+        "name": " Konstantyn\u00f3w \u0141\u00f3dzki"
+    },
+    {
+        "teryt": "1008021",
+        "name": " Pabianice"
+    },
+    {
+        "teryt": "1008032",
+        "name": " D\u0142ut\u00f3w"
+    },
+    {
+        "teryt": "1008042",
+        "name": " Dobro\u0144"
+    },
+    {
+        "teryt": "1008052",
+        "name": " Ksawer\u00f3w"
+    },
+    {
+        "teryt": "1008062",
+        "name": " Lutomiersk"
+    },
+    {
+        "teryt": "1008072",
+        "name": " Pabianice"
+    },
+    {
+        "teryt": "1009013",
+        "name": " Dzia\u0142oszyn"
+    },
+    {
+        "teryt": "1009022",
+        "name": " Kie\u0142czyg\u0142\u00f3w"
+    },
+    {
+        "teryt": "1009032",
+        "name": " Nowa Brze\u017anica"
+    },
+    {
+        "teryt": "1009043",
+        "name": " Paj\u0119czno"
+    },
+    {
+        "teryt": "1009052",
+        "name": " Rz\u0105\u015bnia"
+    },
+    {
+        "teryt": "1009062",
+        "name": " Siemkowice"
+    },
+    {
+        "teryt": "1009072",
+        "name": " Strzelce Wielkie"
+    },
+    {
+        "teryt": "1009082",
+        "name": " Sulmierzyce"
+    },
+    {
+        "teryt": "1010012",
+        "name": " Aleksandr\u00f3w"
+    },
+    {
+        "teryt": "1010022",
+        "name": " Czarnocin"
+    },
+    {
+        "teryt": "1010032",
+        "name": " Gorzkowice"
+    },
+    {
+        "teryt": "1010042",
+        "name": " Grabica"
+    },
+    {
+        "teryt": "1010052",
+        "name": " \u0141\u0119ki Szlacheckie"
+    },
+    {
+        "teryt": "1010062",
+        "name": " Moszczenica"
+    },
+    {
+        "teryt": "1010072",
+        "name": " R\u0119czno"
+    },
+    {
+        "teryt": "1010082",
+        "name": " Rozprza"
+    },
+    {
+        "teryt": "1010093",
+        "name": " Sulej\u00f3w"
+    },
+    {
+        "teryt": "1010102",
+        "name": " Wola Krzysztoporska"
+    },
+    {
+        "teryt": "1010113",
+        "name": " Wolb\u00f3rz"
+    },
+    {
+        "teryt": "1011012",
+        "name": " Dalik\u00f3w"
+    },
+    {
+        "teryt": "1011022",
+        "name": " P\u0119czniew"
+    },
+    {
+        "teryt": "1011033",
+        "name": " Podd\u0119bice"
+    },
+    {
+        "teryt": "1011043",
+        "name": " Uniej\u00f3w"
+    },
+    {
+        "teryt": "1011052",
+        "name": " Wartkowice"
+    },
+    {
+        "teryt": "1011062",
+        "name": " Zadzim"
+    },
+    {
+        "teryt": "1012011",
+        "name": " Radomsko"
+    },
+    {
+        "teryt": "1012022",
+        "name": " Dobryszyce"
+    },
+    {
+        "teryt": "1012032",
+        "name": " Gidle"
+    },
+    {
+        "teryt": "1012042",
+        "name": " Gomunice"
+    },
+    {
+        "teryt": "1012053",
+        "name": " Kamie\u0144sk"
+    },
+    {
+        "teryt": "1012062",
+        "name": " Kobiele Wielkie"
+    },
+    {
+        "teryt": "1012072",
+        "name": " Kodr\u0105b"
+    },
+    {
+        "teryt": "1012082",
+        "name": " Lgota Wielka"
+    },
+    {
+        "teryt": "1012092",
+        "name": " \u0141adzice"
+    },
+    {
+        "teryt": "1012102",
+        "name": " Mas\u0142owice"
+    },
+    {
+        "teryt": "1012113",
+        "name": " Przedb\u00f3rz"
+    },
+    {
+        "teryt": "1012122",
+        "name": " Radomsko"
+    },
+    {
+        "teryt": "1012132",
+        "name": " Wielgom\u0142yny"
+    },
+    {
+        "teryt": "1012142",
+        "name": " \u017bytno"
+    },
+    {
+        "teryt": "1013011",
+        "name": " Rawa Mazowiecka"
+    },
+    {
+        "teryt": "1013023",
+        "name": " Bia\u0142a Rawska"
+    },
+    {
+        "teryt": "1013032",
+        "name": " Ciel\u0105dz"
+    },
+    {
+        "teryt": "1013042",
+        "name": " Rawa Mazowiecka"
+    },
+    {
+        "teryt": "1013052",
+        "name": " Regn\u00f3w"
+    },
+    {
+        "teryt": "1013062",
+        "name": " Sadkowice"
+    },
+    {
+        "teryt": "1014011",
+        "name": " Sieradz"
+    },
+    {
+        "teryt": "1014023",
+        "name": " B\u0142aszki"
+    },
+    {
+        "teryt": "1014032",
+        "name": " Br\u0105szewice"
+    },
+    {
+        "teryt": "1014042",
+        "name": " Brze\u017anio"
+    },
+    {
+        "teryt": "1014052",
+        "name": " Burzenin"
+    },
+    {
+        "teryt": "1014062",
+        "name": " Goszczan\u00f3w"
+    },
+    {
+        "teryt": "1014072",
+        "name": " Klonowa"
+    },
+    {
+        "teryt": "1014082",
+        "name": " Sieradz"
+    },
+    {
+        "teryt": "1014093",
+        "name": " Warta"
+    },
+    {
+        "teryt": "1014102",
+        "name": " Wr\u00f3blew"
+    },
+    {
+        "teryt": "1014113",
+        "name": " Z\u0142oczew"
+    },
+    {
+        "teryt": "1015012",
+        "name": " Bolim\u00f3w"
+    },
+    {
+        "teryt": "1015022",
+        "name": " G\u0142uch\u00f3w"
+    },
+    {
+        "teryt": "1015032",
+        "name": " Godzian\u00f3w"
+    },
+    {
+        "teryt": "1015042",
+        "name": " Kowiesy"
+    },
+    {
+        "teryt": "1015052",
+        "name": " Lipce Reymontowskie"
+    },
+    {
+        "teryt": "1015062",
+        "name": " Mak\u00f3w"
+    },
+    {
+        "teryt": "1015072",
+        "name": " Nowy Kaw\u0119czyn"
+    },
+    {
+        "teryt": "1015082",
+        "name": " Skierniewice"
+    },
+    {
+        "teryt": "1015092",
+        "name": " S\u0142upia"
+    },
+    {
+        "teryt": "1016011",
+        "name": " Tomasz\u00f3w Mazowiecki"
+    },
+    {
+        "teryt": "1016022",
+        "name": " B\u0119dk\u00f3w"
+    },
+    {
+        "teryt": "1016032",
+        "name": " Budziszewice"
+    },
+    {
+        "teryt": "1016042",
+        "name": " Czerniewice"
+    },
+    {
+        "teryt": "1016052",
+        "name": " Inow\u0142\u00f3dz"
+    },
+    {
+        "teryt": "1016062",
+        "name": " Lubochnia"
+    },
+    {
+        "teryt": "1016072",
+        "name": " Rokiciny"
+    },
+    {
+        "teryt": "1016082",
+        "name": " Rzeczyca"
+    },
+    {
+        "teryt": "1016092",
+        "name": " Tomasz\u00f3w Mazowiecki"
+    },
+    {
+        "teryt": "1016102",
+        "name": " Ujazd"
+    },
+    {
+        "teryt": "1016112",
+        "name": " \u017belechlinek"
+    },
+    {
+        "teryt": "1017012",
+        "name": " Bia\u0142a"
+    },
+    {
+        "teryt": "1017022",
+        "name": " Czarno\u017cy\u0142y"
+    },
+    {
+        "teryt": "1017032",
+        "name": " Konopnica"
+    },
+    {
+        "teryt": "1017042",
+        "name": " Mokrsko"
+    },
+    {
+        "teryt": "1017052",
+        "name": " Osjak\u00f3w"
+    },
+    {
+        "teryt": "1017062",
+        "name": " Ostr\u00f3wek"
+    },
+    {
+        "teryt": "1017072",
+        "name": " P\u0105tn\u00f3w"
+    },
+    {
+        "teryt": "1017082",
+        "name": " Skomlin"
+    },
+    {
+        "teryt": "1017093",
+        "name": " Wielu\u0144"
+    },
+    {
+        "teryt": "1017102",
+        "name": " Wierzchlas"
+    },
+    {
+        "teryt": "1018012",
+        "name": " Boles\u0142awiec"
+    },
+    {
+        "teryt": "1018022",
+        "name": " Czastary"
+    },
+    {
+        "teryt": "1018032",
+        "name": " Galewice"
+    },
+    {
+        "teryt": "1018043",
+        "name": " Lutut\u00f3w"
+    },
+    {
+        "teryt": "1018052",
+        "name": " \u0141ubnice"
+    },
+    {
+        "teryt": "1018062",
+        "name": " Sokolniki"
+    },
+    {
+        "teryt": "1018073",
+        "name": " Wierusz\u00f3w"
+    },
+    {
+        "teryt": "1019011",
+        "name": " Zdu\u0144ska Wola"
+    },
+    {
+        "teryt": "1019023",
+        "name": " Szadek"
+    },
+    {
+        "teryt": "1019032",
+        "name": " Zapolice"
+    },
+    {
+        "teryt": "1019042",
+        "name": " Zdu\u0144ska Wola"
+    },
+    {
+        "teryt": "1020011",
+        "name": " G\u0142owno"
+    },
+    {
+        "teryt": "1020021",
+        "name": " Ozork\u00f3w"
+    },
+    {
+        "teryt": "1020031",
+        "name": " Zgierz"
+    },
+    {
+        "teryt": "1020043",
+        "name": " Aleksandr\u00f3w \u0141\u00f3dzki"
+    },
+    {
+        "teryt": "1020052",
+        "name": " G\u0142owno"
+    },
+    {
+        "teryt": "1020062",
+        "name": " Ozork\u00f3w"
+    },
+    {
+        "teryt": "1020072",
+        "name": " Parz\u0119czew"
+    },
+    {
+        "teryt": "1020083",
+        "name": " Stryk\u00f3w"
+    },
+    {
+        "teryt": "1020092",
+        "name": " Zgierz"
+    },
+    {
+        "teryt": "1021011",
+        "name": " Brzeziny"
+    },
+    {
+        "teryt": "1021022",
+        "name": " Brzeziny"
+    },
+    {
+        "teryt": "1021032",
+        "name": " Dmosin"
+    },
+    {
+        "teryt": "1021042",
+        "name": " Je\u017c\u00f3w"
+    },
+    {
+        "teryt": "1021052",
+        "name": " Rog\u00f3w"
+    },
+    {
+        "teryt": "1061011",
+        "name": " \u0141\u00f3d\u017a"
+    },
+    {
+        "teryt": "1062011",
+        "name": " Piotrk\u00f3w Trybunalski"
+    },
+    {
+        "teryt": "1063011",
+        "name": " Skierniewice"
+    },
+    {
+        "teryt": "1201011",
+        "name": " Bochnia"
+    },
+    {
+        "teryt": "1201022",
+        "name": " Bochnia"
+    },
+    {
+        "teryt": "1201032",
+        "name": " Drwinia"
+    },
+    {
+        "teryt": "1201042",
+        "name": " Lipnica Murowana"
+    },
+    {
+        "teryt": "1201052",
+        "name": " \u0141apan\u00f3w"
+    },
+    {
+        "teryt": "1201063",
+        "name": " Nowy Wi\u015bnicz"
+    },
+    {
+        "teryt": "1201072",
+        "name": " Rzezawa"
+    },
+    {
+        "teryt": "1201082",
+        "name": " Trzciana"
+    },
+    {
+        "teryt": "1201092",
+        "name": " \u017begocina"
+    },
+    {
+        "teryt": "1202012",
+        "name": " Borz\u0119cin"
+    },
+    {
+        "teryt": "1202023",
+        "name": " Brzesko"
+    },
+    {
+        "teryt": "1202033",
+        "name": " Czch\u00f3w"
+    },
+    {
+        "teryt": "1202042",
+        "name": " D\u0119bno"
+    },
+    {
+        "teryt": "1202052",
+        "name": " Gnojnik"
+    },
+    {
+        "teryt": "1202062",
+        "name": " Iwkowa"
+    },
+    {
+        "teryt": "1202072",
+        "name": " Szczurowa"
+    },
+    {
+        "teryt": "1203013",
+        "name": " Alwernia"
+    },
+    {
+        "teryt": "1203022",
+        "name": " Babice"
+    },
+    {
+        "teryt": "1203033",
+        "name": " Chrzan\u00f3w"
+    },
+    {
+        "teryt": "1203043",
+        "name": " Libi\u0105\u017c"
+    },
+    {
+        "teryt": "1203053",
+        "name": " Trzebinia"
+    },
+    {
+        "teryt": "1204012",
+        "name": " Boles\u0142aw"
+    },
+    {
+        "teryt": "1204023",
+        "name": " D\u0105browa Tarnowska"
+    },
+    {
+        "teryt": "1204032",
+        "name": " Gr\u0119bosz\u00f3w"
+    },
+    {
+        "teryt": "1204042",
+        "name": " M\u0119drzech\u00f3w"
+    },
+    {
+        "teryt": "1204052",
+        "name": " Olesno"
+    },
+    {
+        "teryt": "1204062",
+        "name": " Radgoszcz"
+    },
+    {
+        "teryt": "1204073",
+        "name": " Szczucin"
+    },
+    {
+        "teryt": "1205011",
+        "name": " Gorlice"
+    },
+    {
+        "teryt": "1205023",
+        "name": " Biecz"
+    },
+    {
+        "teryt": "1205033",
+        "name": " Bobowa"
+    },
+    {
+        "teryt": "1205042",
+        "name": " Gorlice"
+    },
+    {
+        "teryt": "1205052",
+        "name": " Lipinki"
+    },
+    {
+        "teryt": "1205062",
+        "name": " \u0141u\u017cna"
+    },
+    {
+        "teryt": "1205072",
+        "name": " Moszczenica"
+    },
+    {
+        "teryt": "1205082",
+        "name": " Ropa"
+    },
+    {
+        "teryt": "1205092",
+        "name": " S\u0119kowa"
+    },
+    {
+        "teryt": "1205102",
+        "name": " U\u015bcie Gorlickie"
+    },
+    {
+        "teryt": "1206012",
+        "name": " Czernich\u00f3w"
+    },
+    {
+        "teryt": "1206022",
+        "name": " Igo\u0142omia-Wawrze\u0144czyce|gmina Igo\u0142omia-Wawrze\u0144czyce"
+    },
+    {
+        "teryt": "1206032",
+        "name": " Iwanowice"
+    },
+    {
+        "teryt": "1206042",
+        "name": " Jerzmanowice-Przeginia|gmina Jerzmanowice-Przeginia"
+    },
+    {
+        "teryt": "1206052",
+        "name": " Kocmyrz\u00f3w-Luborzyca|gmina Kocmyrz\u00f3w-Luborzyca"
+    },
+    {
+        "teryt": "1206063",
+        "name": " Krzeszowice"
+    },
+    {
+        "teryt": "1206072",
+        "name": " Liszki"
+    },
+    {
+        "teryt": "1206082",
+        "name": " Micha\u0142owice"
+    },
+    {
+        "teryt": "1206092",
+        "name": " Mogilany"
+    },
+    {
+        "teryt": "1206103",
+        "name": " Ska\u0142a"
+    },
+    {
+        "teryt": "1206113",
+        "name": " Skawina"
+    },
+    {
+        "teryt": "1206123",
+        "name": " S\u0142omniki"
+    },
+    {
+        "teryt": "1206132",
+        "name": " Su\u0142oszowa"
+    },
+    {
+        "teryt": "1206143",
+        "name": " \u015awi\u0105tniki G\u00f3rne"
+    },
+    {
+        "teryt": "1206152",
+        "name": " Wielka Wie\u015b"
+    },
+    {
+        "teryt": "1206162",
+        "name": " Zabierz\u00f3w"
+    },
+    {
+        "teryt": "1206172",
+        "name": " Zielonki"
+    },
+    {
+        "teryt": "1207011",
+        "name": " Limanowa"
+    },
+    {
+        "teryt": "1207021",
+        "name": " Mszana Dolna"
+    },
+    {
+        "teryt": "1207032",
+        "name": " Dobra"
+    },
+    {
+        "teryt": "1207042",
+        "name": " Jod\u0142ownik"
+    },
+    {
+        "teryt": "1207052",
+        "name": " Kamienica"
+    },
+    {
+        "teryt": "1207062",
+        "name": " Laskowa"
+    },
+    {
+        "teryt": "1207072",
+        "name": " Limanowa"
+    },
+    {
+        "teryt": "1207082",
+        "name": " \u0141ukowica"
+    },
+    {
+        "teryt": "1207092",
+        "name": " Mszana Dolna"
+    },
+    {
+        "teryt": "1207102",
+        "name": " Nied\u017awied\u017a"
+    },
+    {
+        "teryt": "1207112",
+        "name": " S\u0142opnice"
+    },
+    {
+        "teryt": "1207122",
+        "name": " Tymbark"
+    },
+    {
+        "teryt": "1208012",
+        "name": " Charsznica"
+    },
+    {
+        "teryt": "1208022",
+        "name": " Go\u0142cza"
+    },
+    {
+        "teryt": "1208032",
+        "name": " Koz\u0142\u00f3w"
+    },
+    {
+        "teryt": "1208042",
+        "name": " Ksi\u0105\u017c Wielki"
+    },
+    {
+        "teryt": "1208053",
+        "name": " Miech\u00f3w"
+    },
+    {
+        "teryt": "1208062",
+        "name": " Rac\u0142awice"
+    },
+    {
+        "teryt": "1208072",
+        "name": " S\u0142abosz\u00f3w"
+    },
+    {
+        "teryt": "1209013",
+        "name": " Dobczyce"
+    },
+    {
+        "teryt": "1209022",
+        "name": " Lubie\u0144"
+    },
+    {
+        "teryt": "1209033",
+        "name": " My\u015blenice"
+    },
+    {
+        "teryt": "1209042",
+        "name": " Pcim"
+    },
+    {
+        "teryt": "1209052",
+        "name": " Raciechowice"
+    },
+    {
+        "teryt": "1209062",
+        "name": " Siepraw"
+    },
+    {
+        "teryt": "1209073",
+        "name": " Su\u0142kowice"
+    },
+    {
+        "teryt": "1209082",
+        "name": " Tokarnia"
+    },
+    {
+        "teryt": "1209092",
+        "name": " Wi\u015bniowa"
+    },
+    {
+        "teryt": "1210011",
+        "name": " Gryb\u00f3w"
+    },
+    {
+        "teryt": "1210022",
+        "name": " Che\u0142miec"
+    },
+    {
+        "teryt": "1210032",
+        "name": " Gr\u00f3deknad Dunajcem"
+    },
+    {
+        "teryt": "1210042",
+        "name": " Gryb\u00f3w"
+    },
+    {
+        "teryt": "1210052",
+        "name": " Kamionka Wielka"
+    },
+    {
+        "teryt": "1210062",
+        "name": " Korzenna"
+    },
+    {
+        "teryt": "1210073",
+        "name": " Krynica-Zdr\u00f3j"
+    },
+    {
+        "teryt": "1210082",
+        "name": " \u0141abowa"
+    },
+    {
+        "teryt": "1210092",
+        "name": " \u0141\u0105cko"
+    },
+    {
+        "teryt": "1210102",
+        "name": " \u0141ososina Dolna"
+    },
+    {
+        "teryt": "1210113",
+        "name": " Muszyna"
+    },
+    {
+        "teryt": "1210122",
+        "name": " Nawojowa"
+    },
+    {
+        "teryt": "1210133",
+        "name": " Piwniczna-Zdr\u00f3j"
+    },
+    {
+        "teryt": "1210142",
+        "name": " Podegrodzie"
+    },
+    {
+        "teryt": "1210152",
+        "name": " Rytro"
+    },
+    {
+        "teryt": "1210163",
+        "name": " Stary S\u0105cz"
+    },
+    {
+        "teryt": "1211011",
+        "name": " Nowy Targ"
+    },
+    {
+        "teryt": "1211023",
+        "name": " Szczawnica"
+    },
+    {
+        "teryt": "1211032",
+        "name": " Czarny Dunajec"
+    },
+    {
+        "teryt": "1211042",
+        "name": " Czorsztyn"
+    },
+    {
+        "teryt": "1211052",
+        "name": " Jab\u0142onka"
+    },
+    {
+        "teryt": "1211062",
+        "name": " Kro\u015bcienkonad Dunajcem"
+    },
+    {
+        "teryt": "1211072",
+        "name": " Lipnica Wielka"
+    },
+    {
+        "teryt": "1211082",
+        "name": " \u0141apsze Ni\u017cne"
+    },
+    {
+        "teryt": "1211092",
+        "name": " Nowy Targ"
+    },
+    {
+        "teryt": "1211102",
+        "name": " Ochotnica Dolna"
+    },
+    {
+        "teryt": "1211112",
+        "name": " Raba Wy\u017cna"
+    },
+    {
+        "teryt": "1211123",
+        "name": " Rabka-Zdr\u00f3j"
+    },
+    {
+        "teryt": "1211132",
+        "name": " Spytkowice"
+    },
+    {
+        "teryt": "1211142",
+        "name": " Szaflary"
+    },
+    {
+        "teryt": "1212011",
+        "name": " Bukowno"
+    },
+    {
+        "teryt": "1212032",
+        "name": " Boles\u0142aw"
+    },
+    {
+        "teryt": "1212042",
+        "name": " Klucze"
+    },
+    {
+        "teryt": "1212053",
+        "name": " Olkusz"
+    },
+    {
+        "teryt": "1212062",
+        "name": " Trzyci\u0105\u017c"
+    },
+    {
+        "teryt": "1212073",
+        "name": " Wolbrom"
+    },
+    {
+        "teryt": "1213011",
+        "name": " O\u015bwi\u0119cim"
+    },
+    {
+        "teryt": "1213023",
+        "name": " Brzeszcze"
+    },
+    {
+        "teryt": "1213033",
+        "name": " Che\u0142mek"
+    },
+    {
+        "teryt": "1213043",
+        "name": " K\u0119ty"
+    },
+    {
+        "teryt": "1213052",
+        "name": " Osiek"
+    },
+    {
+        "teryt": "1213062",
+        "name": " O\u015bwi\u0119cim"
+    },
+    {
+        "teryt": "1213072",
+        "name": " Polanka Wielka"
+    },
+    {
+        "teryt": "1213082",
+        "name": " Przecisz\u00f3w"
+    },
+    {
+        "teryt": "1213093",
+        "name": " Zator"
+    },
+    {
+        "teryt": "1214012",
+        "name": " Koniusza"
+    },
+    {
+        "teryt": "1214023",
+        "name": " Koszyce"
+    },
+    {
+        "teryt": "1214033",
+        "name": " Nowe Brzesko"
+    },
+    {
+        "teryt": "1214042",
+        "name": " Pa\u0142ecznica"
+    },
+    {
+        "teryt": "1214053",
+        "name": " Proszowice"
+    },
+    {
+        "teryt": "1214062",
+        "name": " Radziemice"
+    },
+    {
+        "teryt": "1215011",
+        "name": " Jordan\u00f3w"
+    },
+    {
+        "teryt": "1215021",
+        "name": " Sucha Beskidzka"
+    },
+    {
+        "teryt": "1215032",
+        "name": " Budz\u00f3w"
+    },
+    {
+        "teryt": "1215042",
+        "name": " Bystra-Sidzina|gmina Bystra-Sidzina"
+    },
+    {
+        "teryt": "1215052",
+        "name": " Jordan\u00f3w"
+    },
+    {
+        "teryt": "1215063",
+        "name": " Mak\u00f3w Podhala\u0144ski"
+    },
+    {
+        "teryt": "1215072",
+        "name": " Stryszawa"
+    },
+    {
+        "teryt": "1215082",
+        "name": " Zawoja"
+    },
+    {
+        "teryt": "1215092",
+        "name": " Zembrzyce"
+    },
+    {
+        "teryt": "1216013",
+        "name": " Ci\u0119\u017ckowice"
+    },
+    {
+        "teryt": "1216022",
+        "name": " Gromnik"
+    },
+    {
+        "teryt": "1216032",
+        "name": " Lisia G\u00f3ra"
+    },
+    {
+        "teryt": "1216042",
+        "name": " Ple\u015bna"
+    },
+    {
+        "teryt": "1216053",
+        "name": " Rad\u0142\u00f3w"
+    },
+    {
+        "teryt": "1216063",
+        "name": " Ryglice"
+    },
+    {
+        "teryt": "1216072",
+        "name": " Rzepiennik Strzy\u017cewski"
+    },
+    {
+        "teryt": "1216082",
+        "name": " Skrzysz\u00f3w"
+    },
+    {
+        "teryt": "1216092",
+        "name": " Tarn\u00f3w"
+    },
+    {
+        "teryt": "1216103",
+        "name": " Tuch\u00f3w"
+    },
+    {
+        "teryt": "1216112",
+        "name": " Wierzchos\u0142awice"
+    },
+    {
+        "teryt": "1216122",
+        "name": " Wietrzychowice"
+    },
+    {
+        "teryt": "1216133",
+        "name": " Wojnicz"
+    },
+    {
+        "teryt": "1216143",
+        "name": " Zakliczyn"
+    },
+    {
+        "teryt": "1216153",
+        "name": " \u017babno"
+    },
+    {
+        "teryt": "1216162",
+        "name": " Szerzyny"
+    },
+    {
+        "teryt": "1217011",
+        "name": " Zakopane"
+    },
+    {
+        "teryt": "1217022",
+        "name": " Bia\u0142y Dunajec"
+    },
+    {
+        "teryt": "1217032",
+        "name": " Bukowina Tatrza\u0144ska"
+    },
+    {
+        "teryt": "1217042",
+        "name": " Ko\u015bcielisko"
+    },
+    {
+        "teryt": "1217052",
+        "name": " Poronin"
+    },
+    {
+        "teryt": "1218013",
+        "name": " Andrych\u00f3w"
+    },
+    {
+        "teryt": "1218022",
+        "name": " Brze\u017anica"
+    },
+    {
+        "teryt": "1218033",
+        "name": " Kalwaria Zebrzydowska"
+    },
+    {
+        "teryt": "1218042",
+        "name": " Lanckorona"
+    },
+    {
+        "teryt": "1218052",
+        "name": " Mucharz"
+    },
+    {
+        "teryt": "1218062",
+        "name": " Spytkowice"
+    },
+    {
+        "teryt": "1218072",
+        "name": " Strysz\u00f3w"
+    },
+    {
+        "teryt": "1218082",
+        "name": " Tomice"
+    },
+    {
+        "teryt": "1218093",
+        "name": " Wadowice"
+    },
+    {
+        "teryt": "1218102",
+        "name": " Wieprz"
+    },
+    {
+        "teryt": "1219012",
+        "name": " Biskupice"
+    },
+    {
+        "teryt": "1219022",
+        "name": " Gd\u00f3w"
+    },
+    {
+        "teryt": "1219032",
+        "name": " K\u0142aj"
+    },
+    {
+        "teryt": "1219043",
+        "name": " Niepo\u0142omice"
+    },
+    {
+        "teryt": "1219053",
+        "name": " Wieliczka"
+    },
+    {
+        "teryt": "1261011",
+        "name": " Krak\u00f3w"
+    },
+    {
+        "teryt": "1262011",
+        "name": " Nowy S\u0105cz"
+    },
+    {
+        "teryt": "1263011",
+        "name": " Tarn\u00f3w"
+    },
+    {
+        "teryt": "1401013",
+        "name": " Bia\u0142obrzegi"
+    },
+    {
+        "teryt": "1401022",
+        "name": " Promna"
+    },
+    {
+        "teryt": "1401032",
+        "name": " Radzan\u00f3w"
+    },
+    {
+        "teryt": "1401042",
+        "name": " Stara B\u0142otnica"
+    },
+    {
+        "teryt": "1401052",
+        "name": " Stromiec"
+    },
+    {
+        "teryt": "1401063",
+        "name": " Wy\u015bmierzyce"
+    },
+    {
+        "teryt": "1402011",
+        "name": " Ciechan\u00f3w"
+    },
+    {
+        "teryt": "1402022",
+        "name": " Ciechan\u00f3w"
+    },
+    {
+        "teryt": "1402033",
+        "name": " Glinojeck"
+    },
+    {
+        "teryt": "1402042",
+        "name": " Go\u0142ymin-O\u015brodek"
+    },
+    {
+        "teryt": "1402052",
+        "name": " Grudusk"
+    },
+    {
+        "teryt": "1402062",
+        "name": " Ojrze\u0144"
+    },
+    {
+        "teryt": "1402072",
+        "name": " Opinog\u00f3ra G\u00f3rna"
+    },
+    {
+        "teryt": "1402082",
+        "name": " Regimin"
+    },
+    {
+        "teryt": "1402092",
+        "name": " So\u0144sk"
+    },
+    {
+        "teryt": "1403011",
+        "name": " Garwolin"
+    },
+    {
+        "teryt": "1403021",
+        "name": " \u0141askarzew"
+    },
+    {
+        "teryt": "1403032",
+        "name": " Borowie"
+    },
+    {
+        "teryt": "1403042",
+        "name": " Garwolin"
+    },
+    {
+        "teryt": "1403052",
+        "name": " G\u00f3rzno"
+    },
+    {
+        "teryt": "1403062",
+        "name": " \u0141askarzew"
+    },
+    {
+        "teryt": "1403072",
+        "name": " Maciejowice"
+    },
+    {
+        "teryt": "1403082",
+        "name": " Miastk\u00f3w Ko\u015bcielny"
+    },
+    {
+        "teryt": "1403092",
+        "name": " Parys\u00f3w"
+    },
+    {
+        "teryt": "1403103",
+        "name": " Pilawa"
+    },
+    {
+        "teryt": "1403112",
+        "name": " Sobolew"
+    },
+    {
+        "teryt": "1403122",
+        "name": " Trojan\u00f3w"
+    },
+    {
+        "teryt": "1403132",
+        "name": " Wilga"
+    },
+    {
+        "teryt": "1403143",
+        "name": " \u017belech\u00f3w"
+    },
+    {
+        "teryt": "1404011",
+        "name": " Gostynin"
+    },
+    {
+        "teryt": "1404022",
+        "name": " Gostynin"
+    },
+    {
+        "teryt": "1404032",
+        "name": " Pacyna"
+    },
+    {
+        "teryt": "1404043",
+        "name": " Sanniki"
+    },
+    {
+        "teryt": "1404052",
+        "name": " Szczawin Ko\u015bcielny"
+    },
+    {
+        "teryt": "1405011",
+        "name": " Milan\u00f3wek"
+    },
+    {
+        "teryt": "1405021",
+        "name": " Podkowa Le\u015bna"
+    },
+    {
+        "teryt": "1405032",
+        "name": " Baran\u00f3w"
+    },
+    {
+        "teryt": "1405043",
+        "name": " Grodzisk Mazowiecki"
+    },
+    {
+        "teryt": "1405052",
+        "name": " Jaktor\u00f3w"
+    },
+    {
+        "teryt": "1405062",
+        "name": " \u017babia Wola"
+    },
+    {
+        "teryt": "1406012",
+        "name": " Belsk Du\u017cy"
+    },
+    {
+        "teryt": "1406022",
+        "name": " B\u0142\u0119d\u00f3w"
+    },
+    {
+        "teryt": "1406032",
+        "name": " Chyn\u00f3w"
+    },
+    {
+        "teryt": "1406042",
+        "name": " Goszczyn"
+    },
+    {
+        "teryt": "1406053",
+        "name": " Gr\u00f3jec"
+    },
+    {
+        "teryt": "1406062",
+        "name": " Jasieniec"
+    },
+    {
+        "teryt": "1406073",
+        "name": " Mogielnica"
+    },
+    {
+        "teryt": "1406083",
+        "name": " Nowe Miastonad Pilic\u0105"
+    },
+    {
+        "teryt": "1406092",
+        "name": " Pniewy"
+    },
+    {
+        "teryt": "1406113",
+        "name": " Warka"
+    },
+    {
+        "teryt": "1407012",
+        "name": " Garbatka-Letnisko"
+    },
+    {
+        "teryt": "1407022",
+        "name": " G\u0142owacz\u00f3w"
+    },
+    {
+        "teryt": "1407032",
+        "name": " Gniewosz\u00f3w"
+    },
+    {
+        "teryt": "1407042",
+        "name": " Grab\u00f3wnad Pilic\u0105"
+    },
+    {
+        "teryt": "1407053",
+        "name": " Kozienice"
+    },
+    {
+        "teryt": "1407062",
+        "name": " Magnuszew"
+    },
+    {
+        "teryt": "1407072",
+        "name": " Sieciech\u00f3w"
+    },
+    {
+        "teryt": "1408011",
+        "name": " Legionowo"
+    },
+    {
+        "teryt": "1408022",
+        "name": " Jab\u0142onna"
+    },
+    {
+        "teryt": "1408032",
+        "name": " Niepor\u0119t"
+    },
+    {
+        "teryt": "1408043",
+        "name": " Serock"
+    },
+    {
+        "teryt": "1408052",
+        "name": " Wieliszew"
+    },
+    {
+        "teryt": "1409012",
+        "name": " Chotcza"
+    },
+    {
+        "teryt": "1409022",
+        "name": " Ciepiel\u00f3w"
+    },
+    {
+        "teryt": "1409033",
+        "name": " Lipsko"
+    },
+    {
+        "teryt": "1409042",
+        "name": " Rzeczni\u00f3w"
+    },
+    {
+        "teryt": "1409052",
+        "name": " Sienno"
+    },
+    {
+        "teryt": "1409063",
+        "name": " Solecnad Wis\u0142\u0105"
+    },
+    {
+        "teryt": "1410012",
+        "name": " Huszlew"
+    },
+    {
+        "teryt": "1410023",
+        "name": " \u0141osice"
+    },
+    {
+        "teryt": "1410032",
+        "name": " Olszanka"
+    },
+    {
+        "teryt": "1410042",
+        "name": " Plater\u00f3w"
+    },
+    {
+        "teryt": "1410052",
+        "name": " Sarnaki"
+    },
+    {
+        "teryt": "1410062",
+        "name": " Stara Kornica"
+    },
+    {
+        "teryt": "1411011",
+        "name": " Mak\u00f3w Mazowiecki"
+    },
+    {
+        "teryt": "1411022",
+        "name": " Czerwonka"
+    },
+    {
+        "teryt": "1411032",
+        "name": " Karniewo"
+    },
+    {
+        "teryt": "1411042",
+        "name": " Krasnosielc"
+    },
+    {
+        "teryt": "1411052",
+        "name": " M\u0142ynarze"
+    },
+    {
+        "teryt": "1411062",
+        "name": " P\u0142oniawy-Bramura"
+    },
+    {
+        "teryt": "1411073",
+        "name": " R\u00f3\u017can"
+    },
+    {
+        "teryt": "1411082",
+        "name": " Rzewnie"
+    },
+    {
+        "teryt": "1411092",
+        "name": " Sypniewo"
+    },
+    {
+        "teryt": "1411102",
+        "name": " Szelk\u00f3w"
+    },
+    {
+        "teryt": "1412011",
+        "name": " Mi\u0144sk Mazowiecki"
+    },
+    {
+        "teryt": "1412042",
+        "name": " Ceg\u0142\u00f3w"
+    },
+    {
+        "teryt": "1412052",
+        "name": " D\u0119be Wielkie"
+    },
+    {
+        "teryt": "1412062",
+        "name": " Dobre"
+    },
+    {
+        "teryt": "1412073",
+        "name": " Halin\u00f3w"
+    },
+    {
+        "teryt": "1412082",
+        "name": " Jakub\u00f3w"
+    },
+    {
+        "teryt": "1412093",
+        "name": " Ka\u0142uszyn"
+    },
+    {
+        "teryt": "1412102",
+        "name": " Latowicz"
+    },
+    {
+        "teryt": "1412112",
+        "name": " Mi\u0144sk Mazowiecki"
+    },
+    {
+        "teryt": "1412123",
+        "name": " Mrozy"
+    },
+    {
+        "teryt": "1412132",
+        "name": " Siennica"
+    },
+    {
+        "teryt": "1412142",
+        "name": " Stanis\u0142aw\u00f3w"
+    },
+    {
+        "teryt": "1412151",
+        "name": " Sulej\u00f3wek"
+    },
+    {
+        "teryt": "1413011",
+        "name": " M\u0142awa"
+    },
+    {
+        "teryt": "1413022",
+        "name": " Dzierzgowo"
+    },
+    {
+        "teryt": "1413032",
+        "name": " Lipowiec Ko\u015bcielny"
+    },
+    {
+        "teryt": "1413042",
+        "name": " Radzan\u00f3w"
+    },
+    {
+        "teryt": "1413052",
+        "name": " Strzegowo"
+    },
+    {
+        "teryt": "1413062",
+        "name": " Stupsk"
+    },
+    {
+        "teryt": "1413072",
+        "name": " Szre\u0144sk"
+    },
+    {
+        "teryt": "1413082",
+        "name": " Szyd\u0142owo"
+    },
+    {
+        "teryt": "1413092",
+        "name": " Wieczfnia Ko\u015bcielna"
+    },
+    {
+        "teryt": "1413102",
+        "name": " Wi\u015bniewo"
+    },
+    {
+        "teryt": "1414011",
+        "name": " Nowy Dw\u00f3r Mazowiecki"
+    },
+    {
+        "teryt": "1414022",
+        "name": " Czosn\u00f3w"
+    },
+    {
+        "teryt": "1414032",
+        "name": " Leoncin"
+    },
+    {
+        "teryt": "1414043",
+        "name": " Nasielsk"
+    },
+    {
+        "teryt": "1414052",
+        "name": " Pomiech\u00f3wek"
+    },
+    {
+        "teryt": "1414063",
+        "name": " Zakroczym"
+    },
+    {
+        "teryt": "1415012",
+        "name": " Baranowo"
+    },
+    {
+        "teryt": "1415022",
+        "name": " Czarnia"
+    },
+    {
+        "teryt": "1415032",
+        "name": " Czerwin"
+    },
+    {
+        "teryt": "1415042",
+        "name": " Goworowo"
+    },
+    {
+        "teryt": "1415052",
+        "name": " Kadzid\u0142o"
+    },
+    {
+        "teryt": "1415062",
+        "name": " Lelis"
+    },
+    {
+        "teryt": "1415072",
+        "name": " \u0141yse"
+    },
+    {
+        "teryt": "1415083",
+        "name": " Myszyniec"
+    },
+    {
+        "teryt": "1415092",
+        "name": " Olszewo-Borki"
+    },
+    {
+        "teryt": "1415102",
+        "name": " Rzeku\u0144"
+    },
+    {
+        "teryt": "1415112",
+        "name": " Troszyn"
+    },
+    {
+        "teryt": "1416011",
+        "name": " Ostr\u00f3w Mazowiecka"
+    },
+    {
+        "teryt": "1416022",
+        "name": " Andrzejewo"
+    },
+    {
+        "teryt": "1416032",
+        "name": " Boguty-Pianki"
+    },
+    {
+        "teryt": "1416043",
+        "name": " Brok"
+    },
+    {
+        "teryt": "1416052",
+        "name": " Ma\u0142kinia G\u00f3rna"
+    },
+    {
+        "teryt": "1416062",
+        "name": " Nur"
+    },
+    {
+        "teryt": "1416072",
+        "name": " Ostr\u00f3w Mazowiecka"
+    },
+    {
+        "teryt": "1416082",
+        "name": " Stary Luboty\u0144"
+    },
+    {
+        "teryt": "1416092",
+        "name": " Szulborze Wielkie"
+    },
+    {
+        "teryt": "1416102",
+        "name": " W\u0105sewo"
+    },
+    {
+        "teryt": "1416112",
+        "name": " Zar\u0119by Ko\u015bcielne"
+    },
+    {
+        "teryt": "1417011",
+        "name": " J\u00f3zef\u00f3w"
+    },
+    {
+        "teryt": "1417021",
+        "name": " Otwock"
+    },
+    {
+        "teryt": "1417032",
+        "name": " Celestyn\u00f3w"
+    },
+    {
+        "teryt": "1417043",
+        "name": " Karczew"
+    },
+    {
+        "teryt": "1417052",
+        "name": " Ko\u0142biel"
+    },
+    {
+        "teryt": "1417062",
+        "name": " Osieck"
+    },
+    {
+        "teryt": "1417072",
+        "name": " Sobienie-Jeziory"
+    },
+    {
+        "teryt": "1417082",
+        "name": " Wi\u0105zowna"
+    },
+    {
+        "teryt": "1418013",
+        "name": " G\u00f3ra Kalwaria"
+    },
+    {
+        "teryt": "1418023",
+        "name": " Konstancin-Jeziorna"
+    },
+    {
+        "teryt": "1418032",
+        "name": " Lesznowola"
+    },
+    {
+        "teryt": "1418043",
+        "name": " Piaseczno"
+    },
+    {
+        "teryt": "1418052",
+        "name": " Pra\u017cm\u00f3w"
+    },
+    {
+        "teryt": "1418063",
+        "name": " Tarczyn"
+    },
+    {
+        "teryt": "1419012",
+        "name": " Bielsk"
+    },
+    {
+        "teryt": "1419022",
+        "name": " Bodzan\u00f3w"
+    },
+    {
+        "teryt": "1419032",
+        "name": " Brudze\u0144 Du\u017cy"
+    },
+    {
+        "teryt": "1419042",
+        "name": " Bulkowo"
+    },
+    {
+        "teryt": "1419053",
+        "name": " Drobin"
+    },
+    {
+        "teryt": "1419063",
+        "name": " G\u0105bin"
+    },
+    {
+        "teryt": "1419072",
+        "name": " \u0141\u0105ck"
+    },
+    {
+        "teryt": "1419082",
+        "name": " Ma\u0142a Wie\u015b"
+    },
+    {
+        "teryt": "1419092",
+        "name": " Nowy Dunin\u00f3w"
+    },
+    {
+        "teryt": "1419102",
+        "name": " Radzanowo"
+    },
+    {
+        "teryt": "1419112",
+        "name": " S\u0142ubice"
+    },
+    {
+        "teryt": "1419122",
+        "name": " S\u0142upno"
+    },
+    {
+        "teryt": "1419132",
+        "name": " Stara Bia\u0142a"
+    },
+    {
+        "teryt": "1419142",
+        "name": " Staro\u017areby"
+    },
+    {
+        "teryt": "1419153",
+        "name": " Wyszogr\u00f3d"
+    },
+    {
+        "teryt": "1420011",
+        "name": " P\u0142o\u0144sk"
+    },
+    {
+        "teryt": "1420021",
+        "name": " Raci\u0105\u017c"
+    },
+    {
+        "teryt": "1420032",
+        "name": " Baboszewo"
+    },
+    {
+        "teryt": "1420043",
+        "name": " Czerwi\u0144sknad Wis\u0142\u0105"
+    },
+    {
+        "teryt": "1420052",
+        "name": " Dzierz\u0105\u017cnia"
+    },
+    {
+        "teryt": "1420062",
+        "name": " Joniec"
+    },
+    {
+        "teryt": "1420072",
+        "name": " Naruszewo"
+    },
+    {
+        "teryt": "1420082",
+        "name": " Nowe Miasto"
+    },
+    {
+        "teryt": "1420092",
+        "name": " P\u0142o\u0144sk"
+    },
+    {
+        "teryt": "1420102",
+        "name": " Raci\u0105\u017c"
+    },
+    {
+        "teryt": "1420113",
+        "name": " Sochocin"
+    },
+    {
+        "teryt": "1420122",
+        "name": " Za\u0142uski"
+    },
+    {
+        "teryt": "1421011",
+        "name": " Piast\u00f3w"
+    },
+    {
+        "teryt": "1421021",
+        "name": " Pruszk\u00f3w"
+    },
+    {
+        "teryt": "1421033",
+        "name": " Brwin\u00f3w"
+    },
+    {
+        "teryt": "1421042",
+        "name": " Micha\u0142owice"
+    },
+    {
+        "teryt": "1421052",
+        "name": " Nadarzyn"
+    },
+    {
+        "teryt": "1421062",
+        "name": " Raszyn"
+    },
+    {
+        "teryt": "1422011",
+        "name": " Przasnysz"
+    },
+    {
+        "teryt": "1422023",
+        "name": " Chorzele"
+    },
+    {
+        "teryt": "1422032",
+        "name": " Czernice Borowe"
+    },
+    {
+        "teryt": "1422042",
+        "name": " Jednoro\u017cec"
+    },
+    {
+        "teryt": "1422052",
+        "name": " Krasne"
+    },
+    {
+        "teryt": "1422062",
+        "name": " Krzynow\u0142oga Ma\u0142a"
+    },
+    {
+        "teryt": "1422072",
+        "name": " Przasnysz"
+    },
+    {
+        "teryt": "1423012",
+        "name": " Borkowice"
+    },
+    {
+        "teryt": "1423022",
+        "name": " Gielni\u00f3w"
+    },
+    {
+        "teryt": "1423032",
+        "name": " Klw\u00f3w"
+    },
+    {
+        "teryt": "1423042",
+        "name": " Odrzyw\u00f3\u0142"
+    },
+    {
+        "teryt": "1423052",
+        "name": " Potwor\u00f3w"
+    },
+    {
+        "teryt": "1423063",
+        "name": " Przysucha"
+    },
+    {
+        "teryt": "1423072",
+        "name": " Rusin\u00f3w"
+    },
+    {
+        "teryt": "1423082",
+        "name": " Wieniawa"
+    },
+    {
+        "teryt": "1424012",
+        "name": " Gzy"
+    },
+    {
+        "teryt": "1424022",
+        "name": " Obryte"
+    },
+    {
+        "teryt": "1424032",
+        "name": " Pokrzywnica"
+    },
+    {
+        "teryt": "1424043",
+        "name": " Pu\u0142tusk"
+    },
+    {
+        "teryt": "1424052",
+        "name": " \u015awiercze"
+    },
+    {
+        "teryt": "1424062",
+        "name": " Winnica"
+    },
+    {
+        "teryt": "1424072",
+        "name": " Zatory"
+    },
+    {
+        "teryt": "1425011",
+        "name": " Pionki"
+    },
+    {
+        "teryt": "1425022",
+        "name": " G\u00f3zd"
+    },
+    {
+        "teryt": "1425033",
+        "name": " I\u0142\u017ca"
+    },
+    {
+        "teryt": "1425042",
+        "name": " Jastrz\u0119bia"
+    },
+    {
+        "teryt": "1425052",
+        "name": " Jedli\u0144sk"
+    },
+    {
+        "teryt": "1425062",
+        "name": " Jedlnia-Letnisko"
+    },
+    {
+        "teryt": "1425072",
+        "name": " Kowala"
+    },
+    {
+        "teryt": "1425082",
+        "name": " Pionki"
+    },
+    {
+        "teryt": "1425092",
+        "name": " Przytyk"
+    },
+    {
+        "teryt": "1425103",
+        "name": " Skaryszew"
+    },
+    {
+        "teryt": "1425112",
+        "name": " Wierzbica"
+    },
+    {
+        "teryt": "1425122",
+        "name": " Wolan\u00f3w"
+    },
+    {
+        "teryt": "1425132",
+        "name": " Zakrzew"
+    },
+    {
+        "teryt": "1426012",
+        "name": " Domanice"
+    },
+    {
+        "teryt": "1426022",
+        "name": " Korczew"
+    },
+    {
+        "teryt": "1426032",
+        "name": " Kotu\u0144"
+    },
+    {
+        "teryt": "1426042",
+        "name": " Mokobody"
+    },
+    {
+        "teryt": "1426053",
+        "name": " Mordy"
+    },
+    {
+        "teryt": "1426062",
+        "name": " Paprotnia"
+    },
+    {
+        "teryt": "1426072",
+        "name": " Przesmyki"
+    },
+    {
+        "teryt": "1426082",
+        "name": " Siedlce"
+    },
+    {
+        "teryt": "1426092",
+        "name": " Sk\u00f3rzec"
+    },
+    {
+        "teryt": "1426102",
+        "name": " Sucho\u017cebry"
+    },
+    {
+        "teryt": "1426112",
+        "name": " Wi\u015bniew"
+    },
+    {
+        "teryt": "1426122",
+        "name": " Wodynie"
+    },
+    {
+        "teryt": "1426132",
+        "name": " Zbuczyn"
+    },
+    {
+        "teryt": "1427011",
+        "name": " Sierpc"
+    },
+    {
+        "teryt": "1427022",
+        "name": " Gozdowo"
+    },
+    {
+        "teryt": "1427032",
+        "name": " Mochowo"
+    },
+    {
+        "teryt": "1427042",
+        "name": " Ro\u015bciszewo"
+    },
+    {
+        "teryt": "1427052",
+        "name": " Sierpc"
+    },
+    {
+        "teryt": "1427062",
+        "name": " Szczutowo"
+    },
+    {
+        "teryt": "1427072",
+        "name": " Zawidz"
+    },
+    {
+        "teryt": "1428011",
+        "name": " Sochaczew"
+    },
+    {
+        "teryt": "1428022",
+        "name": " Broch\u00f3w"
+    },
+    {
+        "teryt": "1428032",
+        "name": " I\u0142\u00f3w"
+    },
+    {
+        "teryt": "1428042",
+        "name": " M\u0142odzieszyn"
+    },
+    {
+        "teryt": "1428052",
+        "name": " Nowa Sucha"
+    },
+    {
+        "teryt": "1428062",
+        "name": " Rybno"
+    },
+    {
+        "teryt": "1428072",
+        "name": " Sochaczew"
+    },
+    {
+        "teryt": "1428082",
+        "name": " Teresin"
+    },
+    {
+        "teryt": "1429011",
+        "name": " Soko\u0142\u00f3w Podlaski"
+    },
+    {
+        "teryt": "1429022",
+        "name": " Bielany"
+    },
+    {
+        "teryt": "1429032",
+        "name": " Ceran\u00f3w"
+    },
+    {
+        "teryt": "1429042",
+        "name": " Jab\u0142onna Lacka"
+    },
+    {
+        "teryt": "1429053",
+        "name": " Kos\u00f3w Lacki"
+    },
+    {
+        "teryt": "1429062",
+        "name": " Repki"
+    },
+    {
+        "teryt": "1429072",
+        "name": " Sabnie"
+    },
+    {
+        "teryt": "1429082",
+        "name": " Soko\u0142\u00f3w Podlaski"
+    },
+    {
+        "teryt": "1429092",
+        "name": " Sterdy\u0144"
+    },
+    {
+        "teryt": "1430012",
+        "name": " Chlewiska"
+    },
+    {
+        "teryt": "1430022",
+        "name": " Jastrz\u0105b"
+    },
+    {
+        "teryt": "1430032",
+        "name": " Mir\u00f3w"
+    },
+    {
+        "teryt": "1430042",
+        "name": " Oro\u0144sko"
+    },
+    {
+        "teryt": "1430053",
+        "name": " Szyd\u0142owiec"
+    },
+    {
+        "teryt": "1432013",
+        "name": " B\u0142onie"
+    },
+    {
+        "teryt": "1432022",
+        "name": " Izabelin"
+    },
+    {
+        "teryt": "1432032",
+        "name": " Kampinos"
+    },
+    {
+        "teryt": "1432042",
+        "name": " Leszno"
+    },
+    {
+        "teryt": "1432053",
+        "name": " \u0141omianki"
+    },
+    {
+        "teryt": "1432063",
+        "name": " O\u017car\u00f3w Mazowiecki"
+    },
+    {
+        "teryt": "1432072",
+        "name": " Stare Babice"
+    },
+    {
+        "teryt": "1433011",
+        "name": " W\u0119gr\u00f3w"
+    },
+    {
+        "teryt": "1433022",
+        "name": " Gr\u0119bk\u00f3w"
+    },
+    {
+        "teryt": "1433032",
+        "name": " Korytnica"
+    },
+    {
+        "teryt": "1433042",
+        "name": " Liw"
+    },
+    {
+        "teryt": "1433053",
+        "name": " \u0141och\u00f3w"
+    },
+    {
+        "teryt": "1433062",
+        "name": " Miedzna"
+    },
+    {
+        "teryt": "1433072",
+        "name": " Sadowne"
+    },
+    {
+        "teryt": "1433082",
+        "name": " Stoczek"
+    },
+    {
+        "teryt": "1433092",
+        "name": " Wierzbno"
+    },
+    {
+        "teryt": "1434011",
+        "name": " Koby\u0142ka"
+    },
+    {
+        "teryt": "1434021",
+        "name": " Marki"
+    },
+    {
+        "teryt": "1434031",
+        "name": " Z\u0105bki"
+    },
+    {
+        "teryt": "1434041",
+        "name": " Zielonka"
+    },
+    {
+        "teryt": "1434052",
+        "name": " D\u0105br\u00f3wka"
+    },
+    {
+        "teryt": "1434062",
+        "name": " Jad\u00f3w"
+    },
+    {
+        "teryt": "1434072",
+        "name": " Klemb\u00f3w"
+    },
+    {
+        "teryt": "1434082",
+        "name": " Po\u015bwi\u0119tne"
+    },
+    {
+        "teryt": "1434093",
+        "name": " Radzymin"
+    },
+    {
+        "teryt": "1434102",
+        "name": " Strach\u00f3wka"
+    },
+    {
+        "teryt": "1434113",
+        "name": " T\u0142uszcz"
+    },
+    {
+        "teryt": "1434123",
+        "name": " Wo\u0142omin"
+    },
+    {
+        "teryt": "1435012",
+        "name": " Bra\u0144szczyk"
+    },
+    {
+        "teryt": "1435022",
+        "name": " D\u0142ugosiod\u0142o"
+    },
+    {
+        "teryt": "1435032",
+        "name": " Rz\u0105\u015bnik"
+    },
+    {
+        "teryt": "1435042",
+        "name": " Somianka"
+    },
+    {
+        "teryt": "1435053",
+        "name": " Wyszk\u00f3w"
+    },
+    {
+        "teryt": "1435062",
+        "name": " Zabrodzie"
+    },
+    {
+        "teryt": "1436012",
+        "name": " Kazan\u00f3w"
+    },
+    {
+        "teryt": "1436022",
+        "name": " Policzna"
+    },
+    {
+        "teryt": "1436032",
+        "name": " Przy\u0142\u0119k"
+    },
+    {
+        "teryt": "1436042",
+        "name": " Tcz\u00f3w"
+    },
+    {
+        "teryt": "1436053",
+        "name": " Zwole\u0144"
+    },
+    {
+        "teryt": "1437013",
+        "name": " Bie\u017cu\u0144"
+    },
+    {
+        "teryt": "1437022",
+        "name": " Kuczbork-Osada"
+    },
+    {
+        "teryt": "1437033",
+        "name": " Lubowidz"
+    },
+    {
+        "teryt": "1437042",
+        "name": " Lutocin"
+    },
+    {
+        "teryt": "1437052",
+        "name": " Siemi\u0105tkowo"
+    },
+    {
+        "teryt": "1437063",
+        "name": " \u017buromin"
+    },
+    {
+        "teryt": "1438011",
+        "name": " \u017byrard\u00f3w"
+    },
+    {
+        "teryt": "1438023",
+        "name": " Mszczon\u00f3w"
+    },
+    {
+        "teryt": "1438032",
+        "name": " Puszcza Maria\u0144ska"
+    },
+    {
+        "teryt": "1438042",
+        "name": " Radziejowice"
+    },
+    {
+        "teryt": "1438053",
+        "name": " Wiskitki"
+    },
+    {
+        "teryt": "1461011",
+        "name": " Ostro\u0142\u0119ka"
+    },
+    {
+        "teryt": "1462011",
+        "name": " P\u0142ock"
+    },
+    {
+        "teryt": "1463011",
+        "name": " Radom"
+    },
+    {
+        "teryt": "1464011",
+        "name": " Siedlce"
+    },
+    {
+        "teryt": "1465011",
+        "name": " Warszawa"
+    },
+    {
+        "teryt": "1601011",
+        "name": " Brzeg"
+    },
+    {
+        "teryt": "1601022",
+        "name": " Skarbimierz"
+    },
+    {
+        "teryt": "1601033",
+        "name": " Grodk\u00f3w"
+    },
+    {
+        "teryt": "1601043",
+        "name": " Lewin Brzeski"
+    },
+    {
+        "teryt": "1601052",
+        "name": " Lubsza"
+    },
+    {
+        "teryt": "1601062",
+        "name": " Olszanka"
+    },
+    {
+        "teryt": "1602013",
+        "name": " Babor\u00f3w"
+    },
+    {
+        "teryt": "1602022",
+        "name": " Branice"
+    },
+    {
+        "teryt": "1602033",
+        "name": " G\u0142ubczyce"
+    },
+    {
+        "teryt": "1602043",
+        "name": " Kietrz"
+    },
+    {
+        "teryt": "1603011",
+        "name": " K\u0119dzierzyn-Ko\u017ale"
+    },
+    {
+        "teryt": "1603022",
+        "name": " Bierawa"
+    },
+    {
+        "teryt": "1603032",
+        "name": " Cisek"
+    },
+    {
+        "teryt": "1603042",
+        "name": " Paw\u0142owiczki"
+    },
+    {
+        "teryt": "1603052",
+        "name": " Polska Cerekiew"
+    },
+    {
+        "teryt": "1603062",
+        "name": " Re\u0144ska Wie\u015b"
+    },
+    {
+        "teryt": "1604013",
+        "name": " Byczyna"
+    },
+    {
+        "teryt": "1604023",
+        "name": " Kluczbork"
+    },
+    {
+        "teryt": "1604032",
+        "name": " Lasowice Wielkie"
+    },
+    {
+        "teryt": "1604043",
+        "name": " Wo\u0142czyn"
+    },
+    {
+        "teryt": "1605013",
+        "name": " Gogolin"
+    },
+    {
+        "teryt": "1605023",
+        "name": " Krapkowice"
+    },
+    {
+        "teryt": "1605032",
+        "name": " Strzeleczki"
+    },
+    {
+        "teryt": "1605042",
+        "name": " Walce"
+    },
+    {
+        "teryt": "1605053",
+        "name": " Zdzieszowice"
+    },
+    {
+        "teryt": "1606012",
+        "name": " Domaszowice"
+    },
+    {
+        "teryt": "1606023",
+        "name": " Namys\u0142\u00f3w"
+    },
+    {
+        "teryt": "1606032",
+        "name": " Pok\u00f3j"
+    },
+    {
+        "teryt": "1606042",
+        "name": " \u015awiercz\u00f3w"
+    },
+    {
+        "teryt": "1606052",
+        "name": " Wilk\u00f3w"
+    },
+    {
+        "teryt": "1607013",
+        "name": " G\u0142ucho\u0142azy"
+    },
+    {
+        "teryt": "1607022",
+        "name": " Kamiennik"
+    },
+    {
+        "teryt": "1607033",
+        "name": " Korfant\u00f3w"
+    },
+    {
+        "teryt": "1607042",
+        "name": " \u0141ambinowice"
+    },
+    {
+        "teryt": "1607053",
+        "name": " Nysa"
+    },
+    {
+        "teryt": "1607063",
+        "name": " Otmuch\u00f3w"
+    },
+    {
+        "teryt": "1607073",
+        "name": " Paczk\u00f3w"
+    },
+    {
+        "teryt": "1607082",
+        "name": " Pakos\u0142awice"
+    },
+    {
+        "teryt": "1607092",
+        "name": " Skoroszyce"
+    },
+    {
+        "teryt": "1608013",
+        "name": " Dobrodzie\u0144"
+    },
+    {
+        "teryt": "1608023",
+        "name": " Gorz\u00f3w \u015al\u0105ski"
+    },
+    {
+        "teryt": "1608033",
+        "name": " Olesno"
+    },
+    {
+        "teryt": "1608043",
+        "name": " Praszka"
+    },
+    {
+        "teryt": "1608052",
+        "name": " Rad\u0142\u00f3w"
+    },
+    {
+        "teryt": "1608062",
+        "name": " Rudniki"
+    },
+    {
+        "teryt": "1608072",
+        "name": " Z\u0119bowice"
+    },
+    {
+        "teryt": "1609012",
+        "name": " Chrz\u0105stowice"
+    },
+    {
+        "teryt": "1609022",
+        "name": " D\u0105browa"
+    },
+    {
+        "teryt": "1609032",
+        "name": " Dobrze\u0144 Wielki"
+    },
+    {
+        "teryt": "1609042",
+        "name": " Komprachcice"
+    },
+    {
+        "teryt": "1609052",
+        "name": " \u0141ubniany"
+    },
+    {
+        "teryt": "1609062",
+        "name": " Mur\u00f3w"
+    },
+    {
+        "teryt": "1609073",
+        "name": " Niemodlin"
+    },
+    {
+        "teryt": "1609083",
+        "name": " Ozimek"
+    },
+    {
+        "teryt": "1609092",
+        "name": " Popiel\u00f3w"
+    },
+    {
+        "teryt": "1609103",
+        "name": " Pr\u00f3szk\u00f3w"
+    },
+    {
+        "teryt": "1609112",
+        "name": " Tarn\u00f3w Opolski"
+    },
+    {
+        "teryt": "1609123",
+        "name": " Tu\u0142owice"
+    },
+    {
+        "teryt": "1609132",
+        "name": " Turawa"
+    },
+    {
+        "teryt": "1610013",
+        "name": " Bia\u0142a"
+    },
+    {
+        "teryt": "1610023",
+        "name": " G\u0142og\u00f3wek"
+    },
+    {
+        "teryt": "1610032",
+        "name": " Lubrza"
+    },
+    {
+        "teryt": "1610043",
+        "name": " Prudnik"
+    },
+    {
+        "teryt": "1611012",
+        "name": " Izbicko"
+    },
+    {
+        "teryt": "1611022",
+        "name": " Jemielnica"
+    },
+    {
+        "teryt": "1611033",
+        "name": " Kolonowskie"
+    },
+    {
+        "teryt": "1611043",
+        "name": " Le\u015bnica"
+    },
+    {
+        "teryt": "1611053",
+        "name": " Strzelce Opolskie"
+    },
+    {
+        "teryt": "1611063",
+        "name": " Ujazd"
+    },
+    {
+        "teryt": "1611073",
+        "name": " Zawadzkie"
+    },
+    {
+        "teryt": "1661011",
+        "name": " Opole"
+    },
+    {
+        "teryt": "1801032",
+        "name": " Czarna"
+    },
+    {
+        "teryt": "1801052",
+        "name": " Lutowiska"
+    },
+    {
+        "teryt": "1801083",
+        "name": " Ustrzyki Dolne"
+    },
+    {
+        "teryt": "1802013",
+        "name": " Brzoz\u00f3w"
+    },
+    {
+        "teryt": "1802022",
+        "name": " Domaradz"
+    },
+    {
+        "teryt": "1802032",
+        "name": " Dydnia"
+    },
+    {
+        "teryt": "1802042",
+        "name": " Hacz\u00f3w"
+    },
+    {
+        "teryt": "1802052",
+        "name": " Jasienica Rosielna"
+    },
+    {
+        "teryt": "1802062",
+        "name": " Nozdrzec"
+    },
+    {
+        "teryt": "1803011",
+        "name": " D\u0119bica"
+    },
+    {
+        "teryt": "1803023",
+        "name": " Brzostek"
+    },
+    {
+        "teryt": "1803032",
+        "name": " Czarna"
+    },
+    {
+        "teryt": "1803042",
+        "name": " D\u0119bica"
+    },
+    {
+        "teryt": "1803052",
+        "name": " Jod\u0142owa"
+    },
+    {
+        "teryt": "1803063",
+        "name": " Pilzno"
+    },
+    {
+        "teryt": "1803072",
+        "name": " \u017byrak\u00f3w"
+    },
+    {
+        "teryt": "1804011",
+        "name": " Jaros\u0142aw"
+    },
+    {
+        "teryt": "1804021",
+        "name": " Radymno"
+    },
+    {
+        "teryt": "1804032",
+        "name": " Ch\u0142opice"
+    },
+    {
+        "teryt": "1804042",
+        "name": " Jaros\u0142aw"
+    },
+    {
+        "teryt": "1804052",
+        "name": " Laszki"
+    },
+    {
+        "teryt": "1804062",
+        "name": " Paw\u0142osi\u00f3w"
+    },
+    {
+        "teryt": "1804073",
+        "name": " Pruchnik"
+    },
+    {
+        "teryt": "1804082",
+        "name": " Radymno"
+    },
+    {
+        "teryt": "1804092",
+        "name": " Rokietnica"
+    },
+    {
+        "teryt": "1804102",
+        "name": " Ro\u017awienica"
+    },
+    {
+        "teryt": "1804112",
+        "name": " Wi\u0105zownica"
+    },
+    {
+        "teryt": "1805011",
+        "name": " Jas\u0142o"
+    },
+    {
+        "teryt": "1805022",
+        "name": " Brzyska"
+    },
+    {
+        "teryt": "1805032",
+        "name": " D\u0119bowiec"
+    },
+    {
+        "teryt": "1805042",
+        "name": " Jas\u0142o"
+    },
+    {
+        "teryt": "1805053",
+        "name": " Ko\u0142aczyce"
+    },
+    {
+        "teryt": "1805062",
+        "name": " Krempna"
+    },
+    {
+        "teryt": "1805072",
+        "name": " Nowy \u017bmigr\u00f3d"
+    },
+    {
+        "teryt": "1805082",
+        "name": " Osiek Jasielski"
+    },
+    {
+        "teryt": "1805092",
+        "name": " Sko\u0142yszyn"
+    },
+    {
+        "teryt": "1805112",
+        "name": " Tarnowiec"
+    },
+    {
+        "teryt": "1806012",
+        "name": " Cmolas"
+    },
+    {
+        "teryt": "1806023",
+        "name": " Kolbuszowa"
+    },
+    {
+        "teryt": "1806032",
+        "name": " Majdan Kr\u00f3lewski"
+    },
+    {
+        "teryt": "1806042",
+        "name": " Niwiska"
+    },
+    {
+        "teryt": "1806052",
+        "name": " Rani\u017c\u00f3w"
+    },
+    {
+        "teryt": "1806062",
+        "name": " Dzikowiec"
+    },
+    {
+        "teryt": "1807012",
+        "name": " Chork\u00f3wka"
+    },
+    {
+        "teryt": "1807023",
+        "name": " Dukla"
+    },
+    {
+        "teryt": "1807033",
+        "name": " Iwonicz-Zdr\u00f3j"
+    },
+    {
+        "teryt": "1807043",
+        "name": " Jedlicze"
+    },
+    {
+        "teryt": "1807052",
+        "name": " Korczyna"
+    },
+    {
+        "teryt": "1807062",
+        "name": " Kro\u015bcienko Wy\u017cne"
+    },
+    {
+        "teryt": "1807072",
+        "name": " Miejsce Piastowe"
+    },
+    {
+        "teryt": "1807083",
+        "name": " Ryman\u00f3w"
+    },
+    {
+        "teryt": "1807092",
+        "name": " Wojasz\u00f3wka"
+    },
+    {
+        "teryt": "1807102",
+        "name": " Ja\u015bliska"
+    },
+    {
+        "teryt": "1808011",
+        "name": " Le\u017cajsk"
+    },
+    {
+        "teryt": "1808022",
+        "name": " Grodzisko Dolne"
+    },
+    {
+        "teryt": "1808032",
+        "name": " Kury\u0142\u00f3wka"
+    },
+    {
+        "teryt": "1808042",
+        "name": " Le\u017cajsk"
+    },
+    {
+        "teryt": "1808053",
+        "name": " Nowa Sarzyna"
+    },
+    {
+        "teryt": "1809011",
+        "name": " Lubacz\u00f3w"
+    },
+    {
+        "teryt": "1809023",
+        "name": " Cieszan\u00f3w"
+    },
+    {
+        "teryt": "1809032",
+        "name": " Horyniec-Zdr\u00f3j"
+    },
+    {
+        "teryt": "1809042",
+        "name": " Lubacz\u00f3w"
+    },
+    {
+        "teryt": "1809053",
+        "name": " Narol"
+    },
+    {
+        "teryt": "1809063",
+        "name": " Oleszyce"
+    },
+    {
+        "teryt": "1809072",
+        "name": " Stary Dzik\u00f3w"
+    },
+    {
+        "teryt": "1809082",
+        "name": " Wielkie Oczy"
+    },
+    {
+        "teryt": "1810011",
+        "name": " \u0141a\u0144cut"
+    },
+    {
+        "teryt": "1810022",
+        "name": " Bia\u0142obrzegi"
+    },
+    {
+        "teryt": "1810032",
+        "name": " Czarna"
+    },
+    {
+        "teryt": "1810042",
+        "name": " \u0141a\u0144cut"
+    },
+    {
+        "teryt": "1810052",
+        "name": " Markowa"
+    },
+    {
+        "teryt": "1810062",
+        "name": " Rakszawa"
+    },
+    {
+        "teryt": "1810072",
+        "name": " \u017bo\u0142ynia"
+    },
+    {
+        "teryt": "1811011",
+        "name": " Mielec"
+    },
+    {
+        "teryt": "1811022",
+        "name": " Borowa"
+    },
+    {
+        "teryt": "1811032",
+        "name": " Czermin"
+    },
+    {
+        "teryt": "1811042",
+        "name": " Gaw\u0142uszowice"
+    },
+    {
+        "teryt": "1811052",
+        "name": " Mielec"
+    },
+    {
+        "teryt": "1811062",
+        "name": " Padew Narodowa"
+    },
+    {
+        "teryt": "1811073",
+        "name": " Przec\u0142aw"
+    },
+    {
+        "teryt": "1811083",
+        "name": " Radomy\u015bl Wielki"
+    },
+    {
+        "teryt": "1811092",
+        "name": " Tusz\u00f3w Narodowy"
+    },
+    {
+        "teryt": "1811102",
+        "name": " Wadowice G\u00f3rne"
+    },
+    {
+        "teryt": "1812012",
+        "name": " Harasiuki"
+    },
+    {
+        "teryt": "1812022",
+        "name": " Jarocin"
+    },
+    {
+        "teryt": "1812032",
+        "name": " Je\u017cowe"
+    },
+    {
+        "teryt": "1812042",
+        "name": " Krzesz\u00f3w"
+    },
+    {
+        "teryt": "1812053",
+        "name": " Nisko"
+    },
+    {
+        "teryt": "1812063",
+        "name": " Rudniknad Sanem"
+    },
+    {
+        "teryt": "1812073",
+        "name": " Ulan\u00f3w"
+    },
+    {
+        "teryt": "1813012",
+        "name": " Bircza"
+    },
+    {
+        "teryt": "1813023",
+        "name": " Dubiecko"
+    },
+    {
+        "teryt": "1813032",
+        "name": " Fredropol"
+    },
+    {
+        "teryt": "1813042",
+        "name": " Krasiczyn"
+    },
+    {
+        "teryt": "1813052",
+        "name": " Krzywcza"
+    },
+    {
+        "teryt": "1813062",
+        "name": " Medyka"
+    },
+    {
+        "teryt": "1813072",
+        "name": " Or\u0142y"
+    },
+    {
+        "teryt": "1813082",
+        "name": " Przemy\u015bl"
+    },
+    {
+        "teryt": "1813092",
+        "name": " Stubno"
+    },
+    {
+        "teryt": "1813102",
+        "name": " \u017burawica"
+    },
+    {
+        "teryt": "1814011",
+        "name": " Przeworsk"
+    },
+    {
+        "teryt": "1814022",
+        "name": " Adam\u00f3wka"
+    },
+    {
+        "teryt": "1814032",
+        "name": " Ga\u0107"
+    },
+    {
+        "teryt": "1814042",
+        "name": " Jawornik Polski"
+    },
+    {
+        "teryt": "1814053",
+        "name": " Ka\u0144czuga"
+    },
+    {
+        "teryt": "1814062",
+        "name": " Przeworsk"
+    },
+    {
+        "teryt": "1814073",
+        "name": " Sieniawa"
+    },
+    {
+        "teryt": "1814082",
+        "name": " Try\u0144cza"
+    },
+    {
+        "teryt": "1814092",
+        "name": " Zarzecze"
+    },
+    {
+        "teryt": "1815012",
+        "name": " Iwierzyce"
+    },
+    {
+        "teryt": "1815022",
+        "name": " Ostr\u00f3w"
+    },
+    {
+        "teryt": "1815033",
+        "name": " Ropczyce"
+    },
+    {
+        "teryt": "1815043",
+        "name": " S\u0119dzisz\u00f3w Ma\u0142opolski"
+    },
+    {
+        "teryt": "1815052",
+        "name": " Wielopole Skrzy\u0144skie"
+    },
+    {
+        "teryt": "1816011",
+        "name": " Dyn\u00f3w"
+    },
+    {
+        "teryt": "1816023",
+        "name": " B\u0142a\u017cowa"
+    },
+    {
+        "teryt": "1816033",
+        "name": " Boguchwa\u0142a"
+    },
+    {
+        "teryt": "1816042",
+        "name": " Chmielnik"
+    },
+    {
+        "teryt": "1816052",
+        "name": " Dyn\u00f3w"
+    },
+    {
+        "teryt": "1816063",
+        "name": " G\u0142og\u00f3w Ma\u0142opolski"
+    },
+    {
+        "teryt": "1816072",
+        "name": " Hy\u017cne"
+    },
+    {
+        "teryt": "1816082",
+        "name": " Kamie\u0144"
+    },
+    {
+        "teryt": "1816092",
+        "name": " Krasne"
+    },
+    {
+        "teryt": "1816102",
+        "name": " Lubenia"
+    },
+    {
+        "teryt": "1816113",
+        "name": " Soko\u0142\u00f3w Ma\u0142opolski"
+    },
+    {
+        "teryt": "1816122",
+        "name": " \u015awilcza"
+    },
+    {
+        "teryt": "1816132",
+        "name": " Trzebownisko"
+    },
+    {
+        "teryt": "1816143",
+        "name": " Tyczyn"
+    },
+    {
+        "teryt": "1817011",
+        "name": " Sanok"
+    },
+    {
+        "teryt": "1817022",
+        "name": " Besko"
+    },
+    {
+        "teryt": "1817032",
+        "name": " Bukowsko"
+    },
+    {
+        "teryt": "1817042",
+        "name": " Koma\u0144cza"
+    },
+    {
+        "teryt": "1817052",
+        "name": " Sanok"
+    },
+    {
+        "teryt": "1817062",
+        "name": " Tyrawa Wo\u0142oska"
+    },
+    {
+        "teryt": "1817073",
+        "name": " Zag\u00f3rz"
+    },
+    {
+        "teryt": "1817082",
+        "name": " Zarszyn"
+    },
+    {
+        "teryt": "1818011",
+        "name": " Stalowa Wola"
+    },
+    {
+        "teryt": "1818022",
+        "name": " Bojan\u00f3w"
+    },
+    {
+        "teryt": "1818032",
+        "name": " Pysznica"
+    },
+    {
+        "teryt": "1818042",
+        "name": " Radomy\u015blnad Sanem"
+    },
+    {
+        "teryt": "1818053",
+        "name": " Zaklik\u00f3w"
+    },
+    {
+        "teryt": "1818062",
+        "name": " Zaleszany"
+    },
+    {
+        "teryt": "1819012",
+        "name": " Czudec"
+    },
+    {
+        "teryt": "1819022",
+        "name": " Frysztak"
+    },
+    {
+        "teryt": "1819032",
+        "name": " Niebylec"
+    },
+    {
+        "teryt": "1819043",
+        "name": " Strzy\u017c\u00f3w"
+    },
+    {
+        "teryt": "1819052",
+        "name": " Wi\u015bniowa"
+    },
+    {
+        "teryt": "1820013",
+        "name": " Baran\u00f3w Sandomierski"
+    },
+    {
+        "teryt": "1820022",
+        "name": " Gorzyce"
+    },
+    {
+        "teryt": "1820032",
+        "name": " Gr\u0119b\u00f3w"
+    },
+    {
+        "teryt": "1820043",
+        "name": " Nowa D\u0119ba"
+    },
+    {
+        "teryt": "1821012",
+        "name": " Baligr\u00f3d"
+    },
+    {
+        "teryt": "1821022",
+        "name": " Cisna"
+    },
+    {
+        "teryt": "1821033",
+        "name": " Lesko"
+    },
+    {
+        "teryt": "1821042",
+        "name": " Olszanica"
+    },
+    {
+        "teryt": "1821052",
+        "name": " Solina"
+    },
+    {
+        "teryt": "1861011",
+        "name": " Krosno"
+    },
+    {
+        "teryt": "1862011",
+        "name": " Przemy\u015bl"
+    },
+    {
+        "teryt": "1863011",
+        "name": " Rzesz\u00f3w"
+    },
+    {
+        "teryt": "1864011",
+        "name": " Tarnobrzeg"
+    },
+    {
+        "teryt": "2001011",
+        "name": " August\u00f3w"
+    },
+    {
+        "teryt": "2001022",
+        "name": " August\u00f3w"
+    },
+    {
+        "teryt": "2001032",
+        "name": " Barg\u0142\u00f3w Ko\u015bcielny"
+    },
+    {
+        "teryt": "2001043",
+        "name": " Lipsk"
+    },
+    {
+        "teryt": "2001052",
+        "name": " Nowinka"
+    },
+    {
+        "teryt": "2001062",
+        "name": " P\u0142aska"
+    },
+    {
+        "teryt": "2001072",
+        "name": " Sztabin"
+    },
+    {
+        "teryt": "2002013",
+        "name": " Choroszcz"
+    },
+    {
+        "teryt": "2002023",
+        "name": " Czarna Bia\u0142ostocka"
+    },
+    {
+        "teryt": "2002032",
+        "name": " Dobrzyniewo Du\u017ce"
+    },
+    {
+        "teryt": "2002042",
+        "name": " Gr\u00f3dek"
+    },
+    {
+        "teryt": "2002052",
+        "name": " Juchnowiec Ko\u015bcielny"
+    },
+    {
+        "teryt": "2002063",
+        "name": " \u0141apy"
+    },
+    {
+        "teryt": "2002073",
+        "name": " Micha\u0142owo"
+    },
+    {
+        "teryt": "2002082",
+        "name": " Po\u015bwi\u0119tne"
+    },
+    {
+        "teryt": "2002093",
+        "name": " Supra\u015bl"
+    },
+    {
+        "teryt": "2002103",
+        "name": " Sura\u017c"
+    },
+    {
+        "teryt": "2002112",
+        "name": " Turo\u015b\u0144 Ko\u015bcielna"
+    },
+    {
+        "teryt": "2002123",
+        "name": " Tykocin"
+    },
+    {
+        "teryt": "2002133",
+        "name": " Wasilk\u00f3w"
+    },
+    {
+        "teryt": "2002143",
+        "name": " Zab\u0142ud\u00f3w"
+    },
+    {
+        "teryt": "2002152",
+        "name": " Zawady"
+    },
+    {
+        "teryt": "2003011",
+        "name": " Bielsk Podlaski"
+    },
+    {
+        "teryt": "2003021",
+        "name": " Bra\u0144sk"
+    },
+    {
+        "teryt": "2003032",
+        "name": " Bielsk Podlaski"
+    },
+    {
+        "teryt": "2003042",
+        "name": " Bo\u0107ki"
+    },
+    {
+        "teryt": "2003052",
+        "name": " Bra\u0144sk"
+    },
+    {
+        "teryt": "2003062",
+        "name": " Orla"
+    },
+    {
+        "teryt": "2003072",
+        "name": " Rudka"
+    },
+    {
+        "teryt": "2003082",
+        "name": " Wyszki"
+    },
+    {
+        "teryt": "2004011",
+        "name": " Grajewo"
+    },
+    {
+        "teryt": "2004022",
+        "name": " Grajewo"
+    },
+    {
+        "teryt": "2004032",
+        "name": " Radzi\u0142\u00f3w"
+    },
+    {
+        "teryt": "2004043",
+        "name": " Rajgr\u00f3d"
+    },
+    {
+        "teryt": "2004053",
+        "name": " Szczuczyn"
+    },
+    {
+        "teryt": "2004062",
+        "name": " W\u0105sosz"
+    },
+    {
+        "teryt": "2005011",
+        "name": " Hajn\u00f3wka"
+    },
+    {
+        "teryt": "2005022",
+        "name": " Bia\u0142owie\u017ca"
+    },
+    {
+        "teryt": "2005032",
+        "name": " Czeremcha"
+    },
+    {
+        "teryt": "2005042",
+        "name": " Czy\u017ce"
+    },
+    {
+        "teryt": "2005052",
+        "name": " Dubicze Cerkiewne"
+    },
+    {
+        "teryt": "2005062",
+        "name": " Hajn\u00f3wka"
+    },
+    {
+        "teryt": "2005073",
+        "name": " Kleszczele"
+    },
+    {
+        "teryt": "2005082",
+        "name": " Narew"
+    },
+    {
+        "teryt": "2005092",
+        "name": " Narewka"
+    },
+    {
+        "teryt": "2006011",
+        "name": " Kolno"
+    },
+    {
+        "teryt": "2006022",
+        "name": " Grabowo"
+    },
+    {
+        "teryt": "2006032",
+        "name": " Kolno"
+    },
+    {
+        "teryt": "2006042",
+        "name": " Ma\u0142y P\u0142ock"
+    },
+    {
+        "teryt": "2006053",
+        "name": " Stawiski"
+    },
+    {
+        "teryt": "2006062",
+        "name": " Turo\u015bl"
+    },
+    {
+        "teryt": "2007013",
+        "name": " Jedwabne"
+    },
+    {
+        "teryt": "2007022",
+        "name": " \u0141om\u017ca"
+    },
+    {
+        "teryt": "2007032",
+        "name": " Miastkowo"
+    },
+    {
+        "teryt": "2007043",
+        "name": " Nowogr\u00f3d"
+    },
+    {
+        "teryt": "2007052",
+        "name": " Pi\u0105tnica"
+    },
+    {
+        "teryt": "2007062",
+        "name": " Przytu\u0142y"
+    },
+    {
+        "teryt": "2007072",
+        "name": " \u015aniadowo"
+    },
+    {
+        "teryt": "2007082",
+        "name": " Wizna"
+    },
+    {
+        "teryt": "2007092",
+        "name": " Zb\u00f3jna"
+    },
+    {
+        "teryt": "2008013",
+        "name": " Goni\u0105dz"
+    },
+    {
+        "teryt": "2008022",
+        "name": " Jasion\u00f3wka"
+    },
+    {
+        "teryt": "2008032",
+        "name": " Ja\u015bwi\u0142y"
+    },
+    {
+        "teryt": "2008043",
+        "name": " Knyszyn"
+    },
+    {
+        "teryt": "2008052",
+        "name": " Krypno"
+    },
+    {
+        "teryt": "2008063",
+        "name": " Mo\u0144ki"
+    },
+    {
+        "teryt": "2008072",
+        "name": " Trzcianne"
+    },
+    {
+        "teryt": "2009011",
+        "name": " Sejny"
+    },
+    {
+        "teryt": "2009022",
+        "name": " Giby"
+    },
+    {
+        "teryt": "2009032",
+        "name": " Krasnopol"
+    },
+    {
+        "teryt": "2009042",
+        "name": " Pu\u0144sk"
+    },
+    {
+        "teryt": "2009052",
+        "name": " Sejny"
+    },
+    {
+        "teryt": "2010011",
+        "name": " Siemiatycze"
+    },
+    {
+        "teryt": "2010023",
+        "name": " Drohiczyn"
+    },
+    {
+        "teryt": "2010032",
+        "name": " Dziadkowice"
+    },
+    {
+        "teryt": "2010042",
+        "name": " Grodzisk"
+    },
+    {
+        "teryt": "2010052",
+        "name": " Mielnik"
+    },
+    {
+        "teryt": "2010062",
+        "name": " Milejczyce"
+    },
+    {
+        "teryt": "2010072",
+        "name": " Nurzec-Stacja"
+    },
+    {
+        "teryt": "2010082",
+        "name": " Perlejewo"
+    },
+    {
+        "teryt": "2010092",
+        "name": " Siemiatycze"
+    },
+    {
+        "teryt": "2011013",
+        "name": " D\u0105browa Bia\u0142ostocka"
+    },
+    {
+        "teryt": "2011022",
+        "name": " Jan\u00f3w"
+    },
+    {
+        "teryt": "2011032",
+        "name": " Korycin"
+    },
+    {
+        "teryt": "2011043",
+        "name": " Krynki"
+    },
+    {
+        "teryt": "2011052",
+        "name": " Ku\u017anica"
+    },
+    {
+        "teryt": "2011062",
+        "name": " Nowy Dw\u00f3r"
+    },
+    {
+        "teryt": "2011072",
+        "name": " Sidra"
+    },
+    {
+        "teryt": "2011083",
+        "name": " Sok\u00f3\u0142ka"
+    },
+    {
+        "teryt": "2011093",
+        "name": " Suchowola"
+    },
+    {
+        "teryt": "2011102",
+        "name": " Szudzia\u0142owo"
+    },
+    {
+        "teryt": "2012012",
+        "name": " Baka\u0142arzewo"
+    },
+    {
+        "teryt": "2012022",
+        "name": " Filip\u00f3w"
+    },
+    {
+        "teryt": "2012032",
+        "name": " Jeleniewo"
+    },
+    {
+        "teryt": "2012042",
+        "name": " Przero\u015bl"
+    },
+    {
+        "teryt": "2012052",
+        "name": " Raczki"
+    },
+    {
+        "teryt": "2012062",
+        "name": " Rutka-Tartak"
+    },
+    {
+        "teryt": "2012072",
+        "name": " Suwa\u0142ki"
+    },
+    {
+        "teryt": "2012082",
+        "name": " Szypliszki"
+    },
+    {
+        "teryt": "2012092",
+        "name": " Wi\u017cajny"
+    },
+    {
+        "teryt": "2013011",
+        "name": " Wysokie Mazowieckie"
+    },
+    {
+        "teryt": "2013023",
+        "name": " Ciechanowiec"
+    },
+    {
+        "teryt": "2013033",
+        "name": " Czy\u017cew"
+    },
+    {
+        "teryt": "2013042",
+        "name": " Klukowo"
+    },
+    {
+        "teryt": "2013052",
+        "name": " Kobylin-Borzymy"
+    },
+    {
+        "teryt": "2013062",
+        "name": " Kulesze Ko\u015bcielne"
+    },
+    {
+        "teryt": "2013072",
+        "name": " Nowe Piekuty"
+    },
+    {
+        "teryt": "2013082",
+        "name": " Soko\u0142y"
+    },
+    {
+        "teryt": "2013093",
+        "name": " Szepietowo"
+    },
+    {
+        "teryt": "2013102",
+        "name": " Wysokie Mazowieckie"
+    },
+    {
+        "teryt": "2014011",
+        "name": " Zambr\u00f3w"
+    },
+    {
+        "teryt": "2014022",
+        "name": " Ko\u0142aki Ko\u015bcielne"
+    },
+    {
+        "teryt": "2014032",
+        "name": " Rutki"
+    },
+    {
+        "teryt": "2014042",
+        "name": " Szumowo"
+    },
+    {
+        "teryt": "2014052",
+        "name": " Zambr\u00f3w"
+    },
+    {
+        "teryt": "2061011",
+        "name": " Bia\u0142ystok"
+    },
+    {
+        "teryt": "2062011",
+        "name": " \u0141om\u017ca"
+    },
+    {
+        "teryt": "2063011",
+        "name": " Suwa\u0142ki"
+    },
+    {
+        "teryt": "2201012",
+        "name": " Borzytuchom"
+    },
+    {
+        "teryt": "2201023",
+        "name": " Byt\u00f3w"
+    },
+    {
+        "teryt": "2201032",
+        "name": " Czarna D\u0105br\u00f3wka"
+    },
+    {
+        "teryt": "2201042",
+        "name": " Ko\u0142czyg\u0142owy"
+    },
+    {
+        "teryt": "2201052",
+        "name": " Lipnica"
+    },
+    {
+        "teryt": "2201063",
+        "name": " Miastko"
+    },
+    {
+        "teryt": "2201072",
+        "name": " Parchowo"
+    },
+    {
+        "teryt": "2201082",
+        "name": " Studzienice"
+    },
+    {
+        "teryt": "2201092",
+        "name": " Trzebielino"
+    },
+    {
+        "teryt": "2201102",
+        "name": " Tuchomie"
+    },
+    {
+        "teryt": "2202011",
+        "name": " Chojnice"
+    },
+    {
+        "teryt": "2202023",
+        "name": " Brusy"
+    },
+    {
+        "teryt": "2202032",
+        "name": " Chojnice"
+    },
+    {
+        "teryt": "2202043",
+        "name": " Czersk"
+    },
+    {
+        "teryt": "2202052",
+        "name": " Konarzyny"
+    },
+    {
+        "teryt": "2203011",
+        "name": " Cz\u0142uch\u00f3w"
+    },
+    {
+        "teryt": "2203023",
+        "name": " Czarne"
+    },
+    {
+        "teryt": "2203032",
+        "name": " Cz\u0142uch\u00f3w"
+    },
+    {
+        "teryt": "2203043",
+        "name": " Debrzno"
+    },
+    {
+        "teryt": "2203052",
+        "name": " Kocza\u0142a"
+    },
+    {
+        "teryt": "2203062",
+        "name": " Przechlewo"
+    },
+    {
+        "teryt": "2203072",
+        "name": " Rzeczenica"
+    },
+    {
+        "teryt": "2204011",
+        "name": " Pruszcz Gda\u0144ski"
+    },
+    {
+        "teryt": "2204022",
+        "name": " Cedry Wielkie"
+    },
+    {
+        "teryt": "2204032",
+        "name": " Kolbudy"
+    },
+    {
+        "teryt": "2204042",
+        "name": " Pruszcz Gda\u0144ski"
+    },
+    {
+        "teryt": "2204052",
+        "name": " Przywidz"
+    },
+    {
+        "teryt": "2204062",
+        "name": " Pszcz\u00f3\u0142ki"
+    },
+    {
+        "teryt": "2204072",
+        "name": " Suchy D\u0105b"
+    },
+    {
+        "teryt": "2204082",
+        "name": " Tr\u0105bki Wielkie"
+    },
+    {
+        "teryt": "2205012",
+        "name": " Chmielno"
+    },
+    {
+        "teryt": "2205023",
+        "name": " Kartuzy"
+    },
+    {
+        "teryt": "2205032",
+        "name": " Przodkowo"
+    },
+    {
+        "teryt": "2205042",
+        "name": " Sierakowice"
+    },
+    {
+        "teryt": "2205052",
+        "name": " Somonino"
+    },
+    {
+        "teryt": "2205062",
+        "name": " St\u0119\u017cyca"
+    },
+    {
+        "teryt": "2205072",
+        "name": " Sul\u0119czyno"
+    },
+    {
+        "teryt": "2205083",
+        "name": " \u017bukowo"
+    },
+    {
+        "teryt": "2206011",
+        "name": " Ko\u015bcierzyna"
+    },
+    {
+        "teryt": "2206022",
+        "name": " Dziemiany"
+    },
+    {
+        "teryt": "2206032",
+        "name": " Karsin"
+    },
+    {
+        "teryt": "2206042",
+        "name": " Ko\u015bcierzyna"
+    },
+    {
+        "teryt": "2206052",
+        "name": " Liniewo"
+    },
+    {
+        "teryt": "2206062",
+        "name": " Lipusz"
+    },
+    {
+        "teryt": "2206072",
+        "name": " Nowa Karczma"
+    },
+    {
+        "teryt": "2206082",
+        "name": " Stara Kiszewa"
+    },
+    {
+        "teryt": "2207011",
+        "name": " Kwidzyn"
+    },
+    {
+        "teryt": "2207022",
+        "name": " Gardeja"
+    },
+    {
+        "teryt": "2207032",
+        "name": " Kwidzyn"
+    },
+    {
+        "teryt": "2207043",
+        "name": " Prabuty"
+    },
+    {
+        "teryt": "2207052",
+        "name": " Ryjewo"
+    },
+    {
+        "teryt": "2207062",
+        "name": " Sadlinki"
+    },
+    {
+        "teryt": "2208011",
+        "name": " L\u0119bork"
+    },
+    {
+        "teryt": "2208021",
+        "name": " \u0141eba"
+    },
+    {
+        "teryt": "2208032",
+        "name": " Cewice"
+    },
+    {
+        "teryt": "2208042",
+        "name": " Nowa Wie\u015b L\u0119borska"
+    },
+    {
+        "teryt": "2208052",
+        "name": " Wicko"
+    },
+    {
+        "teryt": "2209011",
+        "name": " Malbork"
+    },
+    {
+        "teryt": "2209032",
+        "name": " Lichnowy"
+    },
+    {
+        "teryt": "2209042",
+        "name": " Malbork"
+    },
+    {
+        "teryt": "2209062",
+        "name": " Mi\u0142oradz"
+    },
+    {
+        "teryt": "2209073",
+        "name": " Nowy Staw"
+    },
+    {
+        "teryt": "2209082",
+        "name": " Stare Pole"
+    },
+    {
+        "teryt": "2210011",
+        "name": " Krynica Morska"
+    },
+    {
+        "teryt": "2210023",
+        "name": " Nowy Dw\u00f3r Gda\u0144ski"
+    },
+    {
+        "teryt": "2210032",
+        "name": " Ostaszewo"
+    },
+    {
+        "teryt": "2210042",
+        "name": " Stegna"
+    },
+    {
+        "teryt": "2210052",
+        "name": " Sztutowo"
+    },
+    {
+        "teryt": "2211011",
+        "name": " Hel"
+    },
+    {
+        "teryt": "2211023",
+        "name": "gmina Jastarnia"
+    },
+    {
+        "teryt": "2211031",
+        "name": " Puck"
+    },
+    {
+        "teryt": "2211043",
+        "name": " W\u0142adys\u0142awowo"
+    },
+    {
+        "teryt": "2211052",
+        "name": " Kosakowo"
+    },
+    {
+        "teryt": "2211062",
+        "name": " Krokowa"
+    },
+    {
+        "teryt": "2211072",
+        "name": " Puck"
+    },
+    {
+        "teryt": "2212011",
+        "name": " Ustka"
+    },
+    {
+        "teryt": "2212022",
+        "name": " Damnica"
+    },
+    {
+        "teryt": "2212032",
+        "name": " D\u0119bnica Kaszubska"
+    },
+    {
+        "teryt": "2212042",
+        "name": " G\u0142\u00f3wczyce"
+    },
+    {
+        "teryt": "2212053",
+        "name": " K\u0119pice"
+    },
+    {
+        "teryt": "2212062",
+        "name": " Kobylnica"
+    },
+    {
+        "teryt": "2212072",
+        "name": " Pot\u0119gowo"
+    },
+    {
+        "teryt": "2212082",
+        "name": " S\u0142upsk"
+    },
+    {
+        "teryt": "2212092",
+        "name": " Smo\u0142dzino"
+    },
+    {
+        "teryt": "2212102",
+        "name": " Ustka"
+    },
+    {
+        "teryt": "2213013",
+        "name": " Czarna Woda"
+    },
+    {
+        "teryt": "2213021",
+        "name": " Sk\u00f3rcz"
+    },
+    {
+        "teryt": "2213031",
+        "name": " Starogard Gda\u0144ski"
+    },
+    {
+        "teryt": "2213042",
+        "name": " Bobowo"
+    },
+    {
+        "teryt": "2213052",
+        "name": " Kaliska"
+    },
+    {
+        "teryt": "2213062",
+        "name": " Lubichowo"
+    },
+    {
+        "teryt": "2213072",
+        "name": " Osieczna"
+    },
+    {
+        "teryt": "2213082",
+        "name": " Osiek"
+    },
+    {
+        "teryt": "2213093",
+        "name": " Skarszewy"
+    },
+    {
+        "teryt": "2213102",
+        "name": " Sk\u00f3rcz"
+    },
+    {
+        "teryt": "2213112",
+        "name": " Sm\u0119towo Graniczne"
+    },
+    {
+        "teryt": "2213122",
+        "name": " Starogard Gda\u0144ski"
+    },
+    {
+        "teryt": "2213132",
+        "name": " Zblewo"
+    },
+    {
+        "teryt": "2214011",
+        "name": " Tczew"
+    },
+    {
+        "teryt": "2214023",
+        "name": " Gniew"
+    },
+    {
+        "teryt": "2214032",
+        "name": " Morzeszczyn"
+    },
+    {
+        "teryt": "2214043",
+        "name": " Pelplin"
+    },
+    {
+        "teryt": "2214052",
+        "name": " Subkowy"
+    },
+    {
+        "teryt": "2214062",
+        "name": " Tczew"
+    },
+    {
+        "teryt": "2215011",
+        "name": " Reda"
+    },
+    {
+        "teryt": "2215021",
+        "name": " Rumia"
+    },
+    {
+        "teryt": "2215031",
+        "name": " Wejherowo"
+    },
+    {
+        "teryt": "2215042",
+        "name": " Choczewo"
+    },
+    {
+        "teryt": "2215052",
+        "name": " Gniewino"
+    },
+    {
+        "teryt": "2215062",
+        "name": " Linia"
+    },
+    {
+        "teryt": "2215072",
+        "name": " Luzino"
+    },
+    {
+        "teryt": "2215082",
+        "name": " \u0141\u0119czyce"
+    },
+    {
+        "teryt": "2215092",
+        "name": " Szemud"
+    },
+    {
+        "teryt": "2215102",
+        "name": " Wejherowo"
+    },
+    {
+        "teryt": "2216013",
+        "name": " Dzierzgo\u0144"
+    },
+    {
+        "teryt": "2216022",
+        "name": " Miko\u0142ajki Pomorskie"
+    },
+    {
+        "teryt": "2216032",
+        "name": " Stary Dzierzgo\u0144"
+    },
+    {
+        "teryt": "2216042",
+        "name": " Stary Targ"
+    },
+    {
+        "teryt": "2216053",
+        "name": " Sztum"
+    },
+    {
+        "teryt": "2261011",
+        "name": " Gda\u0144sk"
+    },
+    {
+        "teryt": "2262011",
+        "name": " Gdynia"
+    },
+    {
+        "teryt": "2263011",
+        "name": " S\u0142upsk"
+    },
+    {
+        "teryt": "2264011",
+        "name": " Sopot"
+    },
+    {
+        "teryt": "2401011",
+        "name": " B\u0119dzin"
+    },
+    {
+        "teryt": "2401021",
+        "name": " Czelad\u017a"
+    },
+    {
+        "teryt": "2401031",
+        "name": " Wojkowice"
+    },
+    {
+        "teryt": "2401042",
+        "name": " Bobrowniki"
+    },
+    {
+        "teryt": "2401052",
+        "name": " Mierz\u0119cice"
+    },
+    {
+        "teryt": "2401062",
+        "name": " Psary"
+    },
+    {
+        "teryt": "2401073",
+        "name": " Siewierz"
+    },
+    {
+        "teryt": "2401081",
+        "name": " S\u0142awk\u00f3w"
+    },
+    {
+        "teryt": "2402011",
+        "name": " Szczyrk"
+    },
+    {
+        "teryt": "2402022",
+        "name": " Bestwina"
+    },
+    {
+        "teryt": "2402032",
+        "name": " Buczkowice"
+    },
+    {
+        "teryt": "2402043",
+        "name": " Czechowice-Dziedzice"
+    },
+    {
+        "teryt": "2402052",
+        "name": " Jasienica"
+    },
+    {
+        "teryt": "2402062",
+        "name": " Jaworze"
+    },
+    {
+        "teryt": "2402072",
+        "name": " Kozy"
+    },
+    {
+        "teryt": "2402082",
+        "name": " Por\u0105bka"
+    },
+    {
+        "teryt": "2402093",
+        "name": " Wilamowice"
+    },
+    {
+        "teryt": "2402102",
+        "name": " Wilkowice"
+    },
+    {
+        "teryt": "2403011",
+        "name": " Cieszyn"
+    },
+    {
+        "teryt": "2403021",
+        "name": " Ustro\u0144"
+    },
+    {
+        "teryt": "2403031",
+        "name": " Wis\u0142a"
+    },
+    {
+        "teryt": "2403042",
+        "name": " Brenna"
+    },
+    {
+        "teryt": "2403052",
+        "name": " Chybie"
+    },
+    {
+        "teryt": "2403062",
+        "name": " D\u0119bowiec"
+    },
+    {
+        "teryt": "2403072",
+        "name": " Golesz\u00f3w"
+    },
+    {
+        "teryt": "2403082",
+        "name": " Ha\u017clach"
+    },
+    {
+        "teryt": "2403092",
+        "name": " Istebna"
+    },
+    {
+        "teryt": "2403103",
+        "name": " Skocz\u00f3w"
+    },
+    {
+        "teryt": "2403113",
+        "name": " Strumie\u0144"
+    },
+    {
+        "teryt": "2403122",
+        "name": " Zebrzydowice"
+    },
+    {
+        "teryt": "2404013",
+        "name": " Blachownia"
+    },
+    {
+        "teryt": "2404022",
+        "name": " D\u0105browa Zielona"
+    },
+    {
+        "teryt": "2404032",
+        "name": " Jan\u00f3w"
+    },
+    {
+        "teryt": "2404042",
+        "name": " Kamienica Polska"
+    },
+    {
+        "teryt": "2404052",
+        "name": " K\u0142omnice"
+    },
+    {
+        "teryt": "2404063",
+        "name": " Koniecpol"
+    },
+    {
+        "teryt": "2404072",
+        "name": " Konopiska"
+    },
+    {
+        "teryt": "2404082",
+        "name": " Kruszyna"
+    },
+    {
+        "teryt": "2404092",
+        "name": " Lel\u00f3w"
+    },
+    {
+        "teryt": "2404102",
+        "name": " Mst\u00f3w"
+    },
+    {
+        "teryt": "2404112",
+        "name": " Mykan\u00f3w"
+    },
+    {
+        "teryt": "2404122",
+        "name": " Olsztyn"
+    },
+    {
+        "teryt": "2404132",
+        "name": " Poczesna"
+    },
+    {
+        "teryt": "2404142",
+        "name": " Przyr\u00f3w"
+    },
+    {
+        "teryt": "2404152",
+        "name": " R\u0119dziny"
+    },
+    {
+        "teryt": "2404162",
+        "name": " Starcza"
+    },
+    {
+        "teryt": "2405011",
+        "name": " Knur\u00f3w"
+    },
+    {
+        "teryt": "2405021",
+        "name": " Pyskowice"
+    },
+    {
+        "teryt": "2405032",
+        "name": " Giera\u0142towice"
+    },
+    {
+        "teryt": "2405042",
+        "name": " Pilchowice"
+    },
+    {
+        "teryt": "2405052",
+        "name": " Rudziniec"
+    },
+    {
+        "teryt": "2405063",
+        "name": " So\u015bnicowice"
+    },
+    {
+        "teryt": "2405073",
+        "name": " Toszek"
+    },
+    {
+        "teryt": "2405082",
+        "name": " Wielowie\u015b"
+    },
+    {
+        "teryt": "2406013",
+        "name": " K\u0142obuck"
+    },
+    {
+        "teryt": "2406023",
+        "name": " Krzepice"
+    },
+    {
+        "teryt": "2406032",
+        "name": " Lipie"
+    },
+    {
+        "teryt": "2406042",
+        "name": " Mied\u017ano"
+    },
+    {
+        "teryt": "2406052",
+        "name": " Opat\u00f3w"
+    },
+    {
+        "teryt": "2406062",
+        "name": " Panki"
+    },
+    {
+        "teryt": "2406072",
+        "name": " Pop\u00f3w"
+    },
+    {
+        "teryt": "2406082",
+        "name": " Przystaj\u0144"
+    },
+    {
+        "teryt": "2406092",
+        "name": " Wr\u0119czyca Wielka"
+    },
+    {
+        "teryt": "2407011",
+        "name": " Lubliniec"
+    },
+    {
+        "teryt": "2407022",
+        "name": " Boron\u00f3w"
+    },
+    {
+        "teryt": "2407032",
+        "name": " Ciasna"
+    },
+    {
+        "teryt": "2407042",
+        "name": " Herby"
+    },
+    {
+        "teryt": "2407052",
+        "name": " Kochanowice"
+    },
+    {
+        "teryt": "2407062",
+        "name": " Kosz\u0119cin"
+    },
+    {
+        "teryt": "2407072",
+        "name": " Pawonk\u00f3w"
+    },
+    {
+        "teryt": "2407083",
+        "name": " Wo\u017aniki"
+    },
+    {
+        "teryt": "2408011",
+        "name": " \u0141aziska G\u00f3rne"
+    },
+    {
+        "teryt": "2408021",
+        "name": " Miko\u0142\u00f3w"
+    },
+    {
+        "teryt": "2408031",
+        "name": " Orzesze"
+    },
+    {
+        "teryt": "2408042",
+        "name": " Ornontowice"
+    },
+    {
+        "teryt": "2408052",
+        "name": " Wyry"
+    },
+    {
+        "teryt": "2409011",
+        "name": " Myszk\u00f3w"
+    },
+    {
+        "teryt": "2409023",
+        "name": " Kozieg\u0142owy"
+    },
+    {
+        "teryt": "2409032",
+        "name": " Niegowa"
+    },
+    {
+        "teryt": "2409042",
+        "name": " Poraj"
+    },
+    {
+        "teryt": "2409053",
+        "name": " \u017barki"
+    },
+    {
+        "teryt": "2410012",
+        "name": " Gocza\u0142kowice-Zdr\u00f3j"
+    },
+    {
+        "teryt": "2410022",
+        "name": " Kobi\u00f3r"
+    },
+    {
+        "teryt": "2410032",
+        "name": " Mied\u017ana"
+    },
+    {
+        "teryt": "2410042",
+        "name": " Paw\u0142owice"
+    },
+    {
+        "teryt": "2410053",
+        "name": " Pszczyna"
+    },
+    {
+        "teryt": "2410062",
+        "name": " Suszec"
+    },
+    {
+        "teryt": "2411011",
+        "name": " Racib\u00f3rz"
+    },
+    {
+        "teryt": "2411022",
+        "name": " Kornowac"
+    },
+    {
+        "teryt": "2411033",
+        "name": " Krzanowice"
+    },
+    {
+        "teryt": "2411042",
+        "name": " Krzy\u017canowice"
+    },
+    {
+        "teryt": "2411053",
+        "name": " Ku\u017ania Raciborska"
+    },
+    {
+        "teryt": "2411062",
+        "name": " N\u0119dza"
+    },
+    {
+        "teryt": "2411072",
+        "name": " Pietrowice Wielkie"
+    },
+    {
+        "teryt": "2411082",
+        "name": " Rudnik"
+    },
+    {
+        "teryt": "2412013",
+        "name": " Czerwionka-Leszczyny"
+    },
+    {
+        "teryt": "2412022",
+        "name": " Gaszowice"
+    },
+    {
+        "teryt": "2412032",
+        "name": " Jejkowice"
+    },
+    {
+        "teryt": "2412042",
+        "name": " Lyski"
+    },
+    {
+        "teryt": "2412052",
+        "name": " \u015awierklany"
+    },
+    {
+        "teryt": "2413011",
+        "name": " Kalety"
+    },
+    {
+        "teryt": "2413021",
+        "name": " Miasteczko \u015al\u0105skie"
+    },
+    {
+        "teryt": "2413031",
+        "name": " Radzionk\u00f3w"
+    },
+    {
+        "teryt": "2413041",
+        "name": " Tarnowskie G\u00f3ry"
+    },
+    {
+        "teryt": "2413052",
+        "name": " Krupski M\u0142yn"
+    },
+    {
+        "teryt": "2413062",
+        "name": " O\u017carowice"
+    },
+    {
+        "teryt": "2413072",
+        "name": " \u015awierklaniec"
+    },
+    {
+        "teryt": "2413082",
+        "name": " Twor\u00f3g"
+    },
+    {
+        "teryt": "2413092",
+        "name": " Zbros\u0142awice"
+    },
+    {
+        "teryt": "2414011",
+        "name": " Bieru\u0144"
+    },
+    {
+        "teryt": "2414021",
+        "name": " Imielin"
+    },
+    {
+        "teryt": "2414031",
+        "name": " L\u0119dziny"
+    },
+    {
+        "teryt": "2414042",
+        "name": " Bojszowy"
+    },
+    {
+        "teryt": "2414052",
+        "name": " Che\u0142m \u015al\u0105ski"
+    },
+    {
+        "teryt": "2415011",
+        "name": " Psz\u00f3w"
+    },
+    {
+        "teryt": "2415021",
+        "name": " Radlin"
+    },
+    {
+        "teryt": "2415031",
+        "name": " Rydu\u0142towy"
+    },
+    {
+        "teryt": "2415041",
+        "name": " Wodzis\u0142aw \u015al\u0105ski"
+    },
+    {
+        "teryt": "2415052",
+        "name": " God\u00f3w"
+    },
+    {
+        "teryt": "2415062",
+        "name": " Gorzyce"
+    },
+    {
+        "teryt": "2415072",
+        "name": " Lubomia"
+    },
+    {
+        "teryt": "2415082",
+        "name": " Marklowice"
+    },
+    {
+        "teryt": "2415092",
+        "name": " Mszana"
+    },
+    {
+        "teryt": "2416011",
+        "name": " Por\u0119ba"
+    },
+    {
+        "teryt": "2416021",
+        "name": " Zawiercie"
+    },
+    {
+        "teryt": "2416032",
+        "name": " Irz\u0105dze"
+    },
+    {
+        "teryt": "2416042",
+        "name": " Kroczyce"
+    },
+    {
+        "teryt": "2416053",
+        "name": " \u0141azy"
+    },
+    {
+        "teryt": "2416063",
+        "name": " Ogrodzieniec"
+    },
+    {
+        "teryt": "2416073",
+        "name": " Pilica"
+    },
+    {
+        "teryt": "2416083",
+        "name": " Szczekociny"
+    },
+    {
+        "teryt": "2416092",
+        "name": " W\u0142odowice"
+    },
+    {
+        "teryt": "2416102",
+        "name": " \u017barnowiec"
+    },
+    {
+        "teryt": "2417011",
+        "name": " \u017bywiec"
+    },
+    {
+        "teryt": "2417022",
+        "name": " Czernich\u00f3w"
+    },
+    {
+        "teryt": "2417032",
+        "name": " Gilowice"
+    },
+    {
+        "teryt": "2417042",
+        "name": " Jele\u015bnia"
+    },
+    {
+        "teryt": "2417052",
+        "name": " Koszarawa"
+    },
+    {
+        "teryt": "2417062",
+        "name": " Lipowa"
+    },
+    {
+        "teryt": "2417072",
+        "name": " \u0141\u0119kawica"
+    },
+    {
+        "teryt": "2417082",
+        "name": " \u0141odygowice"
+    },
+    {
+        "teryt": "2417092",
+        "name": " Mil\u00f3wka"
+    },
+    {
+        "teryt": "2417102",
+        "name": " Radziechowy-Wieprz|gmina Radziechowy-Wieprz"
+    },
+    {
+        "teryt": "2417112",
+        "name": " Rajcza"
+    },
+    {
+        "teryt": "2417122",
+        "name": " \u015alemie\u0144"
+    },
+    {
+        "teryt": "2417132",
+        "name": " \u015awinna"
+    },
+    {
+        "teryt": "2417142",
+        "name": " Ujso\u0142y"
+    },
+    {
+        "teryt": "2417152",
+        "name": " W\u0119gierska G\u00f3rka"
+    },
+    {
+        "teryt": "2461011",
+        "name": " Bielsko-Bia\u0142a"
+    },
+    {
+        "teryt": "2462011",
+        "name": " Bytom"
+    },
+    {
+        "teryt": "2463011",
+        "name": " Chorz\u00f3w"
+    },
+    {
+        "teryt": "2464011",
+        "name": " Cz\u0119stochowa"
+    },
+    {
+        "teryt": "2465011",
+        "name": " D\u0105browa G\u00f3rnicza"
+    },
+    {
+        "teryt": "2466011",
+        "name": " Gliwice"
+    },
+    {
+        "teryt": "2467011",
+        "name": " Jastrz\u0119bie-Zdr\u00f3j"
+    },
+    {
+        "teryt": "2468011",
+        "name": " Jaworzno"
+    },
+    {
+        "teryt": "2469011",
+        "name": " Katowice"
+    },
+    {
+        "teryt": "2470011",
+        "name": " Mys\u0142owice"
+    },
+    {
+        "teryt": "2471011",
+        "name": " Piekary \u015al\u0105skie"
+    },
+    {
+        "teryt": "2472011",
+        "name": " Ruda \u015al\u0105ska"
+    },
+    {
+        "teryt": "2473011",
+        "name": " Rybnik"
+    },
+    {
+        "teryt": "2474011",
+        "name": " Siemianowice \u015al\u0105skie"
+    },
+    {
+        "teryt": "2475011",
+        "name": " Sosnowiec"
+    },
+    {
+        "teryt": "2476011",
+        "name": " \u015awi\u0119toch\u0142owice"
+    },
+    {
+        "teryt": "2477011",
+        "name": " Tychy"
+    },
+    {
+        "teryt": "2478011",
+        "name": " Zabrze"
+    },
+    {
+        "teryt": "2479011",
+        "name": " \u017bory"
+    },
+    {
+        "teryt": "2601013",
+        "name": " Busko-Zdr\u00f3j"
+    },
+    {
+        "teryt": "2601022",
+        "name": " Gnojno"
+    },
+    {
+        "teryt": "2601033",
+        "name": " Nowy Korczyn"
+    },
+    {
+        "teryt": "2601043",
+        "name": " Pacan\u00f3w"
+    },
+    {
+        "teryt": "2601052",
+        "name": " Solec-Zdr\u00f3j"
+    },
+    {
+        "teryt": "2601063",
+        "name": " Stopnica"
+    },
+    {
+        "teryt": "2601072",
+        "name": " Tucz\u0119py"
+    },
+    {
+        "teryt": "2601083",
+        "name": " Wi\u015blica"
+    },
+    {
+        "teryt": "2602012",
+        "name": " Imielno"
+    },
+    {
+        "teryt": "2602023",
+        "name": " J\u0119drzej\u00f3w"
+    },
+    {
+        "teryt": "2602033",
+        "name": " Ma\u0142ogoszcz"
+    },
+    {
+        "teryt": "2602042",
+        "name": " Nag\u0142owice"
+    },
+    {
+        "teryt": "2602052",
+        "name": " Oksa"
+    },
+    {
+        "teryt": "2602063",
+        "name": " S\u0119dzisz\u00f3w"
+    },
+    {
+        "teryt": "2602072",
+        "name": " S\u0142upia"
+    },
+    {
+        "teryt": "2602082",
+        "name": " Sobk\u00f3w"
+    },
+    {
+        "teryt": "2602093",
+        "name": " Wodzis\u0142aw"
+    },
+    {
+        "teryt": "2603012",
+        "name": " Bejsce"
+    },
+    {
+        "teryt": "2603022",
+        "name": " Czarnocin"
+    },
+    {
+        "teryt": "2603033",
+        "name": " Kazimierza Wielka"
+    },
+    {
+        "teryt": "2603043",
+        "name": " Opatowiec"
+    },
+    {
+        "teryt": "2603053",
+        "name": " Skalbmierz"
+    },
+    {
+        "teryt": "2604012",
+        "name": " Bieliny"
+    },
+    {
+        "teryt": "2604023",
+        "name": " Bodzentyn"
+    },
+    {
+        "teryt": "2604033",
+        "name": " Ch\u0119ciny"
+    },
+    {
+        "teryt": "2604043",
+        "name": " Chmielnik"
+    },
+    {
+        "teryt": "2604053",
+        "name": " Daleszyce"
+    },
+    {
+        "teryt": "2604062",
+        "name": " G\u00f3rno"
+    },
+    {
+        "teryt": "2604073",
+        "name": " \u0141ag\u00f3w"
+    },
+    {
+        "teryt": "2604082",
+        "name": " \u0141opuszno"
+    },
+    {
+        "teryt": "2604092",
+        "name": " Mas\u0142\u00f3w"
+    },
+    {
+        "teryt": "2604102",
+        "name": " Miedziana G\u00f3ra"
+    },
+    {
+        "teryt": "2604112",
+        "name": " Mni\u00f3w"
+    },
+    {
+        "teryt": "2604123",
+        "name": " Morawica"
+    },
+    {
+        "teryt": "2604133",
+        "name": " Nowa S\u0142upia"
+    },
+    {
+        "teryt": "2604142",
+        "name": " Piekosz\u00f3w"
+    },
+    {
+        "teryt": "2604153",
+        "name": " Pierzchnica"
+    },
+    {
+        "teryt": "2604162",
+        "name": " Rak\u00f3w"
+    },
+    {
+        "teryt": "2604172",
+        "name": " Nowiny"
+    },
+    {
+        "teryt": "2604182",
+        "name": " Strawczyn"
+    },
+    {
+        "teryt": "2604192",
+        "name": " Zagna\u0144sk"
+    },
+    {
+        "teryt": "2605012",
+        "name": " Fa\u0142k\u00f3w"
+    },
+    {
+        "teryt": "2605022",
+        "name": " Gowarcz\u00f3w"
+    },
+    {
+        "teryt": "2605033",
+        "name": " Ko\u0144skie"
+    },
+    {
+        "teryt": "2605043",
+        "name": " Radoszyce"
+    },
+    {
+        "teryt": "2605052",
+        "name": " Ruda Maleniecka"
+    },
+    {
+        "teryt": "2605062",
+        "name": " S\u0142upia Konecka|gmina S\u0142upia Konecka"
+    },
+    {
+        "teryt": "2605072",
+        "name": " Smyk\u00f3w"
+    },
+    {
+        "teryt": "2605083",
+        "name": " St\u0105pork\u00f3w"
+    },
+    {
+        "teryt": "2606012",
+        "name": " Ba\u0107kowice"
+    },
+    {
+        "teryt": "2606022",
+        "name": " Iwaniska"
+    },
+    {
+        "teryt": "2606032",
+        "name": " Lipnik"
+    },
+    {
+        "teryt": "2606043",
+        "name": " Opat\u00f3w"
+    },
+    {
+        "teryt": "2606053",
+        "name": " O\u017car\u00f3w"
+    },
+    {
+        "teryt": "2606062",
+        "name": " Sadowie"
+    },
+    {
+        "teryt": "2606072",
+        "name": " Tar\u0142\u00f3w"
+    },
+    {
+        "teryt": "2606082",
+        "name": " Wojciechowice"
+    },
+    {
+        "teryt": "2607011",
+        "name": " Ostrowiec \u015awi\u0119tokrzyski"
+    },
+    {
+        "teryt": "2607022",
+        "name": " Ba\u0142t\u00f3w"
+    },
+    {
+        "teryt": "2607032",
+        "name": " Bodzech\u00f3w"
+    },
+    {
+        "teryt": "2607043",
+        "name": " \u0106miel\u00f3w"
+    },
+    {
+        "teryt": "2607053",
+        "name": " Kun\u00f3w"
+    },
+    {
+        "teryt": "2607062",
+        "name": " Wa\u015bni\u00f3w"
+    },
+    {
+        "teryt": "2608013",
+        "name": " Dzia\u0142oszyce"
+    },
+    {
+        "teryt": "2608022",
+        "name": " Kije"
+    },
+    {
+        "teryt": "2608032",
+        "name": " Micha\u0142\u00f3w"
+    },
+    {
+        "teryt": "2608043",
+        "name": " Pi\u0144cz\u00f3w"
+    },
+    {
+        "teryt": "2608052",
+        "name": " Z\u0142ota"
+    },
+    {
+        "teryt": "2609011",
+        "name": " Sandomierz"
+    },
+    {
+        "teryt": "2609022",
+        "name": " Dwikozy"
+    },
+    {
+        "teryt": "2609033",
+        "name": " Klimont\u00f3w"
+    },
+    {
+        "teryt": "2609043",
+        "name": " Koprzywnica"
+    },
+    {
+        "teryt": "2609052",
+        "name": " \u0141oni\u00f3w"
+    },
+    {
+        "teryt": "2609062",
+        "name": " Obraz\u00f3w"
+    },
+    {
+        "teryt": "2609072",
+        "name": " Samborzec"
+    },
+    {
+        "teryt": "2609082",
+        "name": " Wilczyce"
+    },
+    {
+        "teryt": "2609093",
+        "name": " Zawichost"
+    },
+    {
+        "teryt": "2610011",
+        "name": " Skar\u017cysko-Kamienna"
+    },
+    {
+        "teryt": "2610022",
+        "name": " Bli\u017cyn"
+    },
+    {
+        "teryt": "2610032",
+        "name": " \u0141\u0105czna"
+    },
+    {
+        "teryt": "2610042",
+        "name": " Skar\u017cysko Ko\u015bcielne"
+    },
+    {
+        "teryt": "2610053",
+        "name": " Suchedni\u00f3w"
+    },
+    {
+        "teryt": "2611011",
+        "name": " Starachowice"
+    },
+    {
+        "teryt": "2611022",
+        "name": " Brody"
+    },
+    {
+        "teryt": "2611032",
+        "name": " Mirzec"
+    },
+    {
+        "teryt": "2611042",
+        "name": " Paw\u0142\u00f3w"
+    },
+    {
+        "teryt": "2611053",
+        "name": " W\u0105chock"
+    },
+    {
+        "teryt": "2612012",
+        "name": " Bogoria"
+    },
+    {
+        "teryt": "2612022",
+        "name": " \u0141ubnice"
+    },
+    {
+        "teryt": "2612033",
+        "name": " Ole\u015bnica"
+    },
+    {
+        "teryt": "2612043",
+        "name": " Osiek"
+    },
+    {
+        "teryt": "2612053",
+        "name": " Po\u0142aniec"
+    },
+    {
+        "teryt": "2612062",
+        "name": " Rytwiany"
+    },
+    {
+        "teryt": "2612073",
+        "name": " Stasz\u00f3w"
+    },
+    {
+        "teryt": "2612083",
+        "name": " Szyd\u0142\u00f3w"
+    },
+    {
+        "teryt": "2613012",
+        "name": " Kluczewsko"
+    },
+    {
+        "teryt": "2613022",
+        "name": " Krasocin"
+    },
+    {
+        "teryt": "2613032",
+        "name": " Moskorzew"
+    },
+    {
+        "teryt": "2613042",
+        "name": " Radk\u00f3w"
+    },
+    {
+        "teryt": "2613052",
+        "name": " Secemin"
+    },
+    {
+        "teryt": "2613063",
+        "name": " W\u0142oszczowa"
+    },
+    {
+        "teryt": "2661011",
+        "name": " Kielce"
+    },
+    {
+        "teryt": "2801011",
+        "name": " Bartoszyce"
+    },
+    {
+        "teryt": "2801021",
+        "name": " G\u00f3rowo I\u0142aweckie"
+    },
+    {
+        "teryt": "2801032",
+        "name": " Bartoszyce"
+    },
+    {
+        "teryt": "2801043",
+        "name": " Bisztynek"
+    },
+    {
+        "teryt": "2801052",
+        "name": " G\u00f3rowo I\u0142aweckie"
+    },
+    {
+        "teryt": "2801063",
+        "name": " S\u0119popol"
+    },
+    {
+        "teryt": "2802011",
+        "name": " Braniewo"
+    },
+    {
+        "teryt": "2802022",
+        "name": " Braniewo"
+    },
+    {
+        "teryt": "2802033",
+        "name": " Frombork"
+    },
+    {
+        "teryt": "2802042",
+        "name": " Lelkowo"
+    },
+    {
+        "teryt": "2802053",
+        "name": " Pieni\u0119\u017cno"
+    },
+    {
+        "teryt": "2802062",
+        "name": " P\u0142oskinia"
+    },
+    {
+        "teryt": "2802072",
+        "name": " Wilcz\u0119ta"
+    },
+    {
+        "teryt": "2803011",
+        "name": " Dzia\u0142dowo"
+    },
+    {
+        "teryt": "2803022",
+        "name": " Dzia\u0142dowo"
+    },
+    {
+        "teryt": "2803032",
+        "name": " I\u0142owo-Osada"
+    },
+    {
+        "teryt": "2803043",
+        "name": " Lidzbark"
+    },
+    {
+        "teryt": "2803052",
+        "name": " P\u0142o\u015bnica"
+    },
+    {
+        "teryt": "2803062",
+        "name": " Rybno"
+    },
+    {
+        "teryt": "2804012",
+        "name": " Elbl\u0105g"
+    },
+    {
+        "teryt": "2804022",
+        "name": " Godkowo"
+    },
+    {
+        "teryt": "2804032",
+        "name": " Gronowo Elbl\u0105skie"
+    },
+    {
+        "teryt": "2804042",
+        "name": " Markusy"
+    },
+    {
+        "teryt": "2804052",
+        "name": " Milejewo"
+    },
+    {
+        "teryt": "2804063",
+        "name": " M\u0142ynary"
+    },
+    {
+        "teryt": "2804073",
+        "name": " Pas\u0142\u0119k"
+    },
+    {
+        "teryt": "2804082",
+        "name": " Rychliki"
+    },
+    {
+        "teryt": "2804093",
+        "name": " Tolkmicko"
+    },
+    {
+        "teryt": "2805011",
+        "name": " E\u0142k"
+    },
+    {
+        "teryt": "2805022",
+        "name": " E\u0142k"
+    },
+    {
+        "teryt": "2805032",
+        "name": " Kalinowo"
+    },
+    {
+        "teryt": "2805042",
+        "name": " Prostki"
+    },
+    {
+        "teryt": "2805052",
+        "name": " Stare Juchy"
+    },
+    {
+        "teryt": "2806011",
+        "name": " Gi\u017cycko"
+    },
+    {
+        "teryt": "2806042",
+        "name": " Gi\u017cycko"
+    },
+    {
+        "teryt": "2806052",
+        "name": " Kruklanki"
+    },
+    {
+        "teryt": "2806062",
+        "name": " Mi\u0142ki"
+    },
+    {
+        "teryt": "2806083",
+        "name": " Ryn"
+    },
+    {
+        "teryt": "2806102",
+        "name": " Wydminy"
+    },
+    {
+        "teryt": "2807011",
+        "name": " I\u0142awa"
+    },
+    {
+        "teryt": "2807021",
+        "name": " Lubawa"
+    },
+    {
+        "teryt": "2807032",
+        "name": " I\u0142awa"
+    },
+    {
+        "teryt": "2807043",
+        "name": " Kisielice"
+    },
+    {
+        "teryt": "2807052",
+        "name": " Lubawa"
+    },
+    {
+        "teryt": "2807063",
+        "name": " Susz"
+    },
+    {
+        "teryt": "2807073",
+        "name": " Zalewo"
+    },
+    {
+        "teryt": "2808011",
+        "name": " K\u0119trzyn"
+    },
+    {
+        "teryt": "2808022",
+        "name": " Barciany"
+    },
+    {
+        "teryt": "2808032",
+        "name": " K\u0119trzyn"
+    },
+    {
+        "teryt": "2808043",
+        "name": " Korsze"
+    },
+    {
+        "teryt": "2808053",
+        "name": " Reszel"
+    },
+    {
+        "teryt": "2808062",
+        "name": " Srokowo"
+    },
+    {
+        "teryt": "2809011",
+        "name": " Lidzbark Warmi\u0144ski"
+    },
+    {
+        "teryt": "2809022",
+        "name": " Kiwity"
+    },
+    {
+        "teryt": "2809032",
+        "name": " Lidzbark Warmi\u0144ski"
+    },
+    {
+        "teryt": "2809042",
+        "name": " Lubomino"
+    },
+    {
+        "teryt": "2809053",
+        "name": " Orneta"
+    },
+    {
+        "teryt": "2810011",
+        "name": " Mr\u0105gowo"
+    },
+    {
+        "teryt": "2810023",
+        "name": " Miko\u0142ajki"
+    },
+    {
+        "teryt": "2810032",
+        "name": " Mr\u0105gowo"
+    },
+    {
+        "teryt": "2810042",
+        "name": " Piecki"
+    },
+    {
+        "teryt": "2810052",
+        "name": " Sorkwity"
+    },
+    {
+        "teryt": "2811012",
+        "name": " Janowiec Ko\u015bcielny"
+    },
+    {
+        "teryt": "2811022",
+        "name": " Janowo"
+    },
+    {
+        "teryt": "2811032",
+        "name": " Koz\u0142owo"
+    },
+    {
+        "teryt": "2811043",
+        "name": " Nidzica"
+    },
+    {
+        "teryt": "2812011",
+        "name": " Nowe Miasto Lubawskie"
+    },
+    {
+        "teryt": "2812022",
+        "name": " Biskupiec"
+    },
+    {
+        "teryt": "2812032",
+        "name": " Grodziczno"
+    },
+    {
+        "teryt": "2812042",
+        "name": " Kurz\u0119tnik"
+    },
+    {
+        "teryt": "2812052",
+        "name": " Nowe Miasto Lubawskie"
+    },
+    {
+        "teryt": "2813032",
+        "name": " Kowale Oleckie"
+    },
+    {
+        "teryt": "2813043",
+        "name": " Olecko"
+    },
+    {
+        "teryt": "2813052",
+        "name": " \u015awi\u0119tajno"
+    },
+    {
+        "teryt": "2813062",
+        "name": " Wieliczki"
+    },
+    {
+        "teryt": "2814013",
+        "name": " Barczewo"
+    },
+    {
+        "teryt": "2814023",
+        "name": " Biskupiec"
+    },
+    {
+        "teryt": "2814033",
+        "name": " Dobre Miasto"
+    },
+    {
+        "teryt": "2814042",
+        "name": " Dywity"
+    },
+    {
+        "teryt": "2814052",
+        "name": " Gietrzwa\u0142d"
+    },
+    {
+        "teryt": "2814063",
+        "name": " Jeziorany"
+    },
+    {
+        "teryt": "2814072",
+        "name": " Jonkowo"
+    },
+    {
+        "teryt": "2814082",
+        "name": " Kolno"
+    },
+    {
+        "teryt": "2814093",
+        "name": " Olsztynek"
+    },
+    {
+        "teryt": "2814102",
+        "name": " Purda"
+    },
+    {
+        "teryt": "2814112",
+        "name": " Stawiguda"
+    },
+    {
+        "teryt": "2814122",
+        "name": " \u015awi\u0105tki"
+    },
+    {
+        "teryt": "2815011",
+        "name": " Ostr\u00f3da"
+    },
+    {
+        "teryt": "2815022",
+        "name": " D\u0105br\u00f3wno"
+    },
+    {
+        "teryt": "2815032",
+        "name": " Grunwald"
+    },
+    {
+        "teryt": "2815042",
+        "name": " \u0141ukta"
+    },
+    {
+        "teryt": "2815052",
+        "name": " Ma\u0142dyty"
+    },
+    {
+        "teryt": "2815063",
+        "name": " Mi\u0142akowo"
+    },
+    {
+        "teryt": "2815073",
+        "name": " Mi\u0142om\u0142yn"
+    },
+    {
+        "teryt": "2815083",
+        "name": " Mor\u0105g"
+    },
+    {
+        "teryt": "2815092",
+        "name": " Ostr\u00f3da"
+    },
+    {
+        "teryt": "2816013",
+        "name": " Bia\u0142a Piska"
+    },
+    {
+        "teryt": "2816023",
+        "name": " Orzysz"
+    },
+    {
+        "teryt": "2816033",
+        "name": " Pisz"
+    },
+    {
+        "teryt": "2816043",
+        "name": " Ruciane-Nida"
+    },
+    {
+        "teryt": "2817011",
+        "name": " Szczytno"
+    },
+    {
+        "teryt": "2817022",
+        "name": " D\u017awierzuty"
+    },
+    {
+        "teryt": "2817032",
+        "name": " Jedwabno"
+    },
+    {
+        "teryt": "2817043",
+        "name": " Pasym"
+    },
+    {
+        "teryt": "2817052",
+        "name": " Rozogi"
+    },
+    {
+        "teryt": "2817062",
+        "name": " Szczytno"
+    },
+    {
+        "teryt": "2817072",
+        "name": " \u015awi\u0119tajno"
+    },
+    {
+        "teryt": "2817083",
+        "name": " Wielbark"
+    },
+    {
+        "teryt": "2818012",
+        "name": " Banie Mazurskie"
+    },
+    {
+        "teryt": "2818022",
+        "name": " Dubeninki"
+    },
+    {
+        "teryt": "2818033",
+        "name": " Go\u0142dap"
+    },
+    {
+        "teryt": "2819012",
+        "name": " Budry"
+    },
+    {
+        "teryt": "2819022",
+        "name": " Pozezdrze"
+    },
+    {
+        "teryt": "2819033",
+        "name": " W\u0119gorzewo"
+    },
+    {
+        "teryt": "2861011",
+        "name": " Elbl\u0105g"
+    },
+    {
+        "teryt": "2862011",
+        "name": " Olsztyn"
+    },
+    {
+        "teryt": "3001011",
+        "name": " Chodzie\u017c"
+    },
+    {
+        "teryt": "3001023",
+        "name": " Budzy\u0144"
+    },
+    {
+        "teryt": "3001032",
+        "name": " Chodzie\u017c"
+    },
+    {
+        "teryt": "3001043",
+        "name": " Margonin"
+    },
+    {
+        "teryt": "3001053",
+        "name": " Szamocin"
+    },
+    {
+        "teryt": "3002011",
+        "name": " Czarnk\u00f3w"
+    },
+    {
+        "teryt": "3002022",
+        "name": " Czarnk\u00f3w"
+    },
+    {
+        "teryt": "3002032",
+        "name": " Drawsko"
+    },
+    {
+        "teryt": "3002043",
+        "name": " Krzy\u017c Wielkopolski"
+    },
+    {
+        "teryt": "3002052",
+        "name": " Lubasz"
+    },
+    {
+        "teryt": "3002062",
+        "name": " Po\u0142ajewo"
+    },
+    {
+        "teryt": "3002073",
+        "name": " Trzcianka"
+    },
+    {
+        "teryt": "3002083",
+        "name": " Wiele\u0144"
+    },
+    {
+        "teryt": "3003011",
+        "name": " Gniezno"
+    },
+    {
+        "teryt": "3003023",
+        "name": " Czerniejewo"
+    },
+    {
+        "teryt": "3003032",
+        "name": " Gniezno"
+    },
+    {
+        "teryt": "3003042",
+        "name": " Kiszkowo"
+    },
+    {
+        "teryt": "3003053",
+        "name": " K\u0142ecko"
+    },
+    {
+        "teryt": "3003062",
+        "name": " \u0141ubowo"
+    },
+    {
+        "teryt": "3003072",
+        "name": " Mieleszyn"
+    },
+    {
+        "teryt": "3003082",
+        "name": " Niechanowo"
+    },
+    {
+        "teryt": "3003093",
+        "name": " Trzemeszno"
+    },
+    {
+        "teryt": "3003103",
+        "name": " Witkowo"
+    },
+    {
+        "teryt": "3004013",
+        "name": " Borek Wielkopolski"
+    },
+    {
+        "teryt": "3004023",
+        "name": " Gosty\u0144"
+    },
+    {
+        "teryt": "3004033",
+        "name": " Krobia"
+    },
+    {
+        "teryt": "3004042",
+        "name": " P\u0119powo"
+    },
+    {
+        "teryt": "3004052",
+        "name": " Piaski"
+    },
+    {
+        "teryt": "3004063",
+        "name": " Pogorzela"
+    },
+    {
+        "teryt": "3004073",
+        "name": " Poniec"
+    },
+    {
+        "teryt": "3005012",
+        "name": " Granowo"
+    },
+    {
+        "teryt": "3005023",
+        "name": " Grodzisk Wielkopolski"
+    },
+    {
+        "teryt": "3005032",
+        "name": " Kamieniec"
+    },
+    {
+        "teryt": "3005043",
+        "name": " Rakoniewice"
+    },
+    {
+        "teryt": "3005053",
+        "name": " Wielichowo"
+    },
+    {
+        "teryt": "3006013",
+        "name": " Jaraczewo"
+    },
+    {
+        "teryt": "3006023",
+        "name": " Jarocin"
+    },
+    {
+        "teryt": "3006032",
+        "name": " Kotlin"
+    },
+    {
+        "teryt": "3006043",
+        "name": " \u017berk\u00f3w"
+    },
+    {
+        "teryt": "3007012",
+        "name": " Blizan\u00f3w"
+    },
+    {
+        "teryt": "3007022",
+        "name": " Brzeziny"
+    },
+    {
+        "teryt": "3007032",
+        "name": " Cek\u00f3w-Kolonia"
+    },
+    {
+        "teryt": "3007042",
+        "name": " Godziesze Wielkie"
+    },
+    {
+        "teryt": "3007053",
+        "name": " Ko\u017aminek"
+    },
+    {
+        "teryt": "3007062",
+        "name": " Lisk\u00f3w"
+    },
+    {
+        "teryt": "3007072",
+        "name": " Mycielin"
+    },
+    {
+        "teryt": "3007083",
+        "name": " Opat\u00f3wek"
+    },
+    {
+        "teryt": "3007093",
+        "name": " Stawiszyn"
+    },
+    {
+        "teryt": "3007102",
+        "name": " Szczytniki"
+    },
+    {
+        "teryt": "3007112",
+        "name": " \u017belazk\u00f3w"
+    },
+    {
+        "teryt": "3008012",
+        "name": " Baran\u00f3w"
+    },
+    {
+        "teryt": "3008022",
+        "name": " Bralin"
+    },
+    {
+        "teryt": "3008033",
+        "name": " K\u0119pno"
+    },
+    {
+        "teryt": "3008042",
+        "name": " \u0141\u0119ka Opatowska"
+    },
+    {
+        "teryt": "3008052",
+        "name": " Perz\u00f3w"
+    },
+    {
+        "teryt": "3008062",
+        "name": " Rychtal"
+    },
+    {
+        "teryt": "3008072",
+        "name": " Trzcinica"
+    },
+    {
+        "teryt": "3009011",
+        "name": " Ko\u0142o"
+    },
+    {
+        "teryt": "3009022",
+        "name": " Babiak"
+    },
+    {
+        "teryt": "3009032",
+        "name": " Chod\u00f3w"
+    },
+    {
+        "teryt": "3009043",
+        "name": " D\u0105bie"
+    },
+    {
+        "teryt": "3009052",
+        "name": " Grzegorzew"
+    },
+    {
+        "teryt": "3009063",
+        "name": " K\u0142odawa"
+    },
+    {
+        "teryt": "3009072",
+        "name": " Ko\u0142o"
+    },
+    {
+        "teryt": "3009082",
+        "name": " Ko\u015bcielec"
+    },
+    {
+        "teryt": "3009092",
+        "name": " Olsz\u00f3wka"
+    },
+    {
+        "teryt": "3009102",
+        "name": " Osiek Ma\u0142y"
+    },
+    {
+        "teryt": "3009113",
+        "name": " Przedecz"
+    },
+    {
+        "teryt": "3010013",
+        "name": " Golina"
+    },
+    {
+        "teryt": "3010022",
+        "name": " Grodziec"
+    },
+    {
+        "teryt": "3010032",
+        "name": " Kazimierz Biskupi"
+    },
+    {
+        "teryt": "3010043",
+        "name": " Kleczew"
+    },
+    {
+        "teryt": "3010052",
+        "name": " Kramsk"
+    },
+    {
+        "teryt": "3010062",
+        "name": " Krzym\u00f3w"
+    },
+    {
+        "teryt": "3010073",
+        "name": " Rychwa\u0142"
+    },
+    {
+        "teryt": "3010082",
+        "name": " Rzg\u00f3w"
+    },
+    {
+        "teryt": "3010092",
+        "name": " Skulsk"
+    },
+    {
+        "teryt": "3010103",
+        "name": " Sompolno"
+    },
+    {
+        "teryt": "3010112",
+        "name": " Stare Miasto"
+    },
+    {
+        "teryt": "3010123",
+        "name": " \u015alesin"
+    },
+    {
+        "teryt": "3010132",
+        "name": " Wierzbinek"
+    },
+    {
+        "teryt": "3010142",
+        "name": " Wilczyn"
+    },
+    {
+        "teryt": "3011011",
+        "name": " Ko\u015bcian"
+    },
+    {
+        "teryt": "3011023",
+        "name": " Czempi\u0144"
+    },
+    {
+        "teryt": "3011032",
+        "name": " Ko\u015bcian"
+    },
+    {
+        "teryt": "3011043",
+        "name": " Krzywi\u0144"
+    },
+    {
+        "teryt": "3011053",
+        "name": " \u015amigiel"
+    },
+    {
+        "teryt": "3012011",
+        "name": " Sulmierzyce"
+    },
+    {
+        "teryt": "3012023",
+        "name": " Kobylin"
+    },
+    {
+        "teryt": "3012033",
+        "name": " Ko\u017amin Wielkopolski"
+    },
+    {
+        "teryt": "3012043",
+        "name": " Krotoszyn"
+    },
+    {
+        "teryt": "3012052",
+        "name": " Rozdra\u017cew"
+    },
+    {
+        "teryt": "3012063",
+        "name": " Zduny"
+    },
+    {
+        "teryt": "3013012",
+        "name": " Krzemieniewo"
+    },
+    {
+        "teryt": "3013022",
+        "name": " Lipno"
+    },
+    {
+        "teryt": "3013033",
+        "name": " Osieczna"
+    },
+    {
+        "teryt": "3013043",
+        "name": " Rydzyna"
+    },
+    {
+        "teryt": "3013052",
+        "name": " \u015awi\u0119ciechowa"
+    },
+    {
+        "teryt": "3013062",
+        "name": " Wijewo"
+    },
+    {
+        "teryt": "3013072",
+        "name": " W\u0142oszakowice"
+    },
+    {
+        "teryt": "3014012",
+        "name": " Chrzypsko Wielkie"
+    },
+    {
+        "teryt": "3014022",
+        "name": " Kwilcz"
+    },
+    {
+        "teryt": "3014033",
+        "name": " Mi\u0119dzych\u00f3d"
+    },
+    {
+        "teryt": "3014043",
+        "name": " Sierak\u00f3w"
+    },
+    {
+        "teryt": "3015012",
+        "name": " Ku\u015blin"
+    },
+    {
+        "teryt": "3015023",
+        "name": " Lw\u00f3wek"
+    },
+    {
+        "teryt": "3015032",
+        "name": " Miedzichowo"
+    },
+    {
+        "teryt": "3015043",
+        "name": " Nowy Tomy\u015bl"
+    },
+    {
+        "teryt": "3015053",
+        "name": " Opalenica"
+    },
+    {
+        "teryt": "3015063",
+        "name": " Zb\u0105szy\u0144"
+    },
+    {
+        "teryt": "3016013",
+        "name": " Oborniki"
+    },
+    {
+        "teryt": "3016023",
+        "name": " Rogo\u017ano"
+    },
+    {
+        "teryt": "3016032",
+        "name": " Ryczyw\u00f3\u0142"
+    },
+    {
+        "teryt": "3017011",
+        "name": " Ostr\u00f3w Wielkopolski"
+    },
+    {
+        "teryt": "3017023",
+        "name": " Nowe Skalmierzyce"
+    },
+    {
+        "teryt": "3017033",
+        "name": " Odolan\u00f3w"
+    },
+    {
+        "teryt": "3017042",
+        "name": " Ostr\u00f3w Wielkopolski"
+    },
+    {
+        "teryt": "3017052",
+        "name": " Przygodzice"
+    },
+    {
+        "teryt": "3017063",
+        "name": " Raszk\u00f3w"
+    },
+    {
+        "teryt": "3017072",
+        "name": " Sieroszewice"
+    },
+    {
+        "teryt": "3017082",
+        "name": " So\u015bnie"
+    },
+    {
+        "teryt": "3018012",
+        "name": " Czajk\u00f3w"
+    },
+    {
+        "teryt": "3018022",
+        "name": " Doruch\u00f3w"
+    },
+    {
+        "teryt": "3018033",
+        "name": " Grab\u00f3wnad Prosn\u0105"
+    },
+    {
+        "teryt": "3018042",
+        "name": " Kobyla G\u00f3ra"
+    },
+    {
+        "teryt": "3018052",
+        "name": " Kraszewice"
+    },
+    {
+        "teryt": "3018063",
+        "name": " Mikstat"
+    },
+    {
+        "teryt": "3018073",
+        "name": " Ostrzesz\u00f3w"
+    },
+    {
+        "teryt": "3019011",
+        "name": " Pi\u0142a"
+    },
+    {
+        "teryt": "3019022",
+        "name": " Bia\u0142o\u015bliwie"
+    },
+    {
+        "teryt": "3019032",
+        "name": " Kaczory"
+    },
+    {
+        "teryt": "3019043",
+        "name": " \u0141ob\u017cenica"
+    },
+    {
+        "teryt": "3019052",
+        "name": " Miasteczko Kraje\u0144skie"
+    },
+    {
+        "teryt": "3019062",
+        "name": " Szyd\u0142owo"
+    },
+    {
+        "teryt": "3019073",
+        "name": " Uj\u015bcie"
+    },
+    {
+        "teryt": "3019083",
+        "name": " Wyrzysk"
+    },
+    {
+        "teryt": "3019093",
+        "name": " Wysoka"
+    },
+    {
+        "teryt": "3020013",
+        "name": " Chocz"
+    },
+    {
+        "teryt": "3020022",
+        "name": " Czermin"
+    },
+    {
+        "teryt": "3020033",
+        "name": " Dobrzyca"
+    },
+    {
+        "teryt": "3020042",
+        "name": " Giza\u0142ki"
+    },
+    {
+        "teryt": "3020052",
+        "name": " Go\u0142uch\u00f3w"
+    },
+    {
+        "teryt": "3020063",
+        "name": " Pleszew"
+    },
+    {
+        "teryt": "3021011",
+        "name": " Lubo\u0144"
+    },
+    {
+        "teryt": "3021021",
+        "name": " Puszczykowo"
+    },
+    {
+        "teryt": "3021033",
+        "name": " Buk"
+    },
+    {
+        "teryt": "3021042",
+        "name": " Czerwonak"
+    },
+    {
+        "teryt": "3021052",
+        "name": " Dopiewo"
+    },
+    {
+        "teryt": "3021062",
+        "name": " Kleszczewo"
+    },
+    {
+        "teryt": "3021072",
+        "name": " Komorniki"
+    },
+    {
+        "teryt": "3021083",
+        "name": " Kostrzyn"
+    },
+    {
+        "teryt": "3021093",
+        "name": " K\u00f3rnik"
+    },
+    {
+        "teryt": "3021103",
+        "name": " Mosina"
+    },
+    {
+        "teryt": "3021113",
+        "name": " Murowana Go\u015blina"
+    },
+    {
+        "teryt": "3021123",
+        "name": " Pobiedziska"
+    },
+    {
+        "teryt": "3021132",
+        "name": " Rokietnica"
+    },
+    {
+        "teryt": "3021143",
+        "name": " St\u0119szew"
+    },
+    {
+        "teryt": "3021152",
+        "name": " Suchy Las"
+    },
+    {
+        "teryt": "3021163",
+        "name": " Swarz\u0119dz"
+    },
+    {
+        "teryt": "3021172",
+        "name": " Tarnowo Podg\u00f3rne"
+    },
+    {
+        "teryt": "3022013",
+        "name": " Bojanowo"
+    },
+    {
+        "teryt": "3022023",
+        "name": " Jutrosin"
+    },
+    {
+        "teryt": "3022033",
+        "name": " Miejska G\u00f3rka"
+    },
+    {
+        "teryt": "3022042",
+        "name": " Pakos\u0142aw"
+    },
+    {
+        "teryt": "3022053",
+        "name": " Rawicz"
+    },
+    {
+        "teryt": "3023011",
+        "name": " S\u0142upca"
+    },
+    {
+        "teryt": "3023022",
+        "name": " L\u0105dek"
+    },
+    {
+        "teryt": "3023032",
+        "name": " Orchowo"
+    },
+    {
+        "teryt": "3023042",
+        "name": " Ostrowite"
+    },
+    {
+        "teryt": "3023052",
+        "name": " Powidz"
+    },
+    {
+        "teryt": "3023062",
+        "name": " S\u0142upca"
+    },
+    {
+        "teryt": "3023072",
+        "name": " Strza\u0142kowo"
+    },
+    {
+        "teryt": "3023083",
+        "name": " Zag\u00f3r\u00f3w"
+    },
+    {
+        "teryt": "3024011",
+        "name": " Obrzycko"
+    },
+    {
+        "teryt": "3024022",
+        "name": " Duszniki"
+    },
+    {
+        "teryt": "3024032",
+        "name": " Ka\u017amierz"
+    },
+    {
+        "teryt": "3024042",
+        "name": " Obrzycko"
+    },
+    {
+        "teryt": "3024053",
+        "name": " Ostror\u00f3g"
+    },
+    {
+        "teryt": "3024063",
+        "name": " Pniewy"
+    },
+    {
+        "teryt": "3024073",
+        "name": " Szamotu\u0142y"
+    },
+    {
+        "teryt": "3024083",
+        "name": " Wronki"
+    },
+    {
+        "teryt": "3025012",
+        "name": " Dominowo"
+    },
+    {
+        "teryt": "3025022",
+        "name": " Krzykosy"
+    },
+    {
+        "teryt": "3025032",
+        "name": " Nowe Miastonad Wart\u0105"
+    },
+    {
+        "teryt": "3025043",
+        "name": " \u015aroda Wielkopolska"
+    },
+    {
+        "teryt": "3025052",
+        "name": " Zaniemy\u015bl"
+    },
+    {
+        "teryt": "3026012",
+        "name": " Brodnica"
+    },
+    {
+        "teryt": "3026023",
+        "name": " Dolsk"
+    },
+    {
+        "teryt": "3026033",
+        "name": " Ksi\u0105\u017c Wielkopolski"
+    },
+    {
+        "teryt": "3026043",
+        "name": " \u015arem"
+    },
+    {
+        "teryt": "3027011",
+        "name": " Turek"
+    },
+    {
+        "teryt": "3027022",
+        "name": " Brudzew"
+    },
+    {
+        "teryt": "3027033",
+        "name": " Dobra"
+    },
+    {
+        "teryt": "3027042",
+        "name": " Kaw\u0119czyn"
+    },
+    {
+        "teryt": "3027052",
+        "name": " Malan\u00f3w"
+    },
+    {
+        "teryt": "3027062",
+        "name": " Przykona"
+    },
+    {
+        "teryt": "3027073",
+        "name": " Tuliszk\u00f3w"
+    },
+    {
+        "teryt": "3027082",
+        "name": " Turek"
+    },
+    {
+        "teryt": "3027092",
+        "name": " W\u0142adys\u0142aw\u00f3w"
+    },
+    {
+        "teryt": "3028011",
+        "name": " W\u0105growiec"
+    },
+    {
+        "teryt": "3028022",
+        "name": " Damas\u0142awek"
+    },
+    {
+        "teryt": "3028033",
+        "name": " Go\u0142a\u0144cz"
+    },
+    {
+        "teryt": "3028042",
+        "name": " Mie\u015bcisko"
+    },
+    {
+        "teryt": "3028053",
+        "name": " Skoki"
+    },
+    {
+        "teryt": "3028062",
+        "name": " Wapno"
+    },
+    {
+        "teryt": "3028072",
+        "name": " W\u0105growiec"
+    },
+    {
+        "teryt": "3029012",
+        "name": " Przem\u0119t"
+    },
+    {
+        "teryt": "3029022",
+        "name": " Siedlec"
+    },
+    {
+        "teryt": "3029033",
+        "name": " Wolsztyn"
+    },
+    {
+        "teryt": "3030012",
+        "name": " Ko\u0142aczkowo"
+    },
+    {
+        "teryt": "3030023",
+        "name": " Mi\u0142os\u0142aw"
+    },
+    {
+        "teryt": "3030033",
+        "name": " Nekla"
+    },
+    {
+        "teryt": "3030043",
+        "name": " Pyzdry"
+    },
+    {
+        "teryt": "3030053",
+        "name": " Wrze\u015bnia"
+    },
+    {
+        "teryt": "3031011",
+        "name": " Z\u0142ot\u00f3w"
+    },
+    {
+        "teryt": "3031023",
+        "name": " Jastrowie"
+    },
+    {
+        "teryt": "3031033",
+        "name": " Krajenka"
+    },
+    {
+        "teryt": "3031042",
+        "name": " Lipka"
+    },
+    {
+        "teryt": "3031053",
+        "name": " Okonek"
+    },
+    {
+        "teryt": "3031062",
+        "name": " Tarn\u00f3wka"
+    },
+    {
+        "teryt": "3031072",
+        "name": " Zakrzewo"
+    },
+    {
+        "teryt": "3031082",
+        "name": " Z\u0142ot\u00f3w"
+    },
+    {
+        "teryt": "3061011",
+        "name": " Kalisz"
+    },
+    {
+        "teryt": "3062011",
+        "name": " Konin"
+    },
+    {
+        "teryt": "3063011",
+        "name": " Leszno"
+    },
+    {
+        "teryt": "3064011",
+        "name": " Pozna\u0144"
+    },
+    {
+        "teryt": "3201011",
+        "name": " Bia\u0142ogard"
+    },
+    {
+        "teryt": "3201022",
+        "name": " Bia\u0142ogard"
+    },
+    {
+        "teryt": "3201033",
+        "name": " Karlino"
+    },
+    {
+        "teryt": "3201043",
+        "name": " Tychowo"
+    },
+    {
+        "teryt": "3202012",
+        "name": " Bierzwnik"
+    },
+    {
+        "teryt": "3202023",
+        "name": " Choszczno"
+    },
+    {
+        "teryt": "3202033",
+        "name": " Drawno"
+    },
+    {
+        "teryt": "3202042",
+        "name": " Krz\u0119cin"
+    },
+    {
+        "teryt": "3202053",
+        "name": " Pe\u0142czyce"
+    },
+    {
+        "teryt": "3202063",
+        "name": " Recz"
+    },
+    {
+        "teryt": "3203013",
+        "name": " Czaplinek"
+    },
+    {
+        "teryt": "3203023",
+        "name": " Drawsko Pomorskie"
+    },
+    {
+        "teryt": "3203033",
+        "name": " Kalisz Pomorski"
+    },
+    {
+        "teryt": "3203052",
+        "name": " Wierzchowo"
+    },
+    {
+        "teryt": "3203063",
+        "name": " Z\u0142ocieniec"
+    },
+    {
+        "teryt": "3204023",
+        "name": " Goleni\u00f3w"
+    },
+    {
+        "teryt": "3204033",
+        "name": " Maszewo"
+    },
+    {
+        "teryt": "3204043",
+        "name": " Nowogard"
+    },
+    {
+        "teryt": "3204052",
+        "name": " Osina"
+    },
+    {
+        "teryt": "3204062",
+        "name": " Przybiern\u00f3w"
+    },
+    {
+        "teryt": "3204073",
+        "name": " Stepnica"
+    },
+    {
+        "teryt": "3205012",
+        "name": " Brojce"
+    },
+    {
+        "teryt": "3205023",
+        "name": " Gryfice"
+    },
+    {
+        "teryt": "3205032",
+        "name": " Karnice"
+    },
+    {
+        "teryt": "3205043",
+        "name": " P\u0142oty"
+    },
+    {
+        "teryt": "3205072",
+        "name": " Rewal"
+    },
+    {
+        "teryt": "3205083",
+        "name": " Trzebiat\u00f3w"
+    },
+    {
+        "teryt": "3206012",
+        "name": " Banie"
+    },
+    {
+        "teryt": "3206023",
+        "name": " Cedynia"
+    },
+    {
+        "teryt": "3206033",
+        "name": " Chojna"
+    },
+    {
+        "teryt": "3206043",
+        "name": " Gryfino"
+    },
+    {
+        "teryt": "3206053",
+        "name": " Mieszkowice"
+    },
+    {
+        "teryt": "3206063",
+        "name": " Mory\u0144"
+    },
+    {
+        "teryt": "3206072",
+        "name": " Stare Czarnowo"
+    },
+    {
+        "teryt": "3206083",
+        "name": " Trzci\u0144sko-Zdr\u00f3j"
+    },
+    {
+        "teryt": "3206092",
+        "name": " Widuchowa"
+    },
+    {
+        "teryt": "3207013",
+        "name": " Dziwn\u00f3w"
+    },
+    {
+        "teryt": "3207023",
+        "name": " Golczewo"
+    },
+    {
+        "teryt": "3207033",
+        "name": " Kamie\u0144 Pomorski"
+    },
+    {
+        "teryt": "3207043",
+        "name": " Mi\u0119dzyzdroje"
+    },
+    {
+        "teryt": "3207052",
+        "name": " \u015awierzno"
+    },
+    {
+        "teryt": "3207063",
+        "name": " Wolin"
+    },
+    {
+        "teryt": "3208011",
+        "name": " Ko\u0142obrzeg"
+    },
+    {
+        "teryt": "3208022",
+        "name": " Dygowo"
+    },
+    {
+        "teryt": "3208033",
+        "name": " Go\u015bcino"
+    },
+    {
+        "teryt": "3208042",
+        "name": " Ko\u0142obrzeg"
+    },
+    {
+        "teryt": "3208052",
+        "name": " Ryma\u0144"
+    },
+    {
+        "teryt": "3208062",
+        "name": " Siemy\u015bl"
+    },
+    {
+        "teryt": "3208072",
+        "name": " Ustronie Morskie"
+    },
+    {
+        "teryt": "3209012",
+        "name": " B\u0119dzino"
+    },
+    {
+        "teryt": "3209022",
+        "name": " Biesiekierz"
+    },
+    {
+        "teryt": "3209033",
+        "name": " Bobolice"
+    },
+    {
+        "teryt": "3209042",
+        "name": " Manowo"
+    },
+    {
+        "teryt": "3209053",
+        "name": " Mielno"
+    },
+    {
+        "teryt": "3209063",
+        "name": " Polan\u00f3w"
+    },
+    {
+        "teryt": "3209073",
+        "name": " Sian\u00f3w"
+    },
+    {
+        "teryt": "3209082",
+        "name": " \u015awieszyno"
+    },
+    {
+        "teryt": "3210013",
+        "name": " Barlinek"
+    },
+    {
+        "teryt": "3210022",
+        "name": " Boleszkowice"
+    },
+    {
+        "teryt": "3210033",
+        "name": " D\u0119bno"
+    },
+    {
+        "teryt": "3210043",
+        "name": " My\u015blib\u00f3rz"
+    },
+    {
+        "teryt": "3210052",
+        "name": " Nowogr\u00f3dek Pomorski"
+    },
+    {
+        "teryt": "3211012",
+        "name": " Dobra"
+    },
+    {
+        "teryt": "3211022",
+        "name": " Ko\u0142baskowo"
+    },
+    {
+        "teryt": "3211033",
+        "name": " Nowe Warpno"
+    },
+    {
+        "teryt": "3211043",
+        "name": " Police"
+    },
+    {
+        "teryt": "3212012",
+        "name": " Bielice"
+    },
+    {
+        "teryt": "3212022",
+        "name": " Kozielice"
+    },
+    {
+        "teryt": "3212033",
+        "name": " Lipiany"
+    },
+    {
+        "teryt": "3212042",
+        "name": " Przelewice"
+    },
+    {
+        "teryt": "3212053",
+        "name": " Pyrzyce"
+    },
+    {
+        "teryt": "3212062",
+        "name": " Warnice"
+    },
+    {
+        "teryt": "3213011",
+        "name": " Dar\u0142owo"
+    },
+    {
+        "teryt": "3213021",
+        "name": " S\u0142awno"
+    },
+    {
+        "teryt": "3213032",
+        "name": " Dar\u0142owo"
+    },
+    {
+        "teryt": "3213042",
+        "name": " Malechowo"
+    },
+    {
+        "teryt": "3213052",
+        "name": " Postomino"
+    },
+    {
+        "teryt": "3213062",
+        "name": " S\u0142awno"
+    },
+    {
+        "teryt": "3214011",
+        "name": " Stargard"
+    },
+    {
+        "teryt": "3214023",
+        "name": " Chociwel"
+    },
+    {
+        "teryt": "3214033",
+        "name": " Dobrzany"
+    },
+    {
+        "teryt": "3214042",
+        "name": " Dolice"
+    },
+    {
+        "teryt": "3214053",
+        "name": " I\u0144sko"
+    },
+    {
+        "teryt": "3214062",
+        "name": " Kobylanka"
+    },
+    {
+        "teryt": "3214082",
+        "name": " Marianowo"
+    },
+    {
+        "teryt": "3214092",
+        "name": " Stara D\u0105browa"
+    },
+    {
+        "teryt": "3214102",
+        "name": " Stargard"
+    },
+    {
+        "teryt": "3214113",
+        "name": " Sucha\u0144"
+    },
+    {
+        "teryt": "3215011",
+        "name": " Szczecinek"
+    },
+    {
+        "teryt": "3215023",
+        "name": " Barwice"
+    },
+    {
+        "teryt": "3215033",
+        "name": " Bia\u0142y B\u00f3r"
+    },
+    {
+        "teryt": "3215043",
+        "name": " Borne Sulinowo"
+    },
+    {
+        "teryt": "3215052",
+        "name": " Grzmi\u0105ca"
+    },
+    {
+        "teryt": "3215062",
+        "name": " Szczecinek"
+    },
+    {
+        "teryt": "3216011",
+        "name": " \u015awidwin"
+    },
+    {
+        "teryt": "3216022",
+        "name": " Brze\u017cno"
+    },
+    {
+        "teryt": "3216033",
+        "name": " Po\u0142czyn-Zdr\u00f3j"
+    },
+    {
+        "teryt": "3216042",
+        "name": " R\u0105bino"
+    },
+    {
+        "teryt": "3216052",
+        "name": " S\u0142awoborze"
+    },
+    {
+        "teryt": "3216062",
+        "name": " \u015awidwin"
+    },
+    {
+        "teryt": "3217011",
+        "name": " Wa\u0142cz"
+    },
+    {
+        "teryt": "3217023",
+        "name": " Cz\u0142opa"
+    },
+    {
+        "teryt": "3217033",
+        "name": " Miros\u0142awiec"
+    },
+    {
+        "teryt": "3217043",
+        "name": " Tuczno"
+    },
+    {
+        "teryt": "3217052",
+        "name": " Wa\u0142cz"
+    },
+    {
+        "teryt": "3218013",
+        "name": " Dobra"
+    },
+    {
+        "teryt": "3218023",
+        "name": " \u0141obez"
+    },
+    {
+        "teryt": "3218032",
+        "name": " Radowo Ma\u0142e"
+    },
+    {
+        "teryt": "3218043",
+        "name": " Resko"
+    },
+    {
+        "teryt": "3218053",
+        "name": " W\u0119gorzyno"
+    },
+    {
+        "teryt": "3261011",
+        "name": " Koszalin"
+    },
+    {
+        "teryt": "3262011",
+        "name": " Szczecin"
+    },
+    {
+        "teryt": "3263011",
+        "name": " \u015awinouj\u015bcie"
+    }
+]

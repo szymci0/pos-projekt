@@ -1,7 +1,25 @@
 .p-app {
-    height: 100%;
+    height: unset;
+    width: 99%;
 }
 
 #app {
-    height: 100vh !important;
+    background:#474747;
+    height: unset !important;
+    width: 100vw !important;
+    color: white;
+}
+.p-body {
+    opacity: 50%;
+}
+.p-main {
+    min-height: 85vh !important;
+}
+.p-footer {
+    background-color: #F4D03F;
+    width: 101%;
+    color: #006A4E; 
+    padding: 5px;
+    padding-left: 20px;
+    height: 30px;
 }
