@@ -1,20 +1,16 @@
 <template>
     <div class="d-flex flex-column justify-content-start align-items-center p-5">
-        <h2>{{ countyName }}</h2>
-        <input v-model="nameSearch" placeholder="County Name" type="text" />
-        <div class="d-flex justify-content-start gap-1">
-            <button 
-                v-if="!this.name.length" 
-                @click="handleSearch"
-            >
-            Search
-            </button>
-            <button 
-                v-else 
-                @click="clearSearch"
-            >
-            Reset
-            </button>
+        <div class="action-bar">
+            <h1>COUNTIES</h1>
+            <div>
+                <input v-model="nameSearch" placeholder="Search county" type="text" />
+                <button v-if="!this.name.length" @click="handleSearch">
+                    Search
+                </button>
+                <button v-else @click="clearSearch">
+                    Reset
+                </button>
+            </div>
         </div>
         <MapComponent @county-click="setCounty" />
     </div>
@@ -78,3 +74,13 @@ export default {
     }
 }
 </script>
+<style>
+.action-bar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 3em;
+    border-bottom: 1px solid yellow;
+}
+</style>
