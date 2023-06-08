@@ -1,5 +1,6 @@
 <template>
     <div class="d-flex flex-column justify-content-start align-items-center p-5">
+        <ModalComponent/>
         <div class="action-bar">
             <h1>COUNTIES</h1>
             <div>
@@ -18,12 +19,13 @@
 <script>
 
 import MapComponent from '@/components/MapComponent';
+import ModalComponent from '@/components/ModalComponent.vue';
 import { COUNTY_ENDPOINTS } from '@/services/county';
 import { request } from '@/utils/request';
 
 export default {
     name: "PositionsView",
-    components: { MapComponent },
+    components: { MapComponent, ModalComponent },
     data() {
         return {
             countyName: 'Click to display county name',
