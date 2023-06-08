@@ -37,7 +37,7 @@ import { COUNTY_ENDPOINTS, countyService } from '@/services/county';
 import { request } from '@/utils/request';
 
 export default {
-    name: "PositionsView",
+    name: "CountyView",
     components: { MapComponent, ModalComponent },
     data() {
         return {
