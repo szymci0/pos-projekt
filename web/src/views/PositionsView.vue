@@ -28,7 +28,7 @@
 
 import MapComponent from '@/components/MapComponent';
 import ModalComponent from '@/components/ModalComponent.vue';
-import { COUNTY_ENDPOINTS } from '@/services/county';
+import { COUNTY_ENDPOINTS, countyService } from '@/services/county';
 import { request } from '@/utils/request';
 
 export default {
@@ -41,11 +41,14 @@ export default {
             name: '',
             teryt: [],
             showModal: false,
+            selectedTeryt: '',
+            addEmail: '',
         }
     },
     methods: {
-        setCounty(name) {
+        setCounty(name, teryt) {
             this.countyName = name;
+            this.selectedTeryt = teryt;
             this.showModal = true;
         },
         async clearSearch() {
@@ -84,6 +87,10 @@ export default {
             }
         },
         async addUserToCounty() {
+            const res = await countyService.addUser(this.selectedTeryt, this.addEmail);
+            if (res.status !== 200) {
+                return alert("Something went wrong!")
+            }
             this.showModal = false;
         }
     }
