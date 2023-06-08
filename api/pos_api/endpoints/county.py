@@ -43,5 +43,6 @@ def get_county_teryt(name: str):
 @router.patch("/users/add")
 def add_user_to_county(payload: CountyPayload = Body(...)):
     county=County.objects(teryt=payload.teryt).get()
-    county.users.append(payload.user)
+    if payload.user not in county.users:
+        county.users.append(payload.user)
     county.save()
