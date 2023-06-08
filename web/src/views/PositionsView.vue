@@ -1,6 +1,14 @@
 <template>
     <div class="d-flex flex-column justify-content-start align-items-center p-5">
-        <ModalComponent/>
+        <ModalComponent title="Add user to county" :key="showModal" :show="showModal" @close="showModal = false">
+            <template #body>
+                <input v-model="addEmail" type="text" placeholder="Email"/>
+                <span>Selected county: {{ countyName }}</span>
+            </template>
+            <template #footer>
+                <button @click="addUserToCounty">Add user</button>
+            </template>
+        </ModalComponent>
         <div class="action-bar">
             <h1>COUNTIES</h1>
             <div>
@@ -32,11 +40,13 @@ export default {
             nameSearch: '',
             name: '',
             teryt: [],
+            showModal: false,
         }
     },
     methods: {
         setCounty(name) {
             this.countyName = name;
+            this.showModal = true;
         },
         async clearSearch() {
             this.name = ""
@@ -72,6 +82,9 @@ export default {
                 this.clearSearch();
                 alert("You must fill the county name!");
             }
+        },
+        async addUserToCounty() {
+            this.showModal = false;
         }
     }
 }
@@ -83,6 +96,6 @@ export default {
     align-items: center;
     justify-content: space-between;
     margin-bottom: 3em;
-    border-bottom: 1px solid yellow;
+    border-bottom: 1px solid #F4D03F;
 }
 </style>
