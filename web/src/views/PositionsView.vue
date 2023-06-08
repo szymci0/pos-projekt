@@ -1,6 +1,11 @@
 <template>
     <div class="d-flex flex-column justify-content-start align-items-center p-5">
-        <ModalComponent title="Add user to county" :key="showModal" :show="showModal" @close="showModal = false">
+        <ModalComponent 
+            title="Add user to county" 
+            :key="showModal" 
+            :show="showModal" 
+            @close="showModal = false"
+        >
             <template #body>
                 <input v-model="addEmail" type="text" placeholder="Email"/>
                 <span>Selected county: {{ countyName }}</span>
@@ -91,6 +96,8 @@ export default {
             if (res.status !== 200) {
                 return alert("Something went wrong!")
             }
+            this.selectedTeryt = "";
+            this.addEmail = "";
             this.showModal = false;
         }
     }
