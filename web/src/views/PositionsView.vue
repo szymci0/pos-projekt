@@ -1,30 +1,39 @@
 <template>
     <div class="d-flex flex-column justify-content-start align-items-center p-5">
         <h2>{{ countyName }}</h2>
-        <input v-model="nameSearch" placeholder="County Name" type="text"/>
+        <input v-model="nameSearch" placeholder="County Name" type="text" />
         <div class="d-flex justify-content-start gap-1">
-            <button @click="handleSearch">Search</button>
-            <button @click="clearSearch">Reset</button>
+            <button 
+                v-if="!this.name.length" 
+                @click="handleSearch"
+            >
+            Search
+            </button>
+            <button 
+                v-else 
+                @click="clearSearch"
+            >
+            Reset
+            </button>
         </div>
-        <MapComponent
-            @county-click="setCounty"
-        />
+        <MapComponent @county-click="setCounty" />
     </div>
 </template>
 <script>
 
 import MapComponent from '@/components/MapComponent';
-import { countyService } from '@/services/county';
+import { COUNTY_ENDPOINTS } from '@/services/county';
+import { request } from '@/utils/request';
 
 export default {
     name: "PositionsView",
-    components: {MapComponent},
+    components: { MapComponent },
     data() {
         return {
             countyName: 'Click to display county name',
             nameSearch: '',
             name: '',
-            teryt: '',
+            teryt: [],
         }
     },
     methods: {
@@ -32,18 +41,38 @@ export default {
             this.countyName = name;
         },
         async clearSearch() {
+            this.name = ""
             this.nameSearch = "";
-            await this.handleSearch();
-            this.teryt = "";
+            this.setColor('green');
+            this.teryt = [];
+        },
+        setColor(color) {
+            this.teryt.forEach((code) => {
+                document.getElementById(code).style.fill = color;
+            });
+        },
+        async fetchTeryt(name) {
+            const { res, data } = await request({
+                url: COUNTY_ENDPOINTS.by_name(name)
+            });
+            if (res.status !== 200) {
+                return alert('County not found!')
+            }
+
+            this.teryt = data;
+
+            if (this.teryt.length) {
+                this.setColor('red')
+            }
         },
         async handleSearch() {
-            if (this.teryt.length) {
-                document.getElementById(this.teryt).style.fill = 'green';
-            }
             this.name = this.nameSearch;
             if (this.name.length) {
-                this.teryt = await countyService.getCountyByName(this.nameSearch);
-                document.getElementById(this.teryt).style.fill = 'red';
+                await this.fetchTeryt(this.name)
+            }
+            else {
+                this.clearSearch();
+                alert("You must fill the county name!");
             }
         }
     }
