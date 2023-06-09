@@ -25,7 +25,6 @@ const isFound = (route) => route.matched[0].name !== "NotFound";
 router.beforeEach((to, from, next) => {
   if(to.meta?.getTitle) to.meta.title = to.meta.getTitle(to);
   const isAuthenticated = ActiveUser.get();
-  console.log(isAuthenticated);
   if (!isAuthenticated && !isOpenAccess(to)) {
     if (isFound(to)) {
       localStorage.setItem('patToLoadAfterLogin', to.path);
