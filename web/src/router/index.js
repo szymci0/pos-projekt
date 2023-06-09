@@ -12,11 +12,10 @@ const Page404 = () => import('@/views/PageNotFound');
 
 
 const router = createRouter({
-  mode: 'history',
   linkActiveClass: 'active',
   scrollBehaviour: () => ({ y: 0 }),
   routes: configRoutes(),
-  history: createWebHistory()
+  history: createWebHistory(),
 });
 
 const isOpenAccess = (route) => route.matched.some((route) => route.meta?.isOpenAccess);
@@ -26,6 +25,7 @@ const isFound = (route) => route.matched[0].name !== "NotFound";
 router.beforeEach((to, from, next) => {
   if(to.meta?.getTitle) to.meta.title = to.meta.getTitle(to);
   const isAuthenticated = ActiveUser.get();
+  console.log(isAuthenticated);
   if (!isAuthenticated && !isOpenAccess(to)) {
     if (isFound(to)) {
       localStorage.setItem('patToLoadAfterLogin', to.path);
@@ -41,7 +41,7 @@ function configRoutes() {
     {
       path: '/',
       name: 'Home',
-      redirect: 'home',
+      redirect: '/home',
       component: MainContainer,
       meta: {
         label: "Home",
@@ -62,7 +62,7 @@ function configRoutes() {
       ]
     },
     {
-      path: '/account',
+      path: '/account/',
       name: 'account',
       meta: {
         isOpenAccess: true,
@@ -78,16 +78,6 @@ function configRoutes() {
           name: 'Login',
           component: LoginView,
         },
-        // {
-        //   path: 'forgot',
-        //   name: 'Forgot password',
-        //   component: ForgotPassword,
-        // },
-        // {
-        //   path: 'reset/:token',
-        //   name: 'Password reset',
-        //   component: ResetPassword,
-        // },
         {
           path: 'login_management',
           name: 'ManagementLogin',
