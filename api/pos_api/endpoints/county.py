@@ -50,4 +50,9 @@ def add_user_to_county(payload: CountyPayload = Body(...)):
 @router.get("/users/list")
 def get_counties_users():
     counties = County.objects()
-    return [county.to_dict() for county in counties if len(county.users)]
+    return [
+         {
+            "county": county.name, 
+            "users": county.users
+         } for county in counties if len(county.users)
+    ]
