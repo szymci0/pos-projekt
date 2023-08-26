@@ -46,3 +46,8 @@ def add_user_to_county(payload: CountyPayload = Body(...)):
     if payload.user not in county.users:
         county.users.append(payload.user)
     county.save()
+
+@router.get("/users/list")
+def get_counties_users():
+    counties = County.objects()
+    return [county.to_dict() for county in counties if len(county.users)]
