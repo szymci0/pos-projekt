@@ -36,10 +36,12 @@ class County {
     }
 
     async getUsers() {
-        const {data} = await request({
+        const {res, data} = await request({
             url: COUNTY_ENDPOINTS.users + "/list",
         });
-        console.log(data);
+        if (res.status !== 200) {
+            return alert("Error while fetching the data!")
+        }
         return data;
     }
 }
