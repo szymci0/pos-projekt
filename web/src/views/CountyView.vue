@@ -1,5 +1,5 @@
 <template>
-    <div class="d-flex flex-column justify-content-start align-items-center p-5">
+    <div class="d-flex flex-column justify-content-start align-items-center p-4">
         <ModalComponent 
             title="Add user to county" 
             :key="showModal" 
@@ -103,13 +103,3 @@ export default {
     }
 }
 </script>
-<style>
-.action-bar {
-    width: 100%;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 3em;
-    border-bottom: 1px solid #F4D03F;
-}
-</style>
