@@ -34,6 +34,14 @@ class County {
         });
         return res
     }
+
+    async getUsers() {
+        const {data} = await request({
+            url: COUNTY_ENDPOINTS.users + "/list",
+        });
+        console.log(data);
+        return data;
+    }
 }
 
 export const countyService = new County()
