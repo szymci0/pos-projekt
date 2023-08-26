@@ -1,19 +1,16 @@
 .p-app {
-    height: 100%;
+    height: unset;
     width: 99%;
 }
 
 #app {
     background:#474747;
-    height: 100vh !important;
+    height: unset !important;
     width: 100vw !important;
     color: white;
 }
-.p-body {
-    opacity: 50%;
-}
 .p-main {
-    height: 85vh !important;
+    min-height: 85vh !important;
 }
 .p-footer {
     background-color: #F4D03F;
@@ -22,4 +19,13 @@
     padding: 5px;
     padding-left: 20px;
     height: 30px;
+}
+
+.action-bar {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 3em;
+    border-bottom: 1px solid #F4D03F;
 }

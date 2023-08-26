@@ -4,8 +4,8 @@ export const navigation = [
         name: "Home"
     },
     {
-        path: "positions",
-        name: "Positions"
+        path: "users",
+        name: "Users"
     },
     {
         path: "about",

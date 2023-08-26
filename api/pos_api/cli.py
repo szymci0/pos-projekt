@@ -21,6 +21,7 @@ def cli():
 @cli.command()
 @coroutine
 async def database_defaults():
+    drop_database()
     await inject_fixtures()
     click.echo("initialised database")
 
