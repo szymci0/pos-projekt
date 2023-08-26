@@ -16,7 +16,7 @@ export default {
     methods: {
         async handleClick(e) {
             const name = await countyService.getCountyByTeryt(e.target.id);
-            this.$emit('county-click', name);
+            this.$emit('county-click', name, e.target.id);
         },
     }
 }
