@@ -8,9 +8,14 @@
         />
         <div class="action-bar">
             <h1>COUNTY USERS</h1>
-            <button @click="showUpload = true">
-                Upload listing file
-            </button>
+            <div class="d-flex gap-2">
+                <button @click="downloadTemplate">
+                    Download template
+                </button>
+                <button @click="showUpload = true">
+                    Upload listing file
+                </button>
+            </div>
         </div>
         <div class="d-flex justify-content-center align-items-center">
             <v-client-table 
@@ -26,6 +31,7 @@
 <script>
 import { countyService, COUNTY_ENDPOINTS } from '@/services/county';
 import UploadModal from '@/components/UploadModal';
+import { downloadFile } from '@/utils/request';
 
 export default {
     name: "UsersView",
@@ -44,6 +50,11 @@ export default {
     methods: {
         async fetchUsersData() {
             this.usersData = await countyService.getUsers();
+        },
+        async downloadTemplate() {
+            await downloadFile({
+                downloadURL: COUNTY_ENDPOINTS.users + "/template"
+            })
         }
     }
 }
