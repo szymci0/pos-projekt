@@ -49,6 +49,7 @@ export default {
 					return alert(res.detail);
 				}
 			})
+			this.$emit('close')
 		}
 	}
 }

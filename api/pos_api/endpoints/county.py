@@ -8,7 +8,9 @@ from fastapi import (
 )
 from pos_api.app import app
 from pos_api.models.county import County
-from mongoengine.errors import DoesNotExist
+import io
+import pandas as pd
+
 from pydantic import BaseModel
 from typing import Optional
 
@@ -65,5 +67,13 @@ def get_counties_users():
     ]
 
 @router.post("/users/upload")
-def upload_users_file(file: UploadFile = File(...)):
-    print(file.filename)
+async def upload_users_file(file: UploadFile = File(...)):
+    if file.content_type != "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet":
+        raise HTTPException(status_code=400, detail="Only xlsx file available")
+    xlsx = io.BytesIO(await file.read())
+    df = pd.read_excel(xlsx)
+    for row in df.iterrows():
+        county = County.objects(name=row[1]["County"]).get()
+        county.users = county.users + row[1]["Users"].split(',')
+        county.save()
+    
