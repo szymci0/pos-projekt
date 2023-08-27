@@ -17,7 +17,7 @@
 </template>
 <script>
 import ModalComponent from '@/components/ModalComponent';
-
+import { FilesService } from '@/services/files';
 export default {
 	name: "UploadModal",
 	components: { ModalComponent },
@@ -29,7 +29,8 @@ export default {
 		show: {
 			type: Boolean,
 			default: false,
-		}
+		},
+		uploadUrl: null,
 	},
 	data() {
 		return {
@@ -40,15 +41,14 @@ export default {
 		handleSelect(event) {
 			this.uploadedFile = event.target.files[0];
 		},
-		handleUpload() {
-			let uploadParams = new FormData();
-			console.log(this.uploadedFile)
-			uploadParams.append(
-				'file',
-				this.uploadedFile,
-				this.uploadedFile.name,
-			);
-			console.log(uploadParams)
+		async handleUpload() {
+			FilesService.uploadFile({
+				file: this.uploadedFile,
+				url: this.uploadUrl,
+				onError: (res) => {
+					return alert(res.detail);
+				}
+			})
 		}
 	}
 }

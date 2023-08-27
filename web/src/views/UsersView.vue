@@ -4,6 +4,7 @@
             :show="showUpload"
             title="Upload listing file"
             @close="showUpload = false"
+            :uploadUrl="`${COUNTY_ENDPOINTS.users}/upload`"
         />
         <div class="action-bar">
             <h1>COUNTY USERS</h1>
@@ -23,7 +24,7 @@
     </div>
 </template>
 <script>
-import { countyService } from '@/services/county';
+import { countyService, COUNTY_ENDPOINTS } from '@/services/county';
 import UploadModal from '@/components/UploadModal';
 
 export default {
@@ -34,6 +35,7 @@ export default {
     },
     data() {
         return {
+            COUNTY_ENDPOINTS,
             usersData: [],
             columns: ["county", "users"],
             showUpload: false,

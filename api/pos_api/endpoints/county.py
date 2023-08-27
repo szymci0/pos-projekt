@@ -1,4 +1,11 @@
-from fastapi import APIRouter, Depends, HTTPException, Body
+from fastapi import (
+    APIRouter, 
+    Depends, 
+    HTTPException, 
+    Body, 
+    UploadFile,
+    File,
+)
 from pos_api.app import app
 from pos_api.models.county import County
 from mongoengine.errors import DoesNotExist
@@ -56,3 +63,7 @@ def get_counties_users():
             "users": county.users
          } for county in counties if len(county.users)
     ]
+
+@router.post("/users/upload")
+def upload_users_file(file: UploadFile = File(...)):
+    print(file.filename)
