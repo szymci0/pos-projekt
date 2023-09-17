@@ -24,10 +24,6 @@
                         Log In
                     </button>
                 </form>
-                or
-                <button class="nav-btn" @click="signUp">
-                    Sign Up
-                </button>
             </div>
         </div>
     </div>
@@ -66,9 +62,6 @@ export default {
             }
             this.redirectAuthenticated();
         },
-        signUp() {
-            return alert('TOBEDONE');
-        }
     }
 }
 </script>
