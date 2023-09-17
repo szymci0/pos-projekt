@@ -7,11 +7,11 @@
             @close="showModal = false"
         >
             <template #body>
-                <input v-model="addEmail" type="text" placeholder="Email"/>
+                <input data-cy="add-user-input" v-model="addEmail" type="text" placeholder="Email"/>
                 <span data-cy="selected-county">Selected county: {{ countyName }}</span>
             </template>
             <template #footer>
-                <button @click="addUserToCounty">Add user</button>
+                <button data-cy="add-user" @click="addUserToCounty">Add user</button>
             </template>
         </ModalComponent>
         <div class="action-bar">

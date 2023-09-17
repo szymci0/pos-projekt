@@ -31,5 +31,17 @@ context("Map", () => {
         
         cy.get('[data-cy="selected-county"]')
             .should("contain.text", "Warszawa")
+        
+        cy.get('[data-cy="add-user-input"]')
+            .type("test@test.com")
+            .should("have.value", "test@test.com")
+        
+        cy.get('[data-cy="add-user"]')
+            .should("be.visible")
+            .click()
+        
+        cy.get('[data-cy="modal"]')
+            .should("not.be.visible")
+
     });
 })
