@@ -17,8 +17,8 @@
         <div class="action-bar">
             <h1>COUNTIES</h1>
             <div>
-                <input v-model="nameSearch" placeholder="Search county" type="text" />
-                <button v-if="!this.name.length" @click="handleSearch">
+                <input v-model="nameSearch" placeholder="Search county" type="text" data-cy="county-search" />
+                <button v-if="!this.name.length" @click="handleSearch" data-cy="search-button">
                     Search
                 </button>
                 <button v-else @click="clearSearch">
