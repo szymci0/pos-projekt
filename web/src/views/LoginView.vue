@@ -4,16 +4,26 @@
             <div class="formulaire">
                 <h1 class="mb-4">Welcome</h1>
                 <form class="form-group" @submit.prevent="logIn">
-                    <input v-model="emailLogin" placeholder="Email" type="email" required />
-                    <input v-model="passwordLogin" placeholder="Password" type="password" required />
-                    <button class="nav-btn" type="submit">
+                    <input 
+                        v-model="emailLogin" 
+                        placeholder="Email" 
+                        type="email" 
+                        required
+                    />
+                    <input 
+                        v-model="passwordLogin" 
+                        placeholder="Password" 
+                        type="password" 
+                        required
+                        />
+                    <button 
+                        class="nav-btn" 
+                        type="submit"
+                        data-cy="login-button"
+                    >
                         Log In
                     </button>
                 </form>
-                or
-                <button class="nav-btn" @click="signUp">
-                    Sign Up
-                </button>
             </div>
         </div>
     </div>
@@ -52,9 +62,6 @@ export default {
             }
             this.redirectAuthenticated();
         },
-        signUp() {
-            return alert('TOBEDONE');
-        }
     }
 }
 </script>

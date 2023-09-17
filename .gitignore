@@ -186,3 +186,6 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Cypress screenshots
+web/tests/e2e/cypress/screenshots

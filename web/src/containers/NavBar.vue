@@ -1,12 +1,16 @@
 <template>
     <div class="navbar d-flex justify-content-between align-items-center p-3 gap-2">
         <div class="d-flex align-items-center">
-            <button v-for="link in navLinks" @click="navigate(link.path)" :key="link.name" class="nav-btn">
+            <button v-for="link in navLinks" @click="navigate(link.path)" :key="link.name" class="nav-btn" :data-cy="link.dataCy">
                 {{ link.name.toUpperCase() }}
             </button>
         </div>
         <div>
-            <button class="nav-btn" @click="logOut">
+            <button 
+                class="nav-btn" 
+                @click="logOut"
+                data-cy="logout"
+            >
                 Log Out
             </button>
         </div>

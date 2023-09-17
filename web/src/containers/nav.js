@@ -5,10 +5,7 @@ export const navigation = [
     },
     {
         path: "users",
-        name: "Users"
+        name: "Users",
+        dataCy: "UsersNav",
     },
-    {
-        path: "about",
-        name: "About"
-    }
 ]

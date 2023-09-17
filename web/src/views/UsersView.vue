@@ -1,10 +1,21 @@
 <template>
     <div class="d-flex flex-column justify-content-start align-items-center p-4">
+        <UploadModal
+            :show="showUpload"
+            title="Upload listing file"
+            @close="showUpload = false"
+            :uploadUrl="`${COUNTY_ENDPOINTS.users}/upload`"
+        />
         <div class="action-bar">
             <h1>COUNTY USERS</h1>
-            <button>
-                Upload listing file
-            </button>
+            <div class="d-flex gap-2">
+                <button @click="downloadTemplate">
+                    Download template
+                </button>
+                <button @click="showUpload = true">
+                    Upload listing file
+                </button>
+            </div>
         </div>
         <div class="d-flex justify-content-center align-items-center">
             <v-client-table 
@@ -18,22 +29,32 @@
     </div>
 </template>
 <script>
-import { countyService } from '@/services/county';
+import { countyService, COUNTY_ENDPOINTS } from '@/services/county';
+import UploadModal from '@/components/UploadModal';
+import { downloadFile } from '@/utils/request';
 
 export default {
     name: "UsersView",
+    components: {UploadModal},
     async mounted() {
         await this.fetchUsersData();
     },
     data() {
         return {
+            COUNTY_ENDPOINTS,
             usersData: [],
-            columns: ["county", "users"]
+            columns: ["county", "users"],
+            showUpload: false,
         }
     },
     methods: {
         async fetchUsersData() {
             this.usersData = await countyService.getUsers();
+        },
+        async downloadTemplate() {
+            await downloadFile({
+                downloadURL: COUNTY_ENDPOINTS.users + "/template"
+            })
         }
     }
 }

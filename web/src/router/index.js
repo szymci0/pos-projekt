@@ -4,7 +4,6 @@ import { h,resolveComponent } from 'vue';
 
 const MainContainer = () => import("@/containers/MainContainer");
 const CountyView = () => import('@/views/CountyView');
-const AboutView = () => import('@/views/AboutView');
 const UsersView = () => import('@/views/UsersView');
 
 const LoginView = () => import('@/views/LoginView');
@@ -54,10 +53,6 @@ function configRoutes() {
           path: 'users',
           component: UsersView
         },
-        {
-          path: 'about',
-          component: AboutView
-        }
       ]
     },
     {

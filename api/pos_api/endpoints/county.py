@@ -1,15 +1,27 @@
-from fastapi import APIRouter, Depends, HTTPException, Body
+from fastapi import (
+    APIRouter, 
+    Depends, 
+    HTTPException, 
+    Body, 
+    UploadFile,
+    File,
+)
 from pos_api.app import app
 from pos_api.models.county import County
-from mongoengine.errors import DoesNotExist
+import io
+import pandas as pd
+from starlette.responses import FileResponse
 from pydantic import BaseModel
 from typing import Optional
+from pos_pkg.data import DATA_SOURCE
 
 router = APIRouter(
     prefix="/api/county",
     tags=["county"],
     dependencies=[Depends(app.users.current_user(active=True))],
 )
+
+users_filename =  "users_template.xlsx"
 
 
 class CountyPayload(BaseModel):
@@ -47,6 +59,7 @@ def add_user_to_county(payload: CountyPayload = Body(...)):
         county.users.append(payload.user)
     county.save()
 
+
 @router.get("/users/list")
 def get_counties_users():
     counties = County.objects()
@@ -56,3 +69,25 @@ def get_counties_users():
             "users": county.users
          } for county in counties if len(county.users)
     ]
+
+
+@router.get("/users/template")
+def get_users_template():
+    return FileResponse(
+        DATA_SOURCE / users_filename,
+        media_type="application/octet-stream",
+        filename=users_filename,
+    )
+
+
+@router.post("/users/upload")
+async def upload_users_file(file: UploadFile = File(...)):
+    if file.content_type != "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet":
+        raise HTTPException(status_code=400, detail="Only xlsx file available")
+    xlsx = io.BytesIO(await file.read())
+    df = pd.read_excel(xlsx)
+    for row in df.iterrows():
+        county = County.objects(name=row[1]["County"]).get()
+        county.users = county.users + row[1]["Users"].split(',')
+        county.save()
+    

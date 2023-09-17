@@ -7,18 +7,18 @@
             @close="showModal = false"
         >
             <template #body>
-                <input v-model="addEmail" type="text" placeholder="Email"/>
-                <span>Selected county: {{ countyName }}</span>
+                <input data-cy="add-user-input" v-model="addEmail" type="text" placeholder="Email"/>
+                <span data-cy="selected-county">Selected county: {{ countyName }}</span>
             </template>
             <template #footer>
-                <button @click="addUserToCounty">Add user</button>
+                <button data-cy="add-user" @click="addUserToCounty">Add user</button>
             </template>
         </ModalComponent>
         <div class="action-bar">
             <h1>COUNTIES</h1>
             <div>
-                <input v-model="nameSearch" placeholder="Search county" type="text" />
-                <button v-if="!this.name.length" @click="handleSearch">
+                <input v-model="nameSearch" placeholder="Search county" type="text" data-cy="county-search" />
+                <button v-if="!this.name.length" @click="handleSearch" data-cy="search-button">
                     Search
                 </button>
                 <button v-else @click="clearSearch">
