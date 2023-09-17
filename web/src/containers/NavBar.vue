@@ -6,7 +6,11 @@
             </button>
         </div>
         <div>
-            <button class="nav-btn" @click="logOut">
+            <button 
+                class="nav-btn" 
+                @click="logOut"
+                data-cy="logout"
+            >
                 Log Out
             </button>
         </div>

@@ -4,7 +4,7 @@ context("Auth", () => {
     });
 
     it("Logout", () => {
-        cy.get('[data-cy="logout"').click();
+        cy.get('[data-cy="logout"]').click();
         cy.url().should("include", "login");
     });
 })
