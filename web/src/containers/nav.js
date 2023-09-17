@@ -8,8 +8,4 @@ export const navigation = [
         name: "Users",
         dataCy: "UsersNav",
     },
-    {
-        path: "about",
-        name: "About"
-    }
 ]
