@@ -3,7 +3,7 @@
         <UploadModal
             :show="showUpload"
             title="Upload listing file"
-            @close="showUpload = false"
+            @close="closeUploadModal"
             :uploadUrl="`${COUNTY_ENDPOINTS.users}/upload`"
         />
         <div class="action-bar">
@@ -22,6 +22,7 @@
                 class="county-users-table" 
                 :data="usersData" 
                 :columns="columns"
+                :key="refreshTable"
             >
 
             </v-client-table>
@@ -45,16 +46,22 @@ export default {
             usersData: [],
             columns: ["county", "users"],
             showUpload: false,
+            refreshTable: 0,
         }
     },
     methods: {
         async fetchUsersData() {
             this.usersData = await countyService.getUsers();
+            this.refreshTable += 1;
         },
         async downloadTemplate() {
             await downloadFile({
                 downloadURL: COUNTY_ENDPOINTS.users + "/template"
             })
+        },
+        async closeUploadModal() {
+            this.showUpload = false;
+            await this.fetchUsersData();
         }
     }
 }
