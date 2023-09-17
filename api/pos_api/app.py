@@ -2,7 +2,6 @@ import uvicorn
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from starlette.templating import Jinja2Templates
 
 from pos_api.utils.app import  (
     catch_exceptions_middleware,
