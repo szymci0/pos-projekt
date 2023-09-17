@@ -1,4 +1,4 @@
-context("Map", () => {
+describe("Map", () => {
     before(() => {
         cy.login();
         cy.saveLocalStorage();

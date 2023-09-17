@@ -1,9 +1,6 @@
-context("Auth", () => {
-    it("Login", () => {
+describe("Auth", () => {
+    it("Login - Logout", () => {
         cy.login();
-    });
-
-    it("Logout", () => {
         cy.get('[data-cy="logout"]').click();
         cy.url().should("include", "login");
     });
