@@ -87,7 +87,7 @@ async def upload_users_file(file: UploadFile = File(...)):
     xlsx = io.BytesIO(await file.read())
     df = pd.read_excel(xlsx)
     for row in df.iterrows():
-        county = County.objects(name=row[1]["County"]).get()
+        county = County.objects(name=row[1]["County"]).first()
         county.users = county.users + row[1]["Users"].split(',')
         county.save()
     
