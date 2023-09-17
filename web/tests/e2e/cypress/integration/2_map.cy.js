@@ -4,7 +4,11 @@ context("Map", () => {
         cy.saveLocalStorage();
     });
 
-    it("Search county", () => {
+    beforeEach(() => {
+        cy.restoreLocalStorage();
+    });
+
+    it("County map", () => {
         cy.get('[data-cy="county-search"]')
             .should("be.visible")
             .type("Gniew")
@@ -16,7 +20,16 @@ context("Map", () => {
         cy.wait(1000)
         
         cy.get('[id="2214023"]')
-            .should("have.css", "fill", "rgb(255, 0, 0)")
-            
-    })
+            .should("have.css", "fill", "rgb(255, 0, 0)")    
+        
+        cy.get('[id="1465011"]')
+            .should("be.visible")
+            .click()
+        
+        cy.get('[data-cy="modal"]')
+            .should("be.visible")
+        
+        cy.get('[data-cy="selected-county"]')
+            .should("contain.text", "Warszawa")
+    });
 })

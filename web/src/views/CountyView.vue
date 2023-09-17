@@ -8,7 +8,7 @@
         >
             <template #body>
                 <input v-model="addEmail" type="text" placeholder="Email"/>
-                <span>Selected county: {{ countyName }}</span>
+                <span data-cy="selected-county">Selected county: {{ countyName }}</span>
             </template>
             <template #footer>
                 <button @click="addUserToCounty">Add user</button>

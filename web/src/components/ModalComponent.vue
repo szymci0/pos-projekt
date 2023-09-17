@@ -1,5 +1,5 @@
 <template>
-    <div class="c-modal-wrapper" v-show="show">
+    <div class="c-modal-wrapper" v-show="show" data-cy="modal">
         <div class="c-modal">
             <div class="c-modal-header">
                 <h5>{{ title }}</h5>
